@@ -269,6 +269,56 @@ now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 
+香港测试,#genre#
+TVB 翡翠台,https://app.kds.tw/live/tvb1.php?id=jade&u=123456#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+TVB 明珠台,http://144.48.240.144:2019/SunTv.php?name=XGMingZhu#https://app.kds.tw/live/tvb1.php?id=pearl&u=123456#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+TVB J2台,https://app.kds.tw/live/tvb1.php?id=j2&u=123456
+TVB 无线新闻,https://app.kds.tw/live/tvb1.php?id=inews&u=97058412
+华丽台,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0.ts
+TVB 星河,https://116.77.72.195/streams/d/tvbxh/playlist.m3u8
+有线630,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215
+
+tvbus测试,#genre#
+翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
+VIUTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
+有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
+壹電視新聞臺,tvbus://3vV62mq6ySuAqMTWa5CMu5D3cCvHJW6R9ovGD8NFZ5Frnoi3yw
+東森新聞_HD,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD
+中天新聞,tvbus://3YxGkBY7FXC8C7f8s8KS4kXx7HzrJH9TuZUMYNvQ7mdRJRmefn
+華視新聞資訊HD,tvbus://4bXErNowbPaLmZCw6GGr1NrZ6jRGAUYRqafuqxedqFqMjyqmck
+民視臺灣臺HD,tvbus://3HPyMYoibRtsxo79vMDXLKmaSMrXFYCNtSfAvuFYKanTzpuVEA
+中視新聞HD,tvbus://4CyY2AjjqMuQE2X9J2dXTGrxc9aP77J2FimJe2mpyYJgPtz3st
+寰宇新聞二臺,tvbus://3sUW81UMFLkegQrzbuihwofCUTvhAu4fN7iKnC9u8FJijcmjkh
+非凡新聞_HD,tvbus://3QaHJSx5sUy3jBB4nrWt9hSMPN5sqY844rGU3HxKhY9frgKGQW
+民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
+民視,p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
+中視,tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ
+華視,p8p://0198.02686.cc:16871/5e0b4555000e6c89082827022892f415.ts
+臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
+公視,tvbus://3foqWReSshcvfmDRwDyqyhc9Hc47hNirRBf3QY9EfaeRK1PRKQ
+公視2,tvbus://4A2ttkJVJVxoccwQPr2GtsJoedSLdk6YvnCckmkFG3BKwsxn5e
+公視3,tvbus://4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd
+八大第一,tvbus://4G1Pp66jJvD2c1TykPUhYZuUffSuKurALHDfGpYSwySt9BUkAQ
+八大綜合,tvbus://4UdVcVYG7btLGnDRmPcS8L1Cyq69HhZ5kh5WGg9yKLGKZNMkHt
+三立臺灣,tvbus://12AJmEiuRVBZnnPNvtLLU1ohJZuiVUeD4vEVwkBpXj4rcChvwSF
+RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
+RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
+
+P8P测试,#genre#
+翡翠臺,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
+無綫新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+J2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+TVB星河,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
+翡翠台,p8p://174.128.239.252:16871/5d1a69fb000eb19011bef55c89140144.ts
+無綫新聞台,p8p://174.128.239.252:16871/5d1a69dc000d64b611be7bef5757286e.ts
+有线新聞台,P2p://185.169.196.146:9906/5cb05bfa0004baf417a82ed0351d3696.ts
+J2,p8p://174.128.239.252:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+明珠台,p8p://174.128.239.252:16871/5d1a69c0000460ab11be0c40e08de9fb.ts
+明珠台,p8p://174.128.239.252:16871/5d1a69de0005348e11be81a666c79a56.ts
+TVB星河,p8p://174.128.239.252:16871/5d1a69940005adb211bd60b57a4af31b.ts
+RTHK31,p8p://174.128.239.252:16871/5d495caf000f16ce956b79188dfc18de.ts
+
 AV(1)源_1111,#genre#
 惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.mu38#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.mu38#mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
