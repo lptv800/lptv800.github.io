@@ -353,10 +353,7 @@ J2台,P2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
 无线财经资讯台,P2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts
 明珠台,P2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
 明珠台,P2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
-星河频道,P2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
-TV,P2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
-viu TV,P2p://lino.homeunix.com:6007/5ad32bae0001dd1049ed9be114c818f0.ts
-viu 6,P2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
+viu TV,P2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
 港视31,P2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
 港视32,P2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
 港视31,P2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
