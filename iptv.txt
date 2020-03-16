@@ -410,6 +410,12 @@ NTV7,P2p://198.255.74.57:12396/5e50208900003c0d3d331dd3360b1972.ts
 全佳,P2p://198.255.74.57:12396/5e502088000a71553d331c886218242c.ts
 双星,P2p://198.255.74.57:12396/5e5020880009a19e3d331c53cb182bc5.ts
 
+测试源,#genre#
+J2,http://pull.scphsd.com/live/f85f4b32af7e92de40860438e011bfa4/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158433977263449&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
+翡翠台,http://pull.scphsd.com/live/2511ae35244645ff2d28e7f4066afc32/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158433993284595&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
+viu TV,http://pull.scphsd.com/live/074773d8ac4e3460b6d727dc2eca6223/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158434003603561&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
+无线新闻台,http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158434018477041&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
+
 AV(1)源_1111,#genre#
 惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.mu38#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.mu38#mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
