@@ -7,3 +7,13 @@ http://pull.scphsd.com/live/2511ae35244645ff2d28e7f4066afc32/playlist.m3u8?wsSes
 http://pull.scphsd.com/live/074773d8ac4e3460b6d727dc2eca6223/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158434003603561&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
 #EXTINF:-1,无线新闻台
 http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158434018477041&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
+#EXTINF:-1,J2
+http://pull.scphsd.com/live/f85f4b32af7e92de40860438e011bfa4/playlist.m3u8
+#EXTINF:-1,翡翠
+http://pull.scphsd.com/live/2511ae35244645ff2d28e7f4066afc32/playlist.m3u8
+#EXTINF:-1,无线
+http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d/playlist.m3u8
+#EXTINF:-1,新闻一
+http://pull.scphsd.com/live/3dc9147768729c82fdf7e62c6af19af1/playlist.m3u8
+#EXTINF:-1,新闻二
+http://pull.scphsd.com/live/acfb09476c44cdf49656c80d2d8eda6c/playlist.m3u8
