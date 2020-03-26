@@ -152,22 +152,27 @@ CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 CCTV-4K超清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 纯享4K频道,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-CCTV1,mitv://147.135.39.171:9906/5d09317c0007e99afd3056ba00257e6f.ts
-CCTV2,mitv://147.135.39.171:9906/5d09317d0000bebcfd3058cd7d573245.ts
-CCTV3,mitv://147.135.39.171:9906/5d09317c0001945bfd3055236aab4c12.ts
-CCTV4,mitv://147.135.39.171:9906/5d09317b0008ed01fd30532027974771.ts
-CCTV5,mitv://147.135.39.171:9906/5defdaa20006951f6ea06d5b0b04771d.ts
-CCTV5+,mitv://147.135.39.171:9906/5defdaa2000abe986ea06e6573b7613d.ts
-CCTV6,mitv://147.135.39.171:9906/5d09317c00033058fd305591319e7545.ts
-CCTV7,mitv://147.135.39.171:9906/5d09317c00096eb4fd30572738845ae0.ts
-CCTV8,mitv://147.135.39.171:9906/5d09317c0004c884fd3055ef169007fe.ts
-CCTV9,mitv://147.135.39.171:9906/5d09317c00066c22fd30565c62376d8b.ts
-CCTV10,mitv://147.135.39.171:9906/5d09317c000ad919fd3057857bc11667.ts
-CCTV11,mitv://147.135.39.171:9906/5d09317c000c7145fd3057e35974736a.ts
-CCTV12,mitv://147.135.39.171:9906/5d09317c000df65ffd3058503bc565fa.ts
-CCTV13,mitv://147.135.39.171:9906/5d09317100003d09fd3029ce3bd9335b.ts
-CCTV14,mitv://147.135.39.171:9906/5d0931710009a04bfd302c3f529d770d.ts
-CCTV15,mitv://147.135.39.171:9906/5d093171000b532bfd302cac08fd22b4.ts
+CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
+CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV-3蓝光,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+CCTV-4蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV-5蓝光,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/#http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+CCTV-5+蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV-7蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV-8蓝光,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+CCTV-9蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+CCTV-10蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+CCTV-11蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+CCTV-12蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-13蓝光,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+CCTV-14蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
+CCTV-4K蓝码,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K高码,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+纯享4K频道,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+百事4K频道,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 CCTV-1綜合HD,mitv://198.255.74.57:12396/5e50205a00071a0e3d3267fdc3310ef3.ts
 CCTV-2財經,mitv://198.255.74.57:12396/5e50205a00063dca3d3267c5d6706a00.ts
 CCTV-3綜藝HD,mitv://198.255.74.57:12396/5e50205a0005fb263d3267b4d3a06de2.ts
@@ -422,6 +427,15 @@ RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 台 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
 公 视HD,P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
 公 视3HD,P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+
+HK高清源,#genre#
+大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
+大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
+有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31
+无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9#http://www.liveviptv.xyz/tv/tvb.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+TVB翡翠,http://hk.tv0668.com/dl/hk520.php?id=1#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+J2,http://hk.tv0668.com/dl/hk520.php?id=12
+TVB明珠【00:00】,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://hk.tv0668.com/dl/hk520.php?id=13
 
 AV(1)源_1111,#genre#
 惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.mu38#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
