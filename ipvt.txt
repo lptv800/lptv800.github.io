@@ -494,4 +494,12 @@ RHK32,http://zhibo123.top/fmiptv/live/gtds.php?id=148
 有线新闻,http://zhibo123.top/fmiptv/live/gtds.php?id=127
 中视,http://iptv.52qdg.com/iptv.php?id=tw&pamid=012
 
+HK高清源,#genre#
+大愛1台,http://tv1.wanfudaluye.com/live/live.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
+大爱2台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
+有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31
+无线新闻,http://hk.tv0668.com/dl/hk520.php?id=9#http://www.liveviptv.xyz/tv/tvb.php#http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+TVB翡翠,http://hk.tv0668.com/dl/hk520.php?id=1#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+J2,http://hk.tv0668.com/dl/hk520.php?id=12
+TVB明珠【00:00】,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12#http://hk.tv0668.com/dl/hk520.php?id=13
 
