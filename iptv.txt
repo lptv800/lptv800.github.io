@@ -319,6 +319,7 @@ viu TV,P2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts
 HK Macau(2）,#genre#
 HKC综合娱乐台,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
 HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+无线新闻(代理源),http://315600.xyz/tvb.php
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts#p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts#sop://p2p.cibn.cc:80/100014$P2P高清
 TVBS 新闻,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8#msc://CTVBSNews
 VIU 6台,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
