@@ -501,6 +501,28 @@ RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 Astro双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
 Astro全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
 
+MSC源,#genre#
+翡翠台-香港时,msc://CJHK5
+翡翠台-加美西,msc://CJCA5W
+翡翠台-加美东,msc://CJCA5E
+翡翠台-普通话,msc://CJMandarin5
+翡翠台-英欧版,msc://CJUK5
+翡翠台-澳門,msc://CJMacau5
+TVB J2,msc://CJ25
+TVB星河台,msc://CXHMovie
+TVB直播台,msc://CTVBL5
+TVB新聞台,msc://CIN5
+TVB台,msc://CTVBL5TVB
+TVB 8台,msc://CTVB8
+TVBS新聞台,msc://CTVBSNews
+TVBS亞洲台,msc://CTVBSAsia
+
+
+
+
+
+
+
 
 
 
