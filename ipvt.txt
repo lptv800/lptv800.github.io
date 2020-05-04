@@ -324,15 +324,6 @@ now新闻，tvbus：// 3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 明珠台，p8p：//0198.02686.cc：16871 / 5d1a69de0005348e11be81a666c79a56.ts
 TVB星河，tvbus：// 2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 
-香港测试,＃genre＃
-TVB翡翠台，https：//app.kds.tw/live/tvb1.php？id = jade＆u = 123456＃http：//116.199.5.52：8114/00000000 / index.m3u8？＆Fsv_ctype = LIVES＆Fsv_otype = 1＆FvSeid = 5abd1660af1babb4＆Fsv_file 1＆Fsv_ctype = LIVES＆Fsv_cid = 0＆Fsv_chan_hls_se_idx = 188＆Fsv_rate_id = 0＆Fsv_SV_PARAM1 = 0＆Fsv_ShiftEnable = 0＆Fsv_ShiftTsp = 0＆Provider_id =＆Pcontent_id =＆Fsv__res_tag_ = video
-TVB明珠台，http：//144.48.240.144：2019 / SunTv.php？name = XGMingZhu＃https：//app.kds.tw/live/tvb1.php？id = pearl＆u = 123456＃http：//116.199。 5.52：8114/00000000 / index.m3u8＆Fsv_ctype = LIVES＆Fsv_otype = 1＆FvSeid = 5abd1660af1babb4＆Pcontent_id =＆PROVIDER_ID =＆Fsv_chan_hls_se_idx = 12＃的http：//116.199.5.51：8114/00000000 / 2e368e04c76446bc9d30ca7a9f934dae / index.m3u8 Fsv_cid = 1034＆Fsv_chan_hls_se_idx = 12＆Fsv_ctype = LIVES＆版本= 9＆Fsv_rate_id = 1＆Fsv_otype = 1＆FvSeid = 5abd1660af1babb4＆Pcontent_id = 7f88be5fb6fd426494f6aa240f1dc7a9＆PROVIDER_ID = 00000000＆Fsv_filetype = 1＆Fsv_ShiftEnable = 0＆Fsv_SV_PARAM1 = 0＆Fsv_ShiftTsp = 240＆Fsv_CMSID = 00000000＆AUTHINFO = P2ZSH2gNMZ8aiVfV％2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO％2F％0AOFrWyxI％2BtteLTJnZKT7Lg8BRYQNXMQU％3D％0A
-TVB J2台，https：//app.kds.tw/live/tvb1.php？id = j2＆u = 123456
-TVB无线新闻，https：//app.kds.tw/live/tvb1.php？id = inews＆u = 97058412
-华丽台，p2p：//fccsovh.pvbox.live：18912 / 5b3c4fa10001acfa627f067273f636b0.ts
-TVB星河，https：//116.77.72.195/streams/d/tvbxh/playlist.m3u8
-有线630，rtmp：//112.30.135.40：1935 / live-zb.nanhailong.com / live / ch215
-
 tvbus测试,＃genre＃
 翡翠台，电视总线：// 3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
 VIUTV，tvbus：// 3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
@@ -405,17 +396,6 @@ VIU 6台,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
 TVB8,msc://CTVB8
 TVB新闻台,msc://CIN5
 TVBS 台,msc://CTVBSAsia
-
-测试源,#genre#
-J2,http://pull.scphsd.com/live/f85f4b32af7e92de40860438e011bfa4/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158433977263449&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
-翡翠台,http://pull.scphsd.com/live/2511ae35244645ff2d28e7f4066afc32/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158433993284595&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
-viu TV,http://pull.scphsd.com/live/074773d8ac4e3460b6d727dc2eca6223/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158434003603561&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
-无线新闻台,http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d/playlist.m3u8?wsSession=fbf64dc5e30ede6b948b8a81-158434018477041&wsIPSercert=e10d4eb3e6546cd0bd12229f2500bb7a&wsMonitor=0
-J2,http://pull.scphsd.com/live/f85f4b32af7e92de40860438e011bfa4/playlist.m3u8
-翡翠,http://pull.scphsd.com/live/2511ae35244645ff2d28e7f4066afc32/playlist.m3u8
-无线,http://pull.scphsd.com/live/f51c376793660e726f1ef485a40a9d6d/playlist.m3u8
-新闻一,http://pull.scphsd.com/live/3dc9147768729c82fdf7e62c6af19af1/playlist.m3u8
-新闻二,http://pull.scphsd.com/live/acfb09476c44cdf49656c80d2d8eda6c/playlist.m3u8
 
 港台,#genre#
 雙星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
@@ -500,6 +480,46 @@ RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 香港卫视HKS,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 Astro双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
 Astro全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
+
+港湾台,#genre#
+香港KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+TVB翡翠,http://47.240.60.73/xaors/mlxy.php?channel=f9c0fc853c9dd0b6be92eacc07943460
+TVB J2,http://47.240.60.73/xaors/mlxy.php?channel=4e2a008fe0f5173222b99f03c1560d7b
+RH31,http://47.240.60.73/xaors/mlxy.php?channel=7e747f53a7c2846d3d23f9a070dbbd1e
+RH32,http://47.240.60.73/xaors/mlxy.php?channel=814bcfd3ba242e7f6f2d3cd4287607db
+VIU tv,http://47.240.60.73/xaors/mlxy.php?channel=067582cf579161f572cdbb61e66566a7
+VIU6 tv,http://47.240.60.73/xaors/mlxy.php?channel=20277db4537deab325dde76751e884f7
+无线财经,http://47.240.60.73/xaors/mlxy.php?channel=2f65e491386884782472699bcc1efef7
+无线新闻,http://47.240.60.73/xaors/mlxy.php?channel=c401bb84625c372236da993f643d5674
+有线新闻,http://47.240.60.73/xaors/mlxy.php?channel=ede1d83bf1194048d44db9ae3d8f504b
+华视,http://47.240.60.73/xaors/mlxy.php?channel=61ea04402fef3b5b882cbbfff520f88f#rtmp://xiaoyu.speedws.com/sat/tv111
+公视,http://47.240.60.73/xaors/mlxy.php?channel=22135c0a31d3ab68940e6b9cc7104a51#vjms://58.215.133.161:8500/live/cid=236
+公视台语台,http://111.13.111.192/125.227.198.89:8005
+中視HD,rtmp://xiaoyu.speedws.com/sat/tv091
+中视经典,http://47.240.60.73/xaors/mlxy.php?channel=2b7ed237c2191c454f4d5e1ab4017d32
+中视新闻,http://47.240.60.73/xaors/mlxy.php?channel=7dbb820b9ccb1180885eb2ed0c231bb8
+民视,http://47.240.60.73/xaors/mlxy.php?channel=dbc824c04b4200f92e3b85cbc59f434e#rtmp://xiaoyu.speedws.com/sat/tv051#vjms://58.215.133.161:8500/live/cid=450
+民视台湾,http://47.240.60.73/xaors/mlxy.php?channel=2d60e9c2bff00c37e90006cd4935ccd7
+民视第一,http://111.13.111.192/125.227.198.89:8024
+民视台湾台,http://111.13.111.192/125.227.198.89:802
+民视新闻,http://47.240.60.73/xaors/mlxy.php?channel=8f0cfe02045f163efbf510131233ef38
+台视,http://47.240.60.73/xaors/mlxy.php?channel=2ddfaf5fa08619bf48c2246c25147689#rtmp://xiaoyu.speedws.com/sat/tv071
+台视新闻,http://47.240.60.73/xaors/mlxy.php?channel=18393f7cd51e6291f7ca8b6af98d1744
+台视综合,http://111.13.111.192/125.227.198.89:8004
+寰宇新闻,http://47.240.60.73/xaors/mlxy.php?channel=fe4e088a8d8e10cc20a012c17cf1c3a6#http://47.240.60.73/xaors/mlxy.php?channel=edfd39a1986a9e16a2b71d295b01a098
+中天综合,http://47.240.60.73/xaors/mlxy.php?channel=02f108bdfea98407fde2f64d0160b458
+中天新闻,http://47.240.60.73/xaors/mlxy.php?channel=9cc23cfaa77c63bbdf5c25b427c89837#http://47.240.60.73/xaors/mlxy.php?channel=efbd809fffc18733f2385aee2597858a
+中天亚洲,http://47.240.60.73/xaors/mlxy.php?channel=4f65eafd2a2417342c1b871464351e66
+TVBS HD,http://47.240.60.73/xaors/mlxy.php?channel=8978865d3550043580868e20104181db
+TVBS新闻,http://47.240.60.73/xaors/mlxy.php?channel=7bfd061991d40f48a4741a9e2daf1723
+TVBS欢乐,http://47.240.60.73/xaors/mlxy.php?channel=e0d80357ddd31b626f9f7c57566a72fb
+壹综合,http://47.240.60.73/xaors/mlxy.php?channel=388e757f4aeb9da2d38a1f2540e4cb8b
+壹新闻,http://47.240.60.73/xaors/mlxy.php?channel=285c2cf3320aaff19b951d813fa63834
+寰宇综合,http://47.240.60.73/xaors/mlxy.php?channel=57100713ac18ccf8c1366a09306bfbdd
+寰宇财经,http://47.240.60.73/xaors/mlxy.php?channel=8f80724de483598e8fab2871d4c28f84
+Astro_華麗臺,http://47.240.60.73/xaors/mlxy.php?channel=e5e127c858a11f24dcce918bd5838913
+Astro_歡喜臺,http://47.240.60.73/xaors/mlxy.php?channel=3de4ad6eb09f1c115ee9c260efa85942
+Astro_雙星臺,http://47.240.60.73/xaors/mlxy.php?channel=a8b2a54597bbcc99ea1456264b72eab7
 
 MSC源,#genre#
 翡翠台-香港时,msc://CJHK5
