@@ -501,21 +501,27 @@ TVB HD 1,P2p://190.2.146.92:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts
 VIU TV 6,P2p://190.2.146.92:18912/5b1409fd000796832c596cce2bc28153.ts 
 VIU TV,P2p://190.2.146.92:18912/5b14095400066519f4a0f9004b5ad80f.ts 
 
-MSC源,#genre#
-翡翠台-香港时,msc://CJHK5
-翡翠台-加美西,msc://CJCA5W
-翡翠台-加美东,msc://CJCA5E
-翡翠台-普通话,msc://CJMandarin5
-翡翠台-英欧版,msc://CJUK5
-翡翠台-澳門,msc://CJMacau5
-TVB J2,msc://CJ25
-TVB星河台,msc://CXHMovie
-TVB直播台,msc://CTVBL5
-TVB新聞台,msc://CIN5
-TVB台,msc://CTVBL5TVB
-TVB 8台,msc://CTVB8
-TVBS新聞台,msc://CTVBSNews
-TVBS亞洲台,msc://CTVBSAsia
+测试源,#genre#
+TVB翡翠台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=78&ip=1#mitv://47.115.141.24:19956/5eb06c530006f23f302a788ef5645b9e
+TVB J2,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=74&ip=1#mitv://47.115.141.24:19956/5eb06c530008a151302a78fc1b80a91f
+TVB明珠台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=77&ip=1#http://prdsecurelive.ainemo.com/live/2020225mzt.flv#mitv://47.115.141.24:19956/5eb06c5000098dac302a6d81b53b55d0
+无线新闻台,http://ldtv.5ay.xyz/daili/tvb.php?id=inews?is_hd#http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=73&ip=1#mitv://47.115.141.24:19956/5eb06c530007cad8302a78c5046006b2
+有线18台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=59&ip=1
+有线新闻台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=62&ip=1#mitv://47.115.141.24:19956/5eb06c500000fa4e302a6b4fd4959da6
+香港开电视,mitv://47.115.141.24:19956/5eb06c530006a380302a787abb13505e
+RHK32,mitv://47.115.141.24:19956/5eb06c500008b6df302a6d4a04e27e27
+ViuTV,mitv://47.115.141.24:19956/5eb06c500007d826302a6d11460c605e
+ViuTV six,mitv://47.115.141.24:19956/5eb06c50000705a7302a6cdb5274a866
+中天综合,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=41&ip=1
+中天新闻,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=42&ip=1
+公视,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=43&ip=1
+民视HD,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=44&ip=1#mitv://47.115.141.24:39956/5ea1bf83000ea4ad0606b831b2b437e6
+台视HD,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=45&ip=2#mitv://47.115.141.24:39956/5ea1bf83000dc5b00606b7f706396ebc
+华视HD,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=46&ip=1#mitv://47.115.141.24:39956/5ea1bf83000c73ae0606b7a16cf85902
+中视HD,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=47&ip=1#mitv://47.115.141.24:39956/5ea1bf840003c76b0606b951d12de06b
+江门综合,rtsp://183.59.156.50/PLTV/88888905/224/3221228190/10000100000000060000000007511873_0.smil?icpid=88888888
+江门公共,rtsp://183.59.156.50/PLTV/88888905/224/3221228162/10000100000000060000000007511874_0.smil?icpid=88888888
+江门教育,rtsp://183.59.156.50/PLTV/88888905/224/3221228083/10000100000000060000000007511872_0.smil?icpid=88888888
 
 AV新源_1111,#genre#
 松视1台,p2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#p2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
