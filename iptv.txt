@@ -534,19 +534,17 @@ Pandola HD,p2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#p
 彩虹电影,p2p://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
 HOT,p2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
 大人台,p2p://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
-玩家頻道(代理),http://sytv.applinzi.com/hatvb.php?id=401
-Happy 頻道(代理),http://sytv.applinzi.com/hatvb.php?id=402
-HOT 頻道(代理),http://sytv.applinzi.com/hatvb.php?id=403
-松視4台(代理),http://sytv.applinzi.com/hatvb.php?id=404
-松視1台(代理),http://sytv.applinzi.com/hatvb.php?id=405
-松視2台(代理),http://sytv.applinzi.com/hatvb.php?id=406
-松視3台(代理),http://sytv.applinzi.com/hatvb.php?id=407
-彩虹(代理),http://sytv.applinzi.com/hatvb.php?id=408
-叮噹CR電視台(代理),http://sytv.applinzi.com/hatvb.php?id=409
-樂活頻道(代理),http://sytv.applinzi.com/hatvb.php?id=410
-潘朵拉玩美台(代理),http://sytv.applinzi.com/hatvb.php?id=411
-潘朵拉粉紅台(代理),http://sytv.applinzi.com/hatvb.php?id=412
-驚艷CR電視台(代理),http://sytv.applinzi.com/hatvb.php?id=413
+松视1台,mitv://51.79.41.138:18912/5c18f8fb00064883ab4a7502e99eb880.ts#mitv://51.79.41.138:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
+松視2台,mitv://51.79.41.138:18912/5c18f8f7000d865da227cc18456f9b78.ts
+松視3台,mitv://51.79.41.138:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
+惊艳电影台,mitv://51.79.41.138:18912/5c18f9100006a3e277957d172c265f60.ts
+潘朵拉粉红,mitv://51.79.41.138:18912/5c18f90c000e82295eddee09ba5154d2.ts
+潘朵拉玩美,mitv://51.79.41.138:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
+香蕉台,mitv://51.79.41.138:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
+彩虹e台,mitv://51.79.41.138:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
+彩虹电影,mitv://51.79.41.138:18912/5c18f8eb000ca18052d40238dd95b247.ts
+HOT,P2p://51.79.41.138:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
+彩虹K频道,mitv://51.79.41.138:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
 
 AV(1)源_1111,#genre#
 惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.mu38#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
