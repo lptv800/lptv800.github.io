@@ -623,7 +623,7 @@ AV新源_1111,#genre#
 松視3台,p2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
 驚豔台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
 Pandola HD,p2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#p2p://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-香蕉台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=12&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=12&xl=1
+香蕉台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
 彩虹台,p2p://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
 彩虹电影,p2p://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
 HOT,p2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
