@@ -617,6 +617,41 @@ TVBS新聞,http://ddbb.228888888.xyz:8081/live/tw104.m3u8
 壹新闻,http://ddbb.228888888.xyz:8081/live/tw115.m3u8
 RHK31,http://bddb.228888888.xyz:8081/live/ws102.m3u8
 
+mitv港台源,#genre#
+2-翡翠,mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c.ts
+1-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts
+2-無線新聞,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e.ts
+1-無線新聞,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
+2-J2,mitv://fccsovh.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8.ts
+1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7.ts
+HKC新聞,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdeaf5cf3e29388f23b.ts
+VIUTV6,mitv://fccsovh.pvbox.live:18912/5b1409fd00079683e40ddeabc387bebe.ts
+VIU,mitv://fccsovh.pvbox.live:18912/5b1409540006651984a9ca91efafbed5.ts
+民視,mitv://fccsovh.pvbox.live:18912/5b1409690006a24acfbabb91ec0f234f.ts
+台視 HD,mitv://fccsovh.pvbox.live:18912/5b14095f000570be74b4fccb70fa64cb.ts
+大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716879b326d40ca6bf1b.ts
+中視 HD,mitv://fccsovh.pvbox.live:18912/5b14095f00075e714e7f2ef79f51122f.ts
+華視HD,mitv://fccsovh.pvbox.live:18912/5b14095f000efa0ea81d40679a25d5c5.ts
+公視,mitv://fccsovh.pvbox.live:18912/5b1409600001a0b215f1dd816feb0eaa.ts
+RTHK31,mitv://fccsovh.pvbox.live:18912/5badd38d000891c439974cfa21f26282.ts
+RTHK32,mitv://fccsovh.pvbox.live:18912/5badd3910003a73d9e541f569e7149a1.ts
+Astro AOD,mitv://fccsovh.pvbox.live:18912/5d66315100033ff6111660cc3931cedd.ts
+Astro 歡喜,mitv://fccsovh.pvbox.live:18912/5d650431000dec1fce0e032d58cd9723.ts
+Astro 全佳,mitv://fccsovh.pvbox.live:18912/5e649e220009754db7444acc7e7d3baf.ts
+Astro 雙星,mitv://fccsovh.pvbox.live:18912/5e649e230009b28469b1a70a9e98b931.ts
+Astro 華麗,mitv://fccsovh.pvbox.live:18912/5e649e20000e77473d594233cf068e0d.ts
+
+港台源68套,#genre#
+TVB无线新闻台HD,http://live.52ypp.com:81/hk.php?id=8
+TVB无线新闻台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=9#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=8
+TVB翡翠台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=10#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=11
+TVB翡翠台HD,http://live.52ypp.com:81/hk.php?id=10#http://live.52ypp.com:81/hk.php?id=9
+TVBJ2台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=14#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=13
+TVB明珠台,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=12
+ViuTV,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=4
+香港有线新闻,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=5#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=6
+NOW新闻台,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=16
+
 AV新源_1111,#genre#
 松视1台,p2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#p2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 松視2台,p2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
