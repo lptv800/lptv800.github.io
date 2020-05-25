@@ -697,7 +697,7 @@ ViuTV,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=4
 香港有线新闻,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=5#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=6
 NOW新闻台,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=16
 
-$c_startAV新源$c_end
+$c_startAV新源_1111$c_end
 松视1台,p2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#p2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 松視2台,p2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
 松視3台,p2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
@@ -732,7 +732,7 @@ HOT,mitv://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
 大人台,mitv://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
 欢乐台,mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 
-$c_startAV(1)源$c_end
+$c_startAV(1)源_1111$c_end
 惊艳台HD,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.mu38#mitv://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,P2p://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.mu38#mitv://51.79.41.138:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
 HOT星颜,P2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.mu38#mitv://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
