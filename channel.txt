@@ -45,7 +45,7 @@ viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
 公视3 HD,p2p://lino.homeunix.com:6007/5ac5da01000d09fc15e6046427920804.ts
  
 $c_startHK Macau$c_end
-HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+[emoji:HKS]HKS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#http://media.fantv.hk/m3u8/archive/channel2.m3u8
 RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RHK-31電視台,http://61.93.125.49:9981/stream/channelid/800825777?ticket=2e12aa19682c2fcf2bddacf8e4158ba7a160f77a&profile=pass
@@ -140,31 +140,31 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 民視台灣台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
 
 $c_startCCTV$c_end
-CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-CCTV-1蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-CCTV-2蓝光,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV-3蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV-3蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV-4蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-CCTV-4蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV-5蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV-5蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+[emoji:cctv1]CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+[emoji:cctv1]CCTV-1蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+[emoji:cctv2]CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+[emoji:cctv2]CCTV-2蓝光,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+[emoji:cctv3]CCTV-3蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+[emoji:cctv3]CCTV-3蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+[emoji:cctv4]CCTV-4蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+[emoji:cctv4]CCTV-4蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+[emoji:cctv5]CCTV-5蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+[emoji:cctv5]CCTV-5蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 CCTV-5+蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 CCTV-5+蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
-CCTV-7蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-CCTV-7蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV-8蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV-8蓝光,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV-9蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-CCTV-9蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV-10蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-CCTV-10蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-CCTV-11蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-CCTV-11蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-CCTV-12蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV-12蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+[emoji:cctv6]CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
+[emoji:cctv7]CCTV-7蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+[emoji:cctv7]CCTV-7蓝光,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+[emoji:cctv8]CCTV-8蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+[emoji:cctv8]CCTV-8蓝光,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+[emoji:cctv9]CCTV-9蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+[emoji:cctv9]CCTV-9蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+[emoji:cctv10]CCTV-10蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+[emoji:cctv10]CCTV-10蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+[emoji:cctv11]CCTV-11蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+[emoji:cctv11]CCTV-11蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+[emoji:cctv12]CCTV-12蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+[emoji:cctv12]CCTV-12蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 CCTV-13蓝光,http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-13蓝光,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-14蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
@@ -381,12 +381,12 @@ $c_start港台$c_end
 雙星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
 全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
 民視HD,vjms://58.215.133.184:8500:3502/live/cid=450
-翡翠台(备),mitv://147.135.39.171:9906/5d62c7a0000afce5bebe1ae54b99735a.ts
-J2,mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
-无线新闻台(备),mitv://147.135.39.171:9906/5d9a2df6000c88299cbecee47d987ebd.ts
-明珠台,mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+[emoji:翡翠台]翡翠台(备),mitv://147.135.39.171:9906/5d62c7a0000afce5bebe1ae54b99735a.ts
+[emoji:J2]J2,mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+[emoji:无线新闻台]无线新闻台(备),mitv://147.135.39.171:9906/5d9a2df6000c88299cbecee47d987ebd.ts
+[emoji:明珠台]明珠台,mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
 无线财经资讯台,mitv://147.135.39.171:9906/5d9a2c87000b43e99cb934ee7df41659.ts
-ViuTV,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
+[emoji:VIU TV]ViuTV,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
 中视新聞HD,mitv://147.135.39.171:9906/5cc68d1700024b76fadeb42526e50971.ts
 双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts#mitv://147.135.39.171:9906/5bf11c6e0007f50ca1fb765a4b4a1af3.ts
 全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts#mitv://147.135.39.171:9906/5bf11c6e00092ddaa1fb76a8690b6a68.ts
@@ -464,16 +464,16 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
 
 $c_start港台2$c_end
-TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
-TVB翡翠台,http://pull.qikeapp.com/live/8c0b91bcg39eda88dtcb9db78/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http://pull.leshantangjt.com/live/cedtg38cb9d88a9db71bc80b9/playlist.m3u8#http://107.148.215.110:13164/play.m3u8?token=MqwvE6HLj%2FJWMmJPLRa9HkNW&tid=gt&id=1#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB明珠台,https://116.77.72.195/streams/d/mzt/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-TVB无线新闻台,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+[emoji:J2]TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
+[emoji:翡翠台]TVB翡翠台,http://pull.qikeapp.com/live/8c0b91bcg39eda88dtcb9db78/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http://pull.leshantangjt.com/live/cedtg38cb9d88a9db71bc80b9/playlist.m3u8#http://107.148.215.110:13164/play.m3u8?token=MqwvE6HLj%2FJWMmJPLRa9HkNW&tid=gt&id=1#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+[emoji:明珠台]TVB明珠台,https://116.77.72.195/streams/d/mzt/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
+[emoji:无线新闻台]TVB无线新闻台,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 TVB无线财经台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340#http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 HKC新闻台,P2p://sdgdklwos.finetv.tv:9906/5a3251a3000ddd81d594cba410f708d7
 HKC603HD,P2p://sdgdklwos.finetv.tv:9906/5a47271f0008d01726f790b134496406
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts#P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
 RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
-台 视,vjms://58.215.133.184:8500:3502/live/cid=236#vjms://58.215.133.184:8500:3502/live/cid=236#P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d#P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804#P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4#http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
+[emoji:台视]台 视,vjms://58.215.133.184:8500:3502/live/cid=236#vjms://58.215.133.184:8500:3502/live/cid=236#P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d#P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804#P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4#http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
 台视新闻,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
 华视,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d#http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv#http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
 香港卫视HKS,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
@@ -481,7 +481,7 @@ Astro双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
 Astro全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
 
 $c_start港湾台$c_end
-香港KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+[emoji:HKS]香港KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 TVB翡翠,http://47.240.60.73/xaors/mlxy.php?channel=f9c0fc853c9dd0b6be92eacc07943460
 TVB J2,http://47.240.60.73/xaors/mlxy.php?channel=4e2a008fe0f5173222b99f03c1560d7b
 RH31,http://47.240.60.73/xaors/mlxy.php?channel=7e747f53a7c2846d3d23f9a070dbbd1e
@@ -578,7 +578,7 @@ ViuTV six,mitv://47.115.141.24:19956/5eb06c50000705a7302a6cdb5274a866
 江门教育,rtsp://183.59.156.50/PLTV/88888905/224/3221228083/10000100000000060000000007511872_0.smil?icpid=88888888
 
 $c_start测试源一$c_end
-TVB 翡翠台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=1&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=1&xl=1#vjms://58.215.133.154:8500:3502/live/cid=362
+[emoji:翡翠台]TVB 翡翠台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=1&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=1&xl=1#vjms://58.215.133.154:8500:3502/live/cid=362
 TVB 明珠台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=13&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=13&xl=1
 無綫新聞台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=9&xl=1#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=9&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=9&xl=3
 有綫新聞台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=31&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=31&xl=1
