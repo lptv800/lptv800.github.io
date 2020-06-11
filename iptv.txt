@@ -587,36 +587,6 @@ Astro 全佳,mitv://fccsovh.pvbox.live:18912/5e649e220009754db7444acc7e7d3baf.ts
 Astro 双星,mitv://fccsovh.pvbox.live:18912/5e649e230009b28469b1a70a9e98b931.ts
 Astro AEC,mitv://fccsovh.pvbox.live:18912/5d65046a0003ac6374f2cfbb22e3d840.ts#mitv://fccsovh.pvbox.live:18912/5cbd60a3000c7aa16544c678e357493a.ts
 
-龙腾源,#genre#
-TVB翡翠,http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
-J2,http://bbdd.228888888.xyz:8081/hls/ch102.m3u8
-无线财经,http://bbdd.228888888.xyz:8081/hls/ch103.m3u8
-TVB明珠,http://bbdd.228888888.xyz:8081/hls/ch104.m3u8
-无线新闻,http://bbdd.228888888.xyz:8081/hls/ch201.m3u8
-有线新闻,http://bbdd.228888888.xyz:8081/hls/ch109.m3u8
-thrill,http://bbdd.228888888.xyz:8081/hls/ch112.m3u8
-NOW新闻,http://bbdd.228888888.xyz:8081/hls/ch114.m3u8
-VIUTV,http://bbdd.228888888.xyz:8081/hls/ch115.m3u8
-VIUTV6,http://bbdd.228888888.xyz:8081/hls/ch116.m3u8
-有线财经,http://bbdd.228888888.xyz:8081/hls/ch117.m3u8
-有线娱乐,http://bbdd.228888888.xyz:8081/hls/ch118.m3u8
-有线18,http://bbdd.228888888.xyz:8081/hls/ch119.m3u8
-中视,http://bbdd.228888888.xyz:8081/hls/ch202.m3u8
-华视,http://bbdd.228888888.xyz:8081/hls/ch203.m3u8
-民视,http://bbdd.228888888.xyz:8081/hls/ch204.m3u8
-台视,http://bbdd.228888888.xyz:8081/hls/ch205.m3u8
-中天新闻,http://ddbb.228888888.xyz:8081/live/tw101.m3u8
-台視新聞,http://ddbb.228888888.xyz:8081/live/tw102.m3u8
-華視新聞,http://ddbb.228888888.xyz:8081/live/tw103.m3u8
-TVBS新聞,http://ddbb.228888888.xyz:8081/live/tw104.m3u8
-民視新聞,http://ddbb.228888888.xyz:8081/live/tw105.m3u8
-东森新闻,http://ddbb.228888888.xyz:8081/live/tw106.m3u8
-中視新聞,http://ddbb.228888888.xyz:8081/live/tw107.m3u8
-寰宇新聞2,http://ddbb.228888888.xyz:8081/live/tw113.m3u8
-寰宇新聞,http://ddbb.228888888.xyz:8081/live/tw114.m3u8
-壹新闻,http://ddbb.228888888.xyz:8081/live/tw115.m3u8
-RHK31,http://bddb.228888888.xyz:8081/live/ws102.m3u8
-
 mitv港台源,#genre#
 2-翡翠,mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c.ts
 1-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts
@@ -641,16 +611,18 @@ Astro 全佳,mitv://fccsovh.pvbox.live:18912/5e649e220009754db7444acc7e7d3baf.ts
 Astro 雙星,mitv://fccsovh.pvbox.live:18912/5e649e230009b28469b1a70a9e98b931.ts
 Astro 華麗,mitv://fccsovh.pvbox.live:18912/5e649e20000e77473d594233cf068e0d.ts
 
-港台源68套,#genre#
-TVB无线新闻台HD,http://live.52ypp.com:81/hk.php?id=8
-TVB无线新闻台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=9#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=8
-TVB翡翠台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=10#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=11
-TVB翡翠台HD,http://live.52ypp.com:81/hk.php?id=10#http://live.52ypp.com:81/hk.php?id=9
-TVBJ2台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=14#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=13
-TVB明珠台,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=12
-ViuTV,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=4
-香港有线新闻,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=5#http://tv.ukiss.love/dl/tv/8/wintvh.php?id=6
-NOW新闻台,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=16
+港源,#genre#
+翡翠,mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f4e894565ee25192b.ts#mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f4e894565ee25192b.ts
+无线新闻,mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts#mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts
+J2,mitv://fccseuro.pvbox.live:18912/5b1409fc000dca0659931a7a9800cddb.ts
+无线财经资讯台,mitv://fccseuro.pvbox.live:18912/5b14095400047cf53e3473d9c02ef381.ts
+明珠,mitv://fccseuro.pvbox.live:18912/5b1409540009bb8b95522f2165bb041e.ts
+TVB翡翠1,mitv://190.2.149.54:18912/5b1409fc00088a7f4e894565ee25192b.ts#mitv://190.2.149.54:18912/5d1220350000ba27b4933f786c1c19e3.ts
+TVBJ2-1,mitv://190.2.149.54:18912/5d122036000a06619753a560332694a8.ts#mitv://190.2.149.54:18912/5b1409fc000dca0659931a7a9800cddb.ts
+TVB明珠,mitv://190.2.149.54:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
+无线新闻,mitv://190.2.149.54:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
+无线财经,mitv://190.2.149.54:18912/5dbeb1cc000750169fad18d473f0af6e.ts
+有线新闻,mitv://190.2.149.54:18912/5b13f6f100047cdec664b8a653e56a48.ts
 
 AV新源_1111,#genre#
 松视1台,p2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#p2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
