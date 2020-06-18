@@ -611,74 +611,70 @@ TVBS欢乐台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wint
 民视台湾台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=60
 民视第一台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=61
 
-$c_startpv0517新$c_end
-民視,mitv://fccsovh.pvbox.live:18912/5b1409690006a24acfbabb91ec0f234f.ts
-台视 HD,mitv://fccsovh.pvbox.live:18912/5b14095f000570be74b4fccb70fa64cb.ts
-大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716879b326d40ca6bf1b.ts
-中視 HD,mitv://fccsovh.pvbox.live:18912/5b14095f00075e714e7f2ef79f51122f.ts
-华视HD,mitv://fccsovh.pvbox.live:18912/5b14095f000efa0ea81d40679a25d5c5.ts
-公視,mitv://fccsovh.pvbox.live:18912/5b1409600001a0b215f1dd816feb0eaa.ts
-TVN,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296cfcc04220178b0a61.ts
-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts#mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c.ts
-无线新闻,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts#mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e.ts
-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7.ts#mitv://fccsovh.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8.ts
-无线财经·资讯台,mitv://fccsovh.pvbox.live:18912/5b14095400047cf5cb4a1a2fc32ef16f.ts
-VIUTV6,mitv://fccsovh.pvbox.live:18912/5b1409fd00079683e40ddeabc387bebe.ts
-VIU,mitv://fccsovh.pvbox.live:18912/5b1409540006651984a9ca91efafbed5.ts
-RTHK31,mitv://fccsovh.pvbox.live:18912/5badd38d000891c439974cfa21f26282.ts
-RTHK32,mitv://fccsovh.pvbox.live:18912/5badd3910003a73d9e541f569e7149a1.ts
-Astro 欢喜,mitv://fccsovh.pvbox.live:18912/5d650431000dec1fce0e032d58cd9723.ts
-Astro 全佳,mitv://fccsovh.pvbox.live:18912/5e649e220009754db7444acc7e7d3baf.ts
-Astro 双星,mitv://fccsovh.pvbox.live:18912/5e649e230009b28469b1a70a9e98b931.ts
-Astro AEC,mitv://fccsovh.pvbox.live:18912/5d65046a0003ac6374f2cfbb22e3d840.ts#mitv://fccsovh.pvbox.live:18912/5cbd60a3000c7aa16544c678e357493a.ts
-
-$c_startMitv港台源$c_end
-2-翡翠,mitv://fccsovh.pvbox.live:18912/5b1409fc00088a7f0ad3cf908ad7674c.ts
-1-翡翠,mitv://fccsovh.pvbox.live:18912/5d1220350000ba276d06e415ecc95430.ts
-2-無線新聞,mitv://fccsovh.pvbox.live:18912/5b140953000cd4a8ea13f6c1f3c5416e.ts
-1-無線新聞,mitv://fccsovh.pvbox.live:18912/5b1409fc000a355e7d7ed5c37bb9a344.ts
-2-J2,mitv://fccsovh.pvbox.live:18912/5d122036000a066198228cfaf36ad3c8.ts
-1-J2,mitv://fccsovh.pvbox.live:18912/5b1409fc000dca06c67290816b6099a7.ts
-HKC新聞,mitv://fccsovh.pvbox.live:18912/5b13f6f100047cdeaf5cf3e29388f23b.ts
-VIUTV6,mitv://fccsovh.pvbox.live:18912/5b1409fd00079683e40ddeabc387bebe.ts
-VIU,mitv://fccsovh.pvbox.live:18912/5b1409540006651984a9ca91efafbed5.ts
-民視,mitv://fccsovh.pvbox.live:18912/5b1409690006a24acfbabb91ec0f234f.ts
-台視 HD,mitv://fccsovh.pvbox.live:18912/5b14095f000570be74b4fccb70fa64cb.ts
-大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716879b326d40ca6bf1b.ts
-中視 HD,mitv://fccsovh.pvbox.live:18912/5b14095f00075e714e7f2ef79f51122f.ts
-華視HD,mitv://fccsovh.pvbox.live:18912/5b14095f000efa0ea81d40679a25d5c5.ts
-公視,mitv://fccsovh.pvbox.live:18912/5b1409600001a0b215f1dd816feb0eaa.ts
-RTHK31,mitv://fccsovh.pvbox.live:18912/5badd38d000891c439974cfa21f26282.ts
-RTHK32,mitv://fccsovh.pvbox.live:18912/5badd3910003a73d9e541f569e7149a1.ts
-Astro AOD,mitv://fccsovh.pvbox.live:18912/5d66315100033ff6111660cc3931cedd.ts
-Astro 歡喜,mitv://fccsovh.pvbox.live:18912/5d650431000dec1fce0e032d58cd9723.ts
-Astro 全佳,mitv://fccsovh.pvbox.live:18912/5e649e220009754db7444acc7e7d3baf.ts
-Astro 雙星,mitv://fccsovh.pvbox.live:18912/5e649e230009b28469b1a70a9e98b931.ts
-Astro 華麗,mitv://fccsovh.pvbox.live:18912/5e649e20000e77473d594233cf068e0d.ts
+$c_startMitv汤圆源$c_end
+[emoji:翡翠台]TVB翡翠,mitv://190.2.149.54:18912/5d1220350000ba27b4933f786c1c19e3.ts#http://61.238.6.49:8000/bysid/1
+[emoji:J2]TVBJ2-1,mitv://190.2.149.54:18912/5d122036000a06619753a560332694a8.ts
+[emoji:J2]TVBJ2-2,mitv://190.2.149.54:18912/5b1409fc000dca0659931a7a9800cddb.ts
+[emoji:明珠台]TVB明珠,mitv://190.2.149.54:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
+[emoji:无线新闻台]无线新闻,mitv://190.2.149.54:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
+有线新闻,mitv://190.2.149.54:18912/5b13f6f100047cdec664b8a653e56a48.ts
+香港开电视,mitv://190.2.149.54:18912/5b140a990002d1a8902262fc5a9c23d2.ts
+TVB星河,mitv://190.2.149.54:18912/5d65048c0003e9ae43db80dad0a1af9d.ts
+[emoji:VIU6]VIUTV6,mitv://190.2.149.54:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+[emoji:VIU TV]VIUTV,mitv://190.2.149.54:18912/5dbeb1c7000938683cdafb0f5bd34044.ts
+RTHK31,mitv://190.2.149.54:18912/5badd38d000891c4eae9d5c75d67c494.ts
+RTHK32,mitv://190.2.149.54:18912/5badd3910003a73de8a59da1504a2464.ts
+WWE,mitv://190.2.149.54:18912/5cffd5d90007249667b57e585ad6e0af.ts
+娱乐新闻台,mitv://190.2.149.54:18912/5cf559f800003d1bbad176332c9de847.ts
+TVBS新闻,mitv://190.2.149.54:18912/5b1409600008c73b7a88bdb183a33614.ts
+TVBS HD,mitv://190.2.149.54:18912/5b140960000c982b95a632f68cb7873d.ts
+中天新闻,mitv://190.2.149.54:18912/5c2dd72e0002527ba0c6fb284f0b9861.ts
+三立台湾,mitv://190.2.149.54:18912/5c2dd74a000cbd46f83b97758dadc6af.ts
+三立综合,mitv://190.2.149.54:18912/5b14091700012642eefad1d530a8ae79.ts
+年代新闻,mitv://190.2.149.54:18912/5c2dd76000032856e3b05845c82e0b77.ts
+东森新闻,mitv://190.2.149.54:18912/5c2dd7310008b319c64140c03704883d.ts
+东森洋片,mitv://190.2.149.54:18912/5b14092300021ad1076b0d328d567031.ts
+寰宇财经,mitv://190.2.149.54:18912/5b1408f30002585a492180b7d5e0d989.ts
+寰宇新闻,mitv://190.2.149.54:18912/5b1408f30005adec5f7f531e0d42a29f.ts
+寰宇综合,mitv://190.2.149.54:18912/5b14098e00034c1079e6fefb81d5a09e.ts
+中天新闻,mitv://190.2.149.54:18912/5b14095e000f3774fcef729d8154a4de.ts
+华视,mitv://190.2.149.54:18912/5b14095f000efa0e8c51ba5f5108d5a4.ts
+公视,mitv://190.2.149.54:18912/5b1409600001a0b2f2deec889425a77f.ts
 
 $c_start港源$c_end
-[emoji:翡翠台],mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f4e894565ee25192b.ts#mitv://fccseuro.pvbox.live:18912/5b1409fc00088a7f4e894565ee25192b.ts
-[emoji:无线新闻台],mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts#mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e13f90e3707138e05.ts
-[emoji:J2],mitv://fccseuro.pvbox.live:18912/5b1409fc000dca0659931a7a9800cddb.ts
-无线财经资讯台,mitv://fccseuro.pvbox.live:18912/5b14095400047cf53e3473d9c02ef381.ts
-[emoji:明珠台],mitv://fccseuro.pvbox.live:18912/5b1409540009bb8b95522f2165bb041e.ts
-[emoji:翡翠台],mitv://190.2.149.54:18912/5b1409fc00088a7f4e894565ee25192b.ts#mitv://190.2.149.54:18912/5d1220350000ba27b4933f786c1c19e3.ts
-[emoji:J2],mitv://190.2.149.54:18912/5d122036000a06619753a560332694a8.ts#mitv://190.2.149.54:18912/5b1409fc000dca0659931a7a9800cddb.ts
-[emoji:明珠台],mitv://190.2.149.54:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
-[emoji:无线新闻台],mitv://190.2.149.54:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
-无线财经,mitv://190.2.149.54:18912/5dbeb1cc000750169fad18d473f0af6e.ts
-有线新闻,mitv://190.2.149.54:18912/5b13f6f100047cdec664b8a653e56a48.ts
+[emoji:翡翠台]翡翠台,mitv://51.79.41.138:18912/5dbeb1c60000e0463cdaf50554c93804.ts#mitv://190.2.146.92:18912/5e649e20000e77475449fc9201cd428d.ts
+[emoji:无线新闻台]無綫新聞台,mitv://51.79.41.138:18912/5dbeb1c40003f9a410a2565a7d8d92d4.ts
+[emoji:J2]J2,mitv://51.79.41.138:18912/5dbeb1ce0004b0eb3cdb153f4f2c0e31.ts
+無綫財經資訊台,mitv://51.79.41.138:18912/5b14095400047cf53e3473d9c02ef381.ts#mitv://51.79.41.138:18912/5b1409fd0000321517d49fa47bea1ace.ts#mitv://51.79.41.138:18912/5dbeb1cc000750169fad18d473f0af6e.ts
+[emoji:明珠台]明珠台,mitv://51.79.41.138:18912/5dbeb1ca000ccc503cdb07b23a321f0c.ts
+有線新聞台,mitv://51.79.41.138:18912/5b13f6f100047cdec664b8a653e56a48.ts
+香港開電視,mitv://51.79.41.138:18912/5b140a990002d1a8902262fc5a9c23d2.ts
+[emoji:VIU6]ViuTV6,mitv://51.79.41.138:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+[emoji:VIU TV]ViuTV,mitv://51.79.41.138:18912/5dbeb1c7000938683cdafb0f5bd34044.ts
+TVBS歡樂台,mitv://51.79.41.138:18912/5b140a99000c97f5656b4fa5d6c2533b.ts
+RTHK31,mitv://51.79.41.138:18912/5badd38d000891c4eae9d5c75d67c494.ts
+RTHK32,mitv://51.79.41.138:18912/5badd3910003a73de8a59da1504a2464.ts
+娱乐新闻台,mitv://51.79.41.138:18912/5cf559f800003d1bbad176332c9de847.ts
+全佳,mitv://190.2.146.92:18912/5e649e220009754d4384bbb792209988.ts
+双星,mitv://190.2.146.92:18912/5e649e230009b284029b65996ffda7b5.ts
+欢喜台,mitv://190.2.146.92:18912/5d650431000dec1fbf393dee64581a71.ts
+民視,mitv://51.79.41.138:18912/5c2dd73c0002b607fc69cf0f8123e477.ts
+民視新聞台,mitv://51.79.41.138:18912/5c2dd73500017585f0a0f3ed3e15e5fd.ts
+中視HD,mitv://51.79.41.138:18912/5b14095f00075e71ef5aca4bc674cd40.ts
+[emoji:台视]台视,mitv://51.79.41.138:18912/5b14095f000570bed0fc4fad4ae6cec2.ts
+華视,mitv://51.79.41.138:18912/5b14095f000efa0e8c51ba5f5108d5a4.ts
+公視,mitv://51.79.41.138:18912/5b1409600001a0b2f2deec889425a77f.ts
 
 $c_startAV新源_1111$c_end
-松视1台,p2p://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#p2p://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
+松视1台,mitv://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 松視2台,p2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
 松視3台,p2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
 驚豔台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
 Pandola HD,p2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#p2p://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-香蕉台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
-彩虹台,p2p://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
-彩虹电影,p2p://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
-HOT,p2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
+香蕉台 HD,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
+彩虹台,mitv://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
+彩虹电影,mitv://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
+HOT,mitv://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
 大人台,p2p://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
 松视1台,mitv://51.79.41.138:18912/5c18f8fb00064883ab4a7502e99eb880.ts#mitv://51.79.41.138:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 松視2台,mitv://51.79.41.138:18912/5c18f8f7000d865da227cc18456f9b78.ts
