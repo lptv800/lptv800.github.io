@@ -388,6 +388,23 @@ RTHK32,mitv://51.79.41.138:18912/5badd3910003a73de8a59da1504a2464.ts
 華视,mitv://51.79.41.138:18912/5b14095f000efa0e8c51ba5f5108d5a4.ts
 公視,mitv://51.79.41.138:18912/5b1409600001a0b2f2deec889425a77f.ts
 
+$c_start台湾源$c_end
+民视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_5_1
+台视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_7_1
+中视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_9_1
+华视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_11_1
+公视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_13_1
+公视3,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_118_1
+大立电视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_119_1
+大爱二,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_121_1
+华视新闻资讯台,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_150_1
+民视第一,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_151_1
+民视台湾台(HD),https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_152_1
+台视新闻台(HD),https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_155_1
+台视财经台,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_156_1
+台视综合台,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_157_1
+中视新闻,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_161_1
+
 $c_startAV新源_1111$c_end
 松视1台,mitv://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 松視2台,p2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
