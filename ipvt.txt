@@ -1,64 +1,3 @@
-港澳台p2p，＃genre＃
-无线新闻，P2p：//lino.homeunix.com：6007 / 5a562bec0007bfd761a2998e00b83dd5.ts
-无线新闻，P2p：//lino.homeunix.com：6007 / 5ad32bdc000b780449ee52022e841cf7.ts
-翡翠台，P2p：//lino.homeunix.com：6007 / 5ad32c0d0000bbd049ef0eab717740e2.ts
-翡翠台，P2p：//sdgdklwos.finetv.tv：9906 / 5a562a0b000d7041619b441d562d5ee8.ts
-J2台，P2p：//lino.homeunix.com：6007 / 59fd25e80008aaec02a88fc1476f2edf.ts
-J2台，P2p：//lino.homeunix.com：6007 / 5ad32b7d000cca4049ecdf4812f47470.ts
-无线财经资讯台，P2p：//lino.homeunix.com：6007 / 5ad32aed000d8fa649eaacf716d70340.ts
-明珠台，P2p：//lino.homeunix.com：6007 / 59fd0d0a0009323a02476cb020fe16f9.ts
-明珠台，P2p：//lino.homeunix.com：6007 / 5ad32b590006aefa49ec511272c5262e.ts
-viu TV，P2p：//lino.homeunix.com：6007 / 59fd171800092000026eb35003107eef.ts
-viu TV，P2p：//lino.homeunix.com：6007 / 5ad32bae0001dd1049ed9be114c818f0.ts
-viu 6，P2p：//lino.homeunix.com：6007 / 5b389c92000621bc35b08cbd438b4298.ts
-港视31，P2p：//lino.homeunix.com：6007 / 5b1ea0dc000bba59d03063fa2f1a513c.ts
-港视32，P2p：//lino.homeunix.com：6007 / 5b1ea120000af380d0316d6b59657817.ts
-港视31，P2p：//lino.homeunix.com：6007 / 5b1ea0dc000bba59d03063fa2f1a513c.ts
-港视32，P2p：//lino.homeunix.com：6007 / 5b1ea120000af380d0316d6b59657817.ts
-中视，P2p：//lino.homeunix.com：6007 / 59fd06ac000555a7022e8c862ebc1019.ts
-台视，P2p：//lino.homeunix.com：6007 / 59fd099c00008ebf023a04ce64d57ff4.ts
-华视，P2p：//lino.homeunix.com：6007 / 59fd068a0005f99e022e07d55c2f581d.ts
-民视，P2p：//lino.homeunix.com：6007 / 59fd230300046dc8029d402053e02fbf.ts
-民视台湾台，P2p：//lino.homeunix.com：6007 / 59fd0670000decc5022da459628c3d1a.ts
-公视，P2p：//lino.homeunix.com：6007 / 59fd0656000e66cd022d3ee840ad175d.ts
-公视3，P2p：//lino.homeunix.com：6007 / 5ac5da01000d09fc15e6046427920804.ts
-中天综合，P2p：//lino.homeunix.com：6007 / 59fd04bc00059d610226fb164a845fa5.ts
-中天娱乐，P2p：//lino.homeunix.com：6007 / 59fd049e0006fb6e0226863427c16955.ts
-八大第一台，P2p：//lino.homeunix.com：6007 / 59fd22540006fb57029a95244a947e57.ts
-八大综合，P2p：//lino.homeunix.com：6007 / 59fd22220005cbed0299d18627a207f7.ts
-八大戏剧，P2p：//lino.homeunix.com：6007 / 59fd21c7000edfe70298706f2ef217c7.ts
-纬来日本。，P2p：//lino.homeunix.com：6007 / 5bc8a92100047ccf6299e01b2aac4b86.ts
-纬来体育。，P2p：//lino.homeunix.com：6007 / 5a141bab0009ca9c5f91208265721808.ts
-纬来戏剧，P2p：//lino.homeunix.com：6007 / 59fd20190002fb090291ddb256d73759.ts
-纬来育乐，P2p：//lino.homeunix.com：6007 / 59fd26ad000978f002ab917848d22993.ts
-纬来精彩，P2p：//lino.homeunix.com：6007 / 5ac5d68600012bae15d868ee776c7fe2.ts
-东森戏剧，P2p：//lino.homeunix.com：6007 / 59fd17a500022c250270d8533c186ce9.ts
-东森洋片，P2p：//lino.homeunix.com：6007 / 59fd17860002b83302705f6a03a560d2.ts
-东森综合，P2p：//lino.homeunix.com：6007 / 5a141ade0007bc435f8dff2d5b3453d7.ts翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts 
-翡翠台备,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts 
-s翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts 
-无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts 
-无线新闻 备,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts 
-J2台,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts 
-J2台 备,p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts 
-J5台,p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts 
-J5台 备,p2p://lino.homeunix.com:6007/5ad32aed000d8fa649eaacf716d70340.ts 
-明珠台,p2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts 
-明珠台 备,p2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts 
-viu TV,p2p://lino.homeunix.com:6007/59fd171800092000026eb35003107eef.ts 
-viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts 
-港视31,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts 
-港视32,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts 
-壹电视综合 HD,p2p://lino.homeunix.com:6007/59fd06f600087a21022fae61787f061c.ts 
-中视,p2p://lino.homeunix.com:6007/59fd09bd0002ab6d023a86337415321a.ts 
-中视 HD,p2p://lino.homeunix.com:6007/59fd06ac000555a7022e8c862ebc1019.ts 
-华视 HD,p2p://lino.homeunix.com:6007/59fd068a0005f99e022e07d55c2f581d.ts 
-华视,p2p://lino.homeunix.com:6007/59fd23240005c9a4029dc1561885012e.ts 
-民视,p2p://lino.homeunix.com:6007/59fd230300046dc8029d402053e02fbf.ts 
-民视台湾台,p2p://lino.homeunix.com:6007/59fd0670000decc5022da459628c3d1a.ts 
-公视 HD,p2p://lino.homeunix.com:6007/59fd0656000e66cd022d3ee840ad175d.ts 
-公视3 HD,p2p://lino.homeunix.com:6007/5ac5da01000d09fc15e6046427920804.ts 
- 
 澳门澳门，＃体裁＃
 HKS，http：//zhibo.hkstv.tv/livestream/mutfysrq.flv
 HK开电视（需代理），http：//media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -114,55 +53,6 @@ JET综合，p8p：//0198.02686.cc：16871 / 5d1a69a7000abe1711bdac390219d138.ts�
 中天综合，vjms：//23.237.33.155：8500：3502 / live / cid = 341＃mitv：//198.255.74.87：9906 / 5dc08f1f0006e8f001b8045cf3e1dd44.ts
 壹综合，p8p：//0198.02686.cc：16871 / 5d1a69b70007631411bde9dd9eaae997.ts
 东森综合，vjms：//23.237.33.155：8500：3502 / live / cid = 333＃mitv：//198.255.74.87：9906 / 5dc08f260006c1de01b81faa0bbc88c4.ts
-
-太阳源，＃genre＃
-TVB明珠台，P2p：//sdgdklwos.finetv.tv：9906 / 59fd0d0a0009323a02476cb020fe16f9
-TVB明珠台，P2p：//sdgdklwos.finetv.tv：9906 / 5ad32b590006aefa49ec511272c5262e
-TVB翡翠台，P2p：//sdgdklwos.finetv.tv：9906 / 5ad32c0d0000bbd049ef0eab717740e2
-TVB翡翠台，P2p：//sdgdklwos.finetv.tv：9906 / 5a562a0b000d7041619b441d562d5ee8
-无线电视J2，P2p：//sdgdklwos.finetv.tv：9906 / 5ad32b7d000cca4049ecdf4812f47470
-无线电视J2，P2p：//sdgdklwos.finetv.tv：9906 / 59fd25e80008aaec02a88fc1476f2edf
-无线新闻，p8p：//0198.02686.cc：16871 / 5d1a69dc000d64b611be7bef5757286e.ts
-明珠台，p8p：//0198.02686.cc：16871 / 5d1a69de0005348e11be81a666c79a56.ts
-J2，p8p：//0198.02686.cc：16871 / 5d1a6990000c457811bd52c53e48f6b9.ts
-香港电台31，p8p：//0198.02686.cc：16871 / 5d495caf000f16ce956b79188dfc18de.ts
-民视HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd230300046dc8029d402053e02fbf
-中视高清，P2p：//sdgdklwos.finetv.tv：9906 / 59fd06ac000555a7022e8c862ebc1019
-华视HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd068a0005f99e022e07d55c2f581d
-台视HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd099c00008ebf023a04ce64d57ff4
-公视HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd0656000e66cd022d3ee840ad175d
-公视3HD，P2p：//sdgdklwos.finetv.tv：9906 / 5ac5da01000d09fc15e6046427920804
-壹新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd08ad000509c00236604f613b08e7
-壹综合HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd06f600087a21022fae61787f061c
-东森幼幼HD，P2p：//sdgdklwos.finetv.tv：9906 / 5a32188e00095e2bd4b5d0737fe325f5
-东森电影HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd0cab0008230a0245f94a229777bd
-东森戏剧HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd17a500022c250270d8533c186ce9
-东森洋片HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd17860002b83302705f6a03a560d2
-东森综合HD，P2p：//sdgdklwos.finetv.tv：9906 / 5a141ade0007bc435f8dff2d5b3453d7
-东森财经HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd1f94000ee56d028fd937397b7e63
-中视经典台，P2p：//sdgdklwos.finetv.tv：9906 / 59fd09bd0002ab6d023a86337415321a
-中视新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd2282000219b8029b479b6fc21d86
-三立戏剧台，P2p：//sdgdklwos.finetv.tv：9906 / 59fd274c0001400d02adfc6d23452c25
-三立综合台，P2p：//sdgdklwos.finetv.tv：9906 / 59fd27240003732f02ad60c95d8e10a7
-三立新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd08fd000707490237995b3c9f2775
-三立台湾台HD，P2p：//sdgdklwos.finetv.tv：9906 / 5a1425f00009bfad5fb93e0a6f7070c4
-中天亚洲台，P2p：//sdgdklwos.finetv.tv：9906 / 59fd05260002b0730228985b2c380c8a
-中天新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd05020006070602602cc953c2545e6
-中天新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 5acb650d0006707f2b8d716537d413a9
-中天综合HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd04bc00059d610226fb164a845fa5
-中天娱乐HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd049e0006fb6e0226863427c16955
-八大第1台HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd22540006fb57029a95244a947e57
-八大综合台HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd22220005cbed0299d18627a207f7
-八大戏剧台HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd21c7000edfe70298706f2ef217c7
-八大娱乐台HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd38fe000e2eeb02f31f187a8b3f49
-阿里郎电视，P2p：//sdgdklwos.finetv.tv：9906 / 59fd303f000e8d8702d0f510645c2ff4
-寰宇财经台，P2p：//sdgdklwos.finetv.tv：9906 / 59fd2b98000b4fba02bec7ed4c560211
-寰宇综合HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd383a000db1c102f021590c272f6e
-非凡新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd05f30007004f022bba4b77671d93
-台视新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd299b00054a3002b7020e67d657e3
-亚洲新闻HD，P2p：//sdgdklwos.finetv.tv：9906 / 5a56d833000e41286443908c2a501e55
-民视新闻台HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd05930008403b022a439a3b9b7401
-民视台湾台HD，P2p：//sdgdklwos.finetv.tv：9906 / 59fd0670000decc5022da459628c3d1a
 
 央视＃genre＃
 CCTV-1蓝光，http：//111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
@@ -233,58 +123,7 @@ CCTV-13新聞,mitv://198.255.74.57:12396/5e502057000ba7763d325d7023ea8148.ts
 CCTV-14少兒,mitv://198.255.74.57:12396/5e502057000ac4d73d325d3659abbe67.ts
 CCTV-15音樂,mitv://198.255.74.57:12396/5e502057000a823f3d325d256c6bc48c.ts
 
-全球2，＃genre＃
-翡翠台，电视总线：// 3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
-VIUTV，tvbus：// 3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
-无线财经，p8p：//0198.02686.cc：16871 / 5d6000ef00075fa1eddd111e1452c6bc.ts
-TVB星河，tvbus：// 2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
-翡翠台，p8p：//0198.02686.cc：16871 / 5d1a6990000c457811bd52c53e48f6b9.ts
-香港电台31，p8p：//0198.02686.cc：16871 / 5d495caf000f16ce956b79188dfc18de.ts
-RTHK32，tvbus：// 3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
-香港开电视，tvbus：// 4tEWVwazfYxEPmrqU5Xhr9GNDF7a9LR3JXhDKX2MFWRwoJYTDN
-有线18台，tvbus：// 4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
-台湾/台湾类型
-民视，p2p：//fccsovh.pvbox.live：18912 / 5c72483f0003db4b1d51bcf349367c26
-民视，p8p：//0198.02686.cc：16871 / 5d8f08b60007eeea22db58419a492c10.ts
-台视，tvbus：// 3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
-大爱电视，tvbus：// 3cmXtkBPee9paSJ7yVURCCbQkAVHv8FySFqGDeJJNDUgRWBeoT
-中视，tvbus：// 34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ
-公视3，tvbus：// 4nw6bDx7bbpgNpMRxfjSfNrW5ZsT8qSoSeh6giYpQsRvZYUJBd
-无线新闻，p8p：//0198.02686.cc：16871 / 5d1a69dc000d64b611be7bef5757286e.ts
-香港电台31，p8p：//0198.02686.cc：16871 / 5d495caf000f16ce956b79188dfc18de.ts
-RTHK32，tvbus：// 3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
-TVB翡翠台，https：//app.kds.tw/live/tvb1.php？id = jade＆u = 123456
-TVB明珠台，https：//app.kds.tw/live/tvb1.php？id = pearl＆u = 123456
-TVB J2台，https：//app.kds.tw/live/tvb1.php？id = j2＆u = 123456
-TVB无线新闻，https：//app.kds.tw/live/tvb1.php？id = inews＆u = 97058412
-翡翠台，http：//hzyhjg.cc/cs/gat/fct.php
-TVB J2，http：//hzyhjg.cc/cs/gat/tvbj2.php
-TVB J2，http：//hzyhjg.cc/cs/gat/tvbj2-2.php
-无线新闻，http：//hzyhjg.cc/cs/gat/wxxw.php
-无线新闻，http：//hzyhjg.cc/cs/gat/wxxw-2.php
-明珠台，http：//hzyhjg.cc/cs/gat/mzt.php
-明珠台，http：//hzyhjg.cc/cs/gat/mzt-2.php
-viu电视，http：//hzyhjg.cc/cs/gat/viu tv.php
-无线财经，http：//hzyhjg.cc/cs/gat/wxcjzx.php
-有线新闻，http：//hzyhjg.cc/cs/gat/yxxw.php
-有线603，http：//hzyhjg.cc/cs/gat/yx603.php
-中天新闻，http：//hzyhjg.cc/cs/gat/ztxw.php
-东森新闻，http：//hzyhjg.cc/cs/gat/dsxw.php
-中视，http：//hzyhjg.cc/cs/gat/zs.php
-台视，http：//hzyhjg.cc/cs/gat/ts.php
-民视，http：//hzyhjg.cc/cs/gat/ms.php
-年代新闻，http：//hzyhjg.cc/cs/gat/ndxw.php
-非凡新闻，http：//hzyhjg.cc/cs/gat/ffxw.php
-三立台湾，http：//hzyhjg.cc/cs/gat/sltwt.php
-RHK31，http：//hzyhjg.cc/cs/gat/rhk31.php
-中视高清，http：//104.250.154.42：8080 / ZZ_zhongshi / ZZ_zhongshi.m3u8
-华视CTS，http：//104.250.154.42：8080 / ZZ_huashi / ZZ_huashi.m3u8
-香港hks，http：//cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-无线新闻，http：//www.liveviptv.xyz/tv/tvb.php
-无线新闻，http：//www.liveviptv.xyz/tv/tvb.php？vid = wxxw
-无线新闻，http：//cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv？auth_key = 1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
-
-风格＃
+风格,＃genre＃
 翡翠台，电视总线：// 3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
 明珠台，p8p：//0198.02686.cc：16871 / 5d1a69de0005348e11be81a666c79a56.ts
 VIUTV，tvbus：// 3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
@@ -448,48 +287,6 @@ RHK32,http://zhibo123.top/fmiptv/live/gtds.php?id=148
 有线新闻,http://zhibo123.top/fmiptv/live/gtds.php?id=127
 中视,http://iptv.52qdg.com/iptv.php?id=tw&pamid=012
 
-全球(2),#genre#
-翡翠臺,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
-明珠臺,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-VIUTV,tvbus://3NQgHKwgbbKdJ4LhEnt2KuvtxU7zbshzQL3UrV2k3oz5XYNVyS
-TVBJ2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
-now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS
-now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
-有線18臺,tvbus://4JxHjvQYy8ejrj2dJYMurugKF1VV418b4k5yrSB2C4JNdVVMv1
-有線新聞,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
-民視,p2p://fccsovh.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26
-民視,p8p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
-臺視,tvbus://3MWbYokmFjcnHYCRYSP3y19WGbnqgghEGqdfyB8pE8oeLR82o6
-中視,tvbus://34spY7rZCVYAX7UGX3BmGphZbqbLyDhHTaWCnCrdTnpKRgqHqZ
-華視,p8p://0198.02686.cc:16871/5e0b4555000e6c89082827022892f415.ts
-公視,tvbus://3foqWReSshcvfmDRwDyqyhc9Hc47hNirRBf3QY9EfaeRK1PRKQ
-雙星,tvbus://3rFiNJAz46rgSXmmemXZieEhw9YUpYFq8NUKrvjxD1m97aHpeb
-全佳,tvbus://4dA1qX1qx8xrrtsHFBKMWwg4QoExX2zc1cjryeZ8bVgvgoqsEw
-華麗,tvbus://3PyTZ1jHC9ySsB4ASkAQEeW7YfYFm7vFC2GnyJ1eXw18ip8hRW
-歡喜,tvbus://3WeW4xwpMtbuMxdfjmCXETEaw7pzZj8dAWYSoGZ3g4bRvYkCk7
-無線新聞,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-RTHK32,tvbus://3vqLa5eRdbsXvENdt3wBAQcCvTvKNRZM2kTNyA4P2FkSmpN23w
-
-港台2,#genre#
-TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
-TVB翡翠台,http://pull.qikeapp.com/live/8c0b91bcg39eda88dtcb9db78/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http://pull.leshantangjt.com/live/cedtg38cb9d88a9db71bc80b9/playlist.m3u8#http://107.148.215.110:13164/play.m3u8?token=MqwvE6HLj%2FJWMmJPLRa9HkNW&tid=gt&id=1#P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-TVB明珠台,https://116.77.72.195/streams/d/mzt/playlist.m3u8#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-TVB无线新闻台,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts#P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
-TVB无线财经台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340#http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
-HKC新闻台,P2p://sdgdklwos.finetv.tv:9906/5a3251a3000ddd81d594cba410f708d7
-HKC603HD,P2p://sdgdklwos.finetv.tv:9906/5a47271f0008d01726f790b134496406
-RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts#P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
-RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
-台 视,vjms://58.215.133.184:8500:3502/live/cid=236#vjms://58.215.133.184:8500:3502/live/cid=236#P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d#P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804#P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4#http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
-台视新闻,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
-华视,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d#http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv#http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
-香港卫视HKS,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-Astro双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
-Astro全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
-
 港湾台,#genre#
 香港KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 TVB翡翠,http://47.240.60.73/xaors/mlxy.php?channel=f9c0fc853c9dd0b6be92eacc07943460
@@ -546,25 +343,6 @@ TVB 明珠台,mitv://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#m
 欢喜台,p2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts #p2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts 
 双星台,p2p://lino.homeunix.com:6007/5b2f26bb000f257c10bb53ec280e5f3f.ts#mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts 
 
-有家源,#genre#
-翡翠台-1,P2p://190.2.146.92:18912/5d1220350000ba2724a028c23cd1f63f.ts 
-翡翠台-2,P2p://190.2.146.92:18912/5b1409fc00088a7f9382eac80b8109d9.ts 
-無綫新聞台-1,P2p://190.2.146.92:18912/5b1409fc000a355e25bb8c90ac1c395b.ts 
-無綫新聞台-2,P2p://190.2.146.92:18912/5b140953000cd4a817961c7ae76199ad.ts 
-J2-1,P2p://190.2.146.92:18912/5b1409fc000dca06858e1fae1a06cb56.ts 
-J2-2,P2p://190.2.146.92:18912/5d122036000a06610e911ae85b70a0fb.ts 
-J5,P2p://190.2.146.92:18912/5b14095400047cf54f773f405bd4ccb2.ts 
-明珠台,P2p://190.2.146.92:18912/5b1409540009bb8b1418429969d6cbd7.ts 
-有線新聞台,P2p://190.2.146.92:18912/5b13f6f100047cde0d55a9a7e9706670.ts 
-有線603台,P2p://190.2.146.92:18912/5cb870e80007bd85df3e30a5d06e17e0.ts 
-香港開電視,P2p://190.2.146.92:18912/5b140a990002d1a88f902cce0987867e.ts 
-now新聞台,P2p://190.2.146.92:18912/5b20e3ae00008df9e0a235f3dbd73ea4.ts 
-RTHK31,P2p://190.2.146.92:18912/5badd38d000891c411774a31f85ea59f.ts 
-RTHK32,P2p://190.2.146.92:18912/5badd3910003a73dbb871ef20d4d6b9c.ts 
-TVB HD 1,P2p://190.2.146.92:18912/5cf559f800003d1bcd0ecfe448d6b4fe.ts 
-VIU TV 6,P2p://190.2.146.92:18912/5b1409fd000796832c596cce2bc28153.ts 
-VIU TV,P2p://190.2.146.92:18912/5b14095400066519f4a0f9004b5ad80f.ts 
-
 测试源,#genre#
 TVB翡翠台,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=78&ip=1#mitv://47.115.141.24:19956/5eb06c530006f23f302a788ef5645b9e
 TVB J2,http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=74&ip=1#mitv://47.115.141.24:19956/5eb06c530008a151302a78fc1b80a91f
@@ -586,40 +364,6 @@ ViuTV six,mitv://47.115.141.24:19956/5eb06c50000705a7302a6cdb5274a866
 江门综合,rtsp://183.59.156.50/PLTV/88888905/224/3221228190/10000100000000060000000007511873_0.smil?icpid=88888888
 江门公共,rtsp://183.59.156.50/PLTV/88888905/224/3221228162/10000100000000060000000007511874_0.smil?icpid=88888888
 江门教育,rtsp://183.59.156.50/PLTV/88888905/224/3221228083/10000100000000060000000007511872_0.smil?icpid=88888888
-
-测试源一,#genre#
-TVB 翡翠台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=1&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=1&xl=1#vjms://58.215.133.154:8500:3502/live/cid=362
-TVB 明珠台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=13&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=13&xl=1
-無綫新聞台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=9&xl=1#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=9&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=9&xl=3
-有綫新聞台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=31&xl=2#http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=31&xl=1
-now新聞台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=16&xl=1
-耀才財經台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=19&xl=1
-無綫财经台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=10&xl=2
-综合娱乐台,http://app.iptv.123.xdw.one/xg/qq2336117947.php?id=34
-香港有线新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=5#,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=6
-TVB无线新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=8
-中天新闻,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=20
-东森新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=21
-TVBS新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=22
-寰宇新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=23
-寰宇新闻台2,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=24
-中视新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=25
-台视新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=26
-民视新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=28
-非凡新闻台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=29
-中视HD,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=35
-台视HD,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=36
-民视HD,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=37
-华视HD,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=38
-公视HD,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=39
-TVBS欢乐台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=47
-八大娱乐台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=51
-中天综合,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=54
-中天娱乐台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=55
-中天亚洲台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=56
-台视综合台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=58
-民视台湾台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=60
-民视第一台,http://app.iptv.123.xdw.one/123.php?act=play&vid=iptv2020&tid=wintv123&id=61
 
 mitv汤圆源,#genre#
 TVB翡翠,mitv://190.2.149.54:18912/5d1220350000ba27b4933f786c1c19e3.ts#http://61.238.6.49:8000/bysid/1
@@ -675,6 +419,22 @@ RTHK32,mitv://51.79.41.138:18912/5badd3910003a73de8a59da1504a2464.ts
 華视,mitv://51.79.41.138:18912/5b14095f000efa0e8c51ba5f5108d5a4.ts
 公視,mitv://51.79.41.138:18912/5b1409600001a0b2f2deec889425a77f.ts
 
+台湾源,#genre#
+民视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_5_1
+台视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_7_1
+中视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_9_1
+华视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_11_1
+公视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_13_1
+公视3,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_118_1
+大立电视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_119_1
+大爱二,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_121_1
+华视新闻资讯台,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_150_1
+民视第一,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_151_1
+民视台湾台(HD),https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_152_1
+台视新闻台(HD),https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_155_1
+台视财经台,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_156_1
+台视综合台,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_157_1
+中视新闻,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_161_1
 
 
 
