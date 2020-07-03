@@ -510,7 +510,7 @@ HOT 頻道(HD),http://58.99.33.9:1935/liveedge2/live_403_1.stream/chunklist20834
 潘朵拉玩美台(HD),http://58.99.33.9:1935/liveedge2/live_411_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 潘朵拉粉紅台(HD),http://58.99.33.9:1935/liveedge2/live_412_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 驚艷成人電視台,http://58.99.33.9:1935/liveedge2/live_413_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-[emoji:香蕉台]香蕉台(HD),http://58.99.33.9:1935/liveedge2/live_414_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+[emoji:香蕉台]香蕉台(HD),http://t.gerss.cn/dl/htv.php?id=414
 红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
 红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
 拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
