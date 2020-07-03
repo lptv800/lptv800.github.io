@@ -501,19 +501,18 @@ HOT,mitv://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
 欢乐台,mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
 
 AV(1)源_1111,#genre#
-玩家頻道,http://58.99.33.9:1935/liveedge2/live_401_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HAPPY頻道(HD),http://58.99.33.9:1935/liveedge2/live_402_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-HOT 頻道(HD),http://58.99.33.9:1935/liveedge2/live_403_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視4台,http://58.99.33.9:1935/liveedge2/live_404_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視1台(HD),http://58.99.33.9:1935/liveedge2/live_405_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視2台(HD),http://58.99.33.9:1935/liveedge2/live_406_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-松視3台,http://58.99.33.9:1935/liveedge2/live_407_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-彩虹頻道(HD),http://58.99.33.9:1935/liveedge2/live_408_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-樂活頻道,http://58.99.33.9:1935/liveedge2/live_410_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-潘朵拉玩美台(HD),http://58.99.33.9:1935/liveedge2/live_411_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-潘朵拉粉紅台(HD),http://58.99.33.9:1935/liveedge2/live_412_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-驚艷成人電視台,http://58.99.33.9:1935/liveedge2/live_413_1.stream/chunklist2083437237.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-香蕉台(HD),http://t.gerss.cn/dl/htv.php?id=414
+松视1,http://f6.apps8888.com:8080/live/402/92df1115eba6a3f5d775dd1318a8892f/index.m3u8
+松视2,http://f6.apps8888.com:8080/live/403/c8f4cc4e018664b818821a1856aa28fd/index.m3u8
+松视3,http://f6.apps8888.com:8080/live/404/4aed69e4c6e6d7addb7def002cbc861c/index.m3u8
+香蕉台,http://f6.apps8888.com:8080/live/408/5f7ae18976739f3c728e52ae18c2d5aa/index.m3u8#http://t.gerss.cn/dl/htv.php?id=414
+潘朵拉完美,http://f6.apps8888.com:8080/live/410/4c9517eb6f9be64adefcd7d379be361c/index.m3u8
+潘朵拉粉红,http://f6.apps8888.com:8080/live/411/70a11494fe22f836502b17ccc23752a7/index.m3u8
+彩虹电影,http://f6.apps8888.com:8080/live/413/13ab9ba2d1c79b975c6b21c67a11df62/index.m3u8
+彩虹K,http://f6.apps8888.com:8080/live/406/2f14ce8f6d0c731486663532ee615e32/index.m3u8
+彩虹E,http://f6.apps8888.com:8080/live/405/fd8b8df02c2f3f79820cf80c39bde839/index.m3u8
+HOT,http://f6.apps8888.com:8080/live/407/d9222c50f878e95ab5097b73dcb0c9fb/index.m3u8
+happy,http://f6.apps8888.com:8080/live/412/cff2e4a302d15b51021413afc0e1e9f5/index.m3u8
+惊艳台,http://f6.apps8888.com:8080/live/409/f307e52d6025a869c80d347b1793f4ac/index.m3u8
 红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
 红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
 拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
