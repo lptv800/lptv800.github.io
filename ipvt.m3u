@@ -1,215 +1,61 @@
 #EXTM3U
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-1蓝光
+#EXTINF:-1 group-title="香港台",有线新闻
+http://77.83.242.11/hk168.php?id=31&xl=2
+#EXTINF:-1 group-title="香港台",无线新闻
+http://77.83.242.11/hk168.php?id=9&xl=2
+#EXTINF:-1 group-title="香港台",翡翠台
+http://77.83.242.11/hk168.php?id=1&xl=2
+#EXTINF:-1 group-title="香港台",财经资讯台
+http://77.83.242.11/hk168.php?id=10&xl=2
+#EXTINF:-1 group-title="香港台",TVB星河
+http://77.83.242.11/hk168.php?id=17&xl=2
+#EXTINF:-1 group-title="香港台",ATV
+http://77.83.242.11/hk168.php?id=15&xl=2
+#EXTINF:-1 group-title="香港台",viu TV
+http://77.83.242.11/hk168.php?id=8&xl=2
+#EXTINF:-1 group-title="香港台",明珠台
+http://77.83.242.11/hk168.php?id=13&xl=2
+#EXTINF:-1 group-title="香港台",TVB J2
+http://77.83.242.11/hk168.php?id=12&xl=2
+#EXTINF:-1 group-title="CCTV",CCTV-1蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-2蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-2蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-3蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-3蓝光
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-4蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-4蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-5蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-5蓝光
 http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/#http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-5+蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-5+蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-6蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-6蓝光
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-7蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-7蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-8蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-8蓝光
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-9蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-9蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-10蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-10蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-11蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-11蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-12蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-12蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-13蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-13蓝光
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-14蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-14蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-15蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-15蓝光
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-17蓝光
+#EXTINF:-1 group-title="CCTV",CCTV-17蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-4K蓝码
+#EXTINF:-1 group-title="CCTV",CCTV-4K蓝码
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",CCTV-4K高码
+#EXTINF:-1 group-title="CCTV",CCTV-4K高码
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",纯享4K频道
+#EXTINF:-1 group-title="CCTV",纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 group-title="CCTV,#genre#",百事4K频道
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="香港台,#genre#",J2
-http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=MD0D5243334052433340&ct=18392&tsum=04f53cdc2418d66063ce1343aea8fb9a
-#EXTINF:-1 group-title="香港台,#genre#",翡翠台
-http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=MC7C4453017744530177&ct=18392&tsum=d566952eed3cac216a274c40957722ae
-#EXTINF:-1 group-title="香港台,#genre#",明珠台
-http://198.16.106.58:8278/pearl_twn/playlist.m3u8?tid=ME9E4685430546854305&ct=18392&tsum=fad6a63c8942d079c89cce9c6a12a5f3
-#EXTINF:-1 group-title="香港台,#genre#",无线新闻
-http://198.16.106.58:8278/inews_twn/playlist.m3u8?tid=ME4E2812026928120269&ct=18392&tsum=b6468e1246a2b3349bdd8785461d25ca
-#EXTINF:-1 group-title="香港台,#genre#",无线资讯
-http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=MD7D6077097160770971&ct=18392&tsum=c52d6bfaa8625673b95c651d46db93ad
-#EXTINF:-1 group-title="香港台,#genre#",有线新闻
-http://198.16.106.58:8278/hkcnews_twn/playlist.m3u8?tid=MADA4920232649202326&ct=18392&tsum=3ebd3cd985c2b44d4f71a3ba57f39357
-#EXTINF:-1 group-title="香港台,#genre#",viu tv
-http://198.16.106.58:8278/viu1_twn/playlist.m3u8?tid=MBFB5019865950198659&ct=18392&tsum=c13521b82e86694ccf2f94bc1e3076cc
-#EXTINF:-1 group-title="香港台,#genre#",viu tv
-http://198.16.106.58:8278/viu_twn/playlist.m3u8?tid=MCBC8232918982329189&ct=18392&tsum=f2d8eb68bc373aec691dbbe52c493f52
-#EXTINF:-1 group-title="香港台,#genre#",viu6 tv
-http://198.16.106.58:8278/viu6_twn/playlist.m3u8?tid=MD2D3178034831780348&ct=18392&tsum=e648e4c371d48bd837de8c99bc396fb1
-#EXTINF:-1 group-title="香港台,#genre#",rhk 31
-http://198.16.106.58:8278/rhk31_twn/playlist.m3u8?tid=MEAE4537581145375811&ct=18392&tsum=d5b6631971b3789e0232f240032aab1c
-#EXTINF:-1 group-title="香港台,#genre#",rhk 32
-http://198.16.106.58:8278/rhk32_twn/playlist.m3u8?tid=ME0E6717791467177914&ct=18392&tsum=7e9b3ca62c6e8003eea6901833169238
-#EXTINF:-1 group-title="香港台,#genre#",华视
-http://198.16.106.58:8278/666e820fa0/playlist.m3u8?tid=MAEA1594599315945993&ct=18393&tsum=d4b03b0edfba73dcddb8566da270eb67
-#EXTINF:-1 group-title="香港台,#genre#",台视
-http://198.16.106.58:8278/ttv_taiwan/playlist.m3u8?tid=MCEC7501980275019802&ct=18392&tsum=fd04b39ccb7578604977fea09e073aec
-#EXTINF:-1 group-title="香港台,#genre#",中视
-http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=MC6C2338026823380268&ct=18392&tsum=35e9da171e0ab53ec9f27fa565ba0a5d
-#EXTINF:-1 group-title="香港台,#genre#",民视
-http://198.16.106.58:8278/ftvhd_taiwan/playlist.m3u8?tid=MD5D6212094662120946&ct=18392&tsum=60895f4f20fa7874cb9ffb10c9596d5d
-#EXTINF:-1 group-title="香港台,#genre#",公视
-http://198.16.106.58:8278/ctv_taiwan/playlist.m3u8?tid=MB9B7629803476298034&ct=18392&tsum=9487eb745ac9d95b0159bb8f88802c8e
-#EXTINF:-1 group-title="香港台,#genre#",公视3台
-http://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/playlist.m3u8
-#EXTINF:-1 group-title="香港台,#genre#",台视财经
-http://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
-#EXTINF:-1 group-title="香港台,#genre#",台视新闻
-http://198.16.106.58:8278/ttvnews_twn/playlist.m3u8?tid=MEBE9938168199381681&ct=18393&tsum=bee488883704403efbc35ccff896d15f
-#EXTINF:-1 group-title="香港台,#genre#",民视新闻
-http://198.16.106.58:8278/ftvnew_taiwan/playlist.m3u8?tid=MCCC6989888169898881&ct=18392&tsum=a2198ff991ead233ab307858d50403b0
-#EXTINF:-1 group-title="香港台,#genre#",民视台湾
-http://198.16.106.58:8278/ftvtaiwan_twn/playlist.m3u8?tid=MB7B3203811232038112&ct=18393&tsum=2659f2408a42c678d8d4de51b0563181
-#EXTINF:-1 group-title="香港台,#genre#",中视经典
-http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=MFDF7616145176161451&ct=18392&tsum=e1f0b71460b0460081bb48e99f5e8972
-#EXTINF:-1 group-title="香港台,#genre#",中视新闻
-http://198.16.106.58:8278/zhongshinews_twn/playlist.m3u8?tid=ME3E4054894340548943&ct=18393&tsum=e335716fddad4e3d061128bed51dc0a8
-#EXTINF:-1 group-title="香港台,#genre#",寰宇HD综合
-http://198.16.106.58:8278/kuanyuhdzhonghe_twn/playlist.m3u8?tid=MEFE3029475830294758&ct=18392&tsum=1bb293811706315b14f7fa954b39edf4
-#EXTINF:-1 group-title="香港台,#genre#",寰宇财经
-http://198.16.106.58:8278/kuanyubiz_twn/playlist.m3u8?tid=MB8B6719975067199750&ct=18392&tsum=0a253fe1053a13b21f759c87f6f307ff
-#EXTINF:-1 group-title="香港台,#genre#",寰宇新闻
-http://198.16.106.58:8278/kuanyunews1/playlist.m3u8?tid=MD4D2992491529924915&ct=18392&tsum=76a0aadf6bddccaa4473aaf3919f75e7
-#EXTINF:-1 group-title="香港台,#genre#",寰宇新闻台湾台
-http://198.16.106.58:8278/videolandjapan_twn/playlist.m3u8?tid=MC2C5420446354204463&ct=18392&tsum=1b449ee7df36448d8b1836af90bb7a8b
-#EXTINF:-1 group-title="香港台,#genre#",壹电视综合台
-http://198.16.106.58:8278/onetvzonghe/playlist.m3u8?tid=MB3B8376770783767707&ct=18392&tsum=8cd3b2b2884ff84b61e4392f67042537
-#EXTINF:-1 group-title="香港台,#genre#",壹电视新闻台
-http://198.16.106.58:8278/Nexttvnews/playlist.m3u8?tid=MF3F1210790312107903&ct=18392&tsum=d5bae03872c8f88dbe63044df4f8bc68
-#EXTINF:-1 group-title="香港台,#genre#",壹新闻HD
-http://198.16.106.58:8278/onetvnews/playlist.m3u8?tid=MEDE6579865765798657&ct=18392&tsum=e129427a5c5f1da1c7c4a1c920cb39df
-#EXTINF:-1 group-title="香港台,#genre#",TVBS
-http://198.16.106.58:8278/tvbs/playlist.m3u8?tid=MEFE7824840078248400&ct=18392&tsum=d87f71825e2a134527e0395f265932b0
-#EXTINF:-1 group-title="香港台,#genre#",TVBS欢乐台
-http://198.16.106.58:8278/tvbs_g/playlist.m3u8?tid=ME0E2989760329897603&ct=18392&tsum=ca63dc4c0046705a09872bc84a4667f5
-#EXTINF:-1 group-title="香港台,#genre#",TVBS欢乐台
-http://198.16.106.58:8278/tvbshuanle_twn/playlist.m3u8?tid=MC6C2180822021808220&ct=18392&tsum=51766fd7682dedf8856fad809cd77b81
-#EXTINF:-1 group-title="香港台,#genre#",TVBS新闻台
-http://198.16.106.58:8278/tvbs_n/playlist.m3u8?tid=MEFE9769352797693527&ct=18392&tsum=22cb94c46749c8399ae5de55bf9b3f53
-#EXTINF:-1 group-title="香港台,#genre#",中天娱乐
-http://198.16.106.58:8278/ctient/playlist.m3u8?tid=MAFA9292591192925911&ct=18392&tsum=9700d291a8a0f6014e8746168ce4f819
-#EXTINF:-1 group-title="香港台,#genre#",中天综合
-http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=MC9C5862444758624447&ct=18392&tsum=a0cc43cabb1931941a656a359396ba21
-#EXTINF:-1 group-title="香港台,#genre#",中天新闻
-http://198.16.106.58:8278/ctinews/playlist.m3u8?tid=MEFE4113231041132310&ct=18392&tsum=6a3e7c0f4dc22c460e84b9010cefeba0
-#EXTINF:-1 group-title="香港台,#genre#",中天亚洲
-http://198.16.106.58:8278/ctiasia_twn/playlist.m3u8?tid=MD9D8074141680741416&ct=18392&tsum=3a5c597c66faf8b80347d321696ea7d9
-#EXTINF:-1 group-title="香港台,#genre#",八大第一
-http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=MA8A1840221418402214&ct=18392&tsum=f987ccb055254f75b94a87e6edc5c4e1
-#EXTINF:-1 group-title="香港台,#genre#",八大戏剧
-http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=MADA9056847690568476&ct=18392&tsum=c7fa17a1b47ee849836c6ebb23a84b67
-#EXTINF:-1 group-title="香港台,#genre#",八大综合
-http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=MD9D4511702845117028&ct=18392&tsum=acb3fb8e6755143e0d5049e6b3013b74
-#EXTINF:-1 group-title="香港台,#genre#",八大娱乐
-http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=MC7C6131536661315366&ct=18392&tsum=ca3afe510fdab8d2c2c7ed8088843dc9
-#EXTINF:-1 group-title="香港台,#genre#",三立都会HD
-http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=MB1B1781992417819924&ct=18392&tsum=00e0f207f78b848c96b61edd3a516cad
-#EXTINF:-1 group-title="香港台,#genre#",三立新闻HD
-http://198.16.106.58:8278/sanlinews/playlist.m3u8?tid=ME3E5821493458214934&ct=18392&tsum=5f17a08bd8808ba519dc51afd614ea06
-#EXTINF:-1 group-title="香港台,#genre#",三立台湾HD
-http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=MD4D4830297248302972&ct=18392&tsum=08dbefee1d7e866391c2947794ad6b3f
-#EXTINF:-1 group-title="香港台,#genre#",三立戏剧
-http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=MEBE4405873744058737&ct=18392&tsum=80d9989e0b3fc4e5666f44052a74f9e0
-#EXTINF:-1 group-title="香港台,#genre#",三立综合
-http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=MD1D5176975651769756&ct=18392&tsum=570c738746706b2e95d9631b3dac6818
-#EXTINF:-1 group-title="香港台,#genre#",东森新闻台
-http://198.16.106.58:8278/ettvnews/playlist.m3u8?tid=ME2E3419872834198728&ct=18392&tsum=08c9e6687c888827da5cfe6bbc5d9c28
-#EXTINF:-1 group-title="香港台,#genre#",东森新闻HD
-http://198.16.106.58:8278/ettvnews1/playlist.m3u8?tid=MD4D7195950671959506&ct=18392&tsum=49739f15d61e1f79c12063c1ebeb8a89
-#EXTINF:-1 group-title="香港台,#genre#",东森财经新闻
-http://198.16.106.58:8278/ettvcaijing_twn/playlist.m3u8?tid=MD8D3428497234284972&ct=18392&tsum=48bb0d687f3f6452b00a126b0d19a499
-#EXTINF:-1 group-title="香港台,#genre#",东森综合
-http://198.16.106.58:8278/ettvzhonghe/playlist.m3u8?tid=MFFF5613870756138707&ct=18392&tsum=98203c0c3f843b7d4d2d79608a365419
-#EXTINF:-1 group-title="香港台,#genre#",东森洋片
-http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=MC9C7464770174647701&ct=18392&tsum=ac1cd104983e8b71b2923687349fe80f
-#EXTINF:-1 group-title="香港台,#genre#",Astro全佳台
-http://185.180.221.194:8278/709a7e15e5/playlist.m3u8?tid=MB2B5535727355357273&ct=18393&tsum=befb9caa2c30f07d1ae184dcc3f09a01
-#EXTINF:-1 group-title="香港台,#genre#",Astro华丽台
-http://185.180.221.194:8278/b8b3235366/playlist.m3u8?tid=MF4F9906062099060620&ct=18393&tsum=aed2fd07d5f66c7469d1e1400f67fa4b
-#EXTINF:-1 group-title="香港台,#genre#",Astro喜悦台
-http://185.180.221.194:8278/Xiyue/playlist.m3u8?tid=ME3E7000093070000930&ct=18393&tsum=3c275bc9b1f4023aa13cc716e8816a72
-#EXTINF:-1 group-title="香港台,#genre#",Astro欢喜台
-http://185.180.221.194:8278/6192529292/playlist.m3u8?tid=ME1E6676056466760564&ct=18393&tsum=c7c93e30271e8d42b8f02c7a8ca24319
-#EXTINF:-1 group-title="香港台,#genre#",Astro双星台
-http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
-#EXTINF:-1 group-title="龙腾源,#genre#",TVB翡翠
-http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",J2
-http://bbdd.228888888.xyz:8081/hls/ch102.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",无线财经
-http://bbdd.228888888.xyz:8081/hls/ch103.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",TVB明珠
-http://bbdd.228888888.xyz:8081/hls/ch104.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",无线新闻
-http://bbdd.228888888.xyz:8081/hls/ch201.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",有线新闻
-http://bbdd.228888888.xyz:8081/hls/ch109.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",thrill
-http://bbdd.228888888.xyz:8081/hls/ch112.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",NOW新闻
-http://bbdd.228888888.xyz:8081/hls/ch114.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",VIUTV
-http://bbdd.228888888.xyz:8081/hls/ch115.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",VIUTV6
-http://bbdd.228888888.xyz:8081/hls/ch116.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",有线财经
-http://bbdd.228888888.xyz:8081/hls/ch117.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",有线娱乐
-http://bbdd.228888888.xyz:8081/hls/ch118.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",有线18
-http://bbdd.228888888.xyz:8081/hls/ch119.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",中视
-http://bbdd.228888888.xyz:8081/hls/ch202.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",华视
-http://bbdd.228888888.xyz:8081/hls/ch203.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",民视
-http://bbdd.228888888.xyz:8081/hls/ch204.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",台视
-http://bbdd.228888888.xyz:8081/hls/ch205.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",中天新闻
-http://ddbb.228888888.xyz:8081/live/tw101.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",台視新聞
-http://ddbb.228888888.xyz:8081/live/tw102.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",華視新聞
-http://ddbb.228888888.xyz:8081/live/tw103.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",TVBS新聞
-http://ddbb.228888888.xyz:8081/live/tw104.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",民視新聞
-http://ddbb.228888888.xyz:8081/live/tw105.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",东森新闻
-http://ddbb.228888888.xyz:8081/live/tw106.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",中視新聞
-http://ddbb.228888888.xyz:8081/live/tw107.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",寰宇新聞2
-http://ddbb.228888888.xyz:8081/live/tw113.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",寰宇新聞
-http://ddbb.228888888.xyz:8081/live/tw114.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",壹新闻
-http://ddbb.228888888.xyz:8081/live/tw115.m3u8
-#EXTINF:-1 group-title="龙腾源,#genre#",RHK31
-http://bddb.228888888.xyz:8081/live/ws102.m3u8
 
 
