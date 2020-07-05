@@ -465,41 +465,6 @@ TVB娱乐,mitv://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts#m
 華視,mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
 公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 
-AV新源_1111,#genre#
-松视1台,mitv://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts#mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
-松視2台,p2p://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
-松視3台,p2p://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
-驚豔台 HD,p2p://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
-Pandola HD,p2p://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts#p2p://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-香蕉台 HD,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
-彩虹台,p2p://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
-彩虹电影,p2p://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
-HOT,p2p://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
-大人台,p2p://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
-松视1台,mitv://51.79.41.138:18912/5c18f8fb00064883ab4a7502e99eb880.ts#mitv://51.79.41.138:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
-松視2台,mitv://51.79.41.138:18912/5c18f8f7000d865da227cc18456f9b78.ts
-松視3台,mitv://51.79.41.138:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
-惊艳电影台,mitv://51.79.41.138:18912/5c18f9100006a3e277957d172c265f60.ts
-潘朵拉粉红,mitv://51.79.41.138:18912/5c18f90c000e82295eddee09ba5154d2.ts
-潘朵拉玩美,mitv://51.79.41.138:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-香蕉台,mitv://51.79.41.138:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
-彩虹e台,mitv://51.79.41.138:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
-彩虹电影,mitv://51.79.41.138:18912/5c18f8eb000ca18052d40238dd95b247.ts
-HOT,P2p://51.79.41.138:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
-彩虹K频道,mitv://51.79.41.138:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
-松视1台,mitv://fccseuro.pvbox.live:18912/5c18f8fb00064883ab4a7502e99eb880.ts
-松視2台,mitv://fccseuro.pvbox.live:18912/5c18f8f7000d865da227cc18456f9b78.ts
-松視3台,mitv://fccseuro.pvbox.live:18912/5c18f9020004cea3f2f4f4dfb50c3fe2.ts
-驚豔台 HD,mitv://fccseuro.pvbox.live:18912/5c18f9100006a3e277957d172c265f60.ts
-潘多拉粉红,mitv://fccseuro.pvbox.live:18912/5c18f90c000e82295eddee09ba5154d2.ts
-潘多拉完美,mitv://fccseuro.pvbox.live:18912/5c18f905000c08fb1eb848d8c5aa3097.ts
-香蕉台 HD,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a02ad92f47af32cd8d.ts
-彩虹台,mitv://fccseuro.pvbox.live:18912/5c18f8ef000d41c9d0cb955b8eaf0176.ts
-彩虹电影,mitv://fccseuro.pvbox.live:18912/5c18f8eb000ca18052d40238dd95b247.ts
-HOT,mitv://fccseuro.pvbox.live:18912/5c18f8e80001d0461e3a097b2f0a3194.ts
-大人台,mitv://fccseuro.pvbox.live:18912/5c18f8f300074bdff6b178dc9607b8dc.ts
-欢乐台,mitv://fccseuro.pvbox.live:18912/5c18f8fe000ca53e3c7b319d75d5e20f.ts
-
 AV(1)源_1111,#genre#
 松视1,http://f6.apps8888.com:8080/live/402/92df1115eba6a3f5d775dd1318a8892f/index.m3u8
 松视2,http://f6.apps8888.com:8080/live/403/c8f4cc4e018664b818821a1856aa28fd/index.m3u8
