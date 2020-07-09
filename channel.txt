@@ -390,7 +390,7 @@ RTHK32,mitv://51.79.41.138:18912/5badd3910003a73de8a59da1504a2464.ts
 
 $c_start台湾源$c_end
 民视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_5_1
-台视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_7_1
+[emoji:台视]台视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_7_1
 中视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_9_1
 华视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_11_1
 公视,https://opening-marble.000webhostapp.com/proxy/hatv_proxy.php?replace_me_13_1
