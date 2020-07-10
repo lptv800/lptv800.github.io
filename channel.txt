@@ -464,12 +464,12 @@ TVB娱乐,mitv://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts#m
 
 $c_start香港高清源$c_end
 明珠台,http://61.238.6.49:8001/bysid/2
-無綫新聞台,http://61.238.6.49:8001/bysid/83
+[emoji:无线新闻台]無綫新聞台,http://61.238.6.49:8001/bysid/83
 無綫財經 · 資訊台,http://61.238.6.49:8001/bysid/85
-翡翠台,http://61.238.6.49:8000/bysid/1
-ViuTVsix,http://61.238.6.49:8000/bysid/96
-ViuTV,http://61.238.6.49:8000/bysid/99
-J2台,http://61.238.6.49:8001/bysid/82
+[emoji:翡翠台]翡翠台,http://61.238.6.49:8000/bysid/1
+[emoji:VIU6]ViuTVsix,http://61.238.6.49:8000/bysid/96
+[emoji:VIU TV]ViuTV,http://61.238.6.49:8000/bysid/99
+[emoji:J2]J2台,http://61.238.6.49:8001/bysid/82
 
 $c_startAV(1)源_1111$c_end
 Hiplay玩家頻道,http://t.gerss.cn/dl/htv.php?id=401
