@@ -493,8 +493,14 @@ TVB娱乐,mitv://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts#m
 華視,mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
 公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 
-
-
+香港高清源,#genre#
+明珠台,http://61.238.6.49:8001/bysid/2
+無綫新聞台,http://61.238.6.49:8001/bysid/83
+無綫財經 · 資訊台,http://61.238.6.49:8001/bysid/85
+翡翠台,http://61.238.6.49:8000/bysid/1
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+ViuTV,http://61.238.6.49:8000/bysid/99
+J2台,http://61.238.6.49:8001/bysid/82
 
 
 
