@@ -471,7 +471,7 @@ $c_start香港高清源$c_end
 [emoji:VIU TV]ViuTV,http://61.238.6.49:8000/bysid/99
 [emoji:J2]J2台,http://61.238.6.49:8001/bysid/82
 
-$c_start港湾台$c_end
+$c_start港湾台（1）$c_end
 有线新闻,mitv://198.255.74.57:12196/5f1343ad000b0be3ed421a602e6955a9.ts
 [emoji:无线新闻台]無線新聞,mitv://198.255.74.57:12196/5f1343b3000d17d9ed423257f9a36f91.ts
 無線財經,mitv://198.255.74.57:12196/5f1343ae0000d087ed421baae2bc861d.ts
