@@ -521,20 +521,51 @@ A O D 台,mitv://198.255.74.57:12196/5f1342e200076b57ed3f007bd355b8d8.ts
 全  佳  台,mitv://198.255.74.57:12196/5f1342d90009d055ed3eddf05651fcd9.ts
 双  星  台,mitv://198.255.74.57:12196/5f1342d90008fc77ed3eddb916e09d47.ts
 
+HK 0718,#genre#
+无线新闻,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=9
+无线新闻3,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
+无线新闻1,http://520574.xyz/dl/tvb.php?id=inewshd
+无线新闻台1,http://tv.sason.xyz/proxy/tvb.php?id=xw
+翡翠台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=1
+TVB 翡翠,http://111.229.73.84/dl/xg235.php?id=1&xl=2
+TVB星河台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17
+无线财经资讯,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=10
+无线财经台,http://61.238.6.49:8001/bysid/85
+无线财经,http://tv.sason.xyz/proxy/tvb.php?id=cj
+无线财经1,http://www.dszbdq.cn/play/newtvb.php?id=2
+无线财经2,http://111.229.73.84/dl/xg235.php?id=10&xl=2
+翡翠台,http://61.238.6.49:8000/bysid/1
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+ViuTV,http://61.238.6.49:8000/bysid/99
+
+港澳源7.23,#genre#
+翡翠综合,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+翡翠综合,http://danielwu.gz01.bdysite.com/iptv/?id=tvb
+翡翠综合,http://61.238.6.49:8000/bysid/1
+翡翠明珠,http://61.238.6.49:8001/bysid/2
+翡翠明珠,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+无线新闻,http://61.238.6.49:8001/bysid/83
+无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
+有线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=yxxw
+無綫財經,http://61.238.6.49:8001/bysid/85
+J2台,http://61.238.6.49:8001/bysid/82
+
 AV(1)源_1111,#genre#
-Hiplay玩家頻道,http://t.gerss.cn/dl/htv.php?id=401
-Happy頻道,http://t.gerss.cn/dl/htv.php?id=402
-HOT頻道,http://t.gerss.cn/dl/htv.php?id=403
-松視1,http://t.gerss.cn/dl/htv.php?id=405
-松視2,http://t.gerss.cn/dl/htv.php?id=406
-松視3,http://t.gerss.cn/dl/htv.php?id=407
-松視4,http://t.gerss.cn/dl/htv.php?id=404
-彩虹成人頻道,http://t.gerss.cn/dl/htv.php?id=408
-樂活頻道,http://t.gerss.cn/dl/htv.php?id=410
-潘朵拉玩美,http://t.gerss.cn/dl/htv.php?id=411
-潘朵拉粉紅,http://t.gerss.cn/dl/htv.php?id=412
-驚艷成人,http://t.gerss.cn/dl/htv.php?id=413
-香蕉台(HD),http://t.gerss.cn/dl/htv.php?id=414
+玩家頻道備,http://tangyuanya.pw/dl/htv.php?id=401
+happy備,http://tangyuanya.pw/dl/htv.php?id=402
+hot星顏備,http://tangyuanya.pw/dl/htv.php?id=403
+松視4臺備,http://tangyuanya.pw/dl/htv.php?id=404
+松視1臺備,http://tangyuanya.pw/dl/htv.php?id=405
+松視2臺備,http://tangyuanya.pw/dl/htv.php?id=406
+松視3臺備,http://tangyuanya.pw/dl/htv.php?id=407
+彩虹R臺備,http://tangyuanya.pw/dl/htv.php?id=408
+樂活頻道,http://tangyuanya.pw/dl/htv.php?id=410
+潘多拉完美備,http://tangyuanya.pw/dl/htv.php?id=411
+潘多拉粉紅備,http://tangyuanya.pw/dl/htv.php?id=412
+驚艷臺備,http://tangyuanya.pw/dl/htv.php?id=413
+香蕉臺備,http://tangyuanya.pw/dl/htv.php?id=414
 Happy 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAy 
 HOT 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAz 
 松視4台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA0 
