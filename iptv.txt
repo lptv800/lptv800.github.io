@@ -537,6 +537,34 @@ TVB星河台,http://v.exdnd.com/dl/proxy.php?vid=iptv805&tid=gt&id=17
 翡翠台,http://61.238.6.49:8000/bysid/1
 ViuTVsix,http://61.238.6.49:8000/bysid/96
 ViuTV,http://61.238.6.49:8000/bysid/99
+台視HD,http://p06.iptv2asia.com:18888/http/001
+台視綜合,http://p06.iptv2asia.com:18888/http/002
+台視財經,http://p06.iptv2asia.com:18888/http/003
+台視新聞HD,http://p06.iptv2asia.com:18888/http/004
+CTV中視HD,http://p06.iptv2asia.com:18888/http/005
+CTV中視新聞HD,http://p06.iptv2asia.com:18888/http/006
+CTV中視經典,http://p06.iptv2asia.com:18888/http/007
+BRAVO中視菁采,http://p06.iptv2asia.com:18888/http/008
+華視CTSHD,http://p06.iptv2asia.com:18888/http/009
+華視新聞資訊HD,http://p06.iptv2asia.com:18888/http/010
+華視體育文化HD,http://p06.iptv2asia.com:18888/http/011
+民視HD,http://p06.iptv2asia.com:18888/http/012
+民視台灣台HD,http://p06.iptv2asia.com:18888/http/013
+民視第一台HD,http://p06.iptv2asia.com:18888/http/014
+民視新聞台HD,http://p06.iptv2asia.com:18888/http/015
+公視,http://p06.iptv2asia.com:18888/http/016
+公視台語台,http://p06.iptv2asia.com:18888/http/017
+公視3,http://p06.iptv2asia.com:18888/http/018
+TVBS新聞,http://60.199.188.66/HLS/WG_TVBS-N/02.m3u8
+TVBS新聞,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
+TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+三立新聞,http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8
+三立新聞,http://60.199.188.66/HLS/WG_ETTV-N/01.m3u8
+有線新聞,p8p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+明珠台,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+无线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
+無線財經,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 
 港澳源7.23,#genre#
 翡翠综合,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
@@ -566,6 +594,20 @@ hot星顏備,http://tangyuanya.pw/dl/htv.php?id=403
 潘多拉粉紅備,http://tangyuanya.pw/dl/htv.php?id=412
 驚艷臺備,http://tangyuanya.pw/dl/htv.php?id=413
 香蕉臺備,http://tangyuanya.pw/dl/htv.php?id=414
+松視1台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDI_
+松視2台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDM_
+松視3台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDQ_
+香蕉台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDg_
+潘朵拉完美,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTA_
+潘朵拉粉紅,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTE_
+彩虹電影,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTM_
+彩虹K台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDY_
+彩虹E台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDU_
+HOT星顏,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDc_
+HAPPY,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTI_
+驚豔台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDk_
+快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
 Happy 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAy 
 HOT 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAz 
 松視4台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA0 
