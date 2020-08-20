@@ -88,25 +88,26 @@ CCTV15超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u
 CCTV17超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 CCTV超高清 4K,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 CGTN,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
-CCTV1超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-CCTV2超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV3超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV4超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-CCTV5超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV5+超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-CCTV-6电影HD,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-CCTV7超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV8超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV9超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV10超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV11超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-CCTV12超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV13超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-CCTV14超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-CCTV15超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV17超清,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-CCTV超高清 4K,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CGTN,http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-3蓝光,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+CCTV-4蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-5蓝光,http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/#http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+CCTV-5+蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-6蓝光,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV-7蓝光[1920*1080],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-8蓝光,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+CCTV-9蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-10蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-11蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-12蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-13蓝光,http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
+CCTV-14蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV-4K蓝码,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K高码,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+百事4K频道,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 
 $c_startHK Macau(2)$c_end
 HKC综合娱乐台,https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
