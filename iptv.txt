@@ -321,44 +321,29 @@ J2台,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 J2台,http://61.238.6.49:8001/bysid/82
 
 AV(1)源_1111,#genre#
-松視1台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDI_
-松視2台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDM_
-松視3台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDQ_
-香蕉台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDg_
-潘朵拉完美,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTA_
-潘朵拉粉紅,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTE_
-彩虹電影,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTM_
-彩虹K台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDY_
-彩虹E台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDU_
-HOT星顏,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDc_
-HAPPY,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MTI_
-驚豔台,https://ez.wangweizhushou.com/lxtv.php?lxtv1122&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MDk_
-快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
-松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
-Happy 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAy 
-HOT 頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDAz 
-松視4台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA0 
-松視1台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA1 
-松視2台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA2 
-松視3台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA3 
-彩虹r台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDA4 
-樂活頻道,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEw 
-潘多拉完美台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEx 
-潘多拉粉紅台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEy 
-驚艷台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDEz 
-香蕉台,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEaGF0diUyM2lkJTNENDE0
-红粉1台(高清),p8p://0198.02686.cc:16871/5d25b7e900054d910a2fd126812250f8.ts
-红粉2台(高清),p8p://0198.02686.cc:16871/5d25b7e40009b23e0a2fbebea59aef80.ts
-拉风台(高清),p8p://0198.02686.cc:16871/5d25b7e6000300ff0a2fc4d86a4b3abf.ts
-潘多拉台(高清),p8p://0198.02686.cc:16871/5d25b7e50001d4fd0a2fc0a3e867b01c.ts
-K频道(高清),p8p://0198.02686.cc:16871/5d25b7e5000ad9f60a2fc2f2dffda85a.ts
-青春乐园台(高清),p8p://0198.02686.cc:16871/5d25b7e6000a7b120a2fc6c21324f51c.ts
-彩虹台(高清),p8p://0198.02686.cc:16871/5d25b7e700043adb0a2fc9103d0f3e9d.ts
-樱花台(高清),p8p://0198.02686.cc:16871/5d25b7e7000b9ffe0a2fcaf5ddbba365.ts
-乐活台(高清),p8p://0198.02686.cc:16871/5d25b7e80003e23d0a2fcce197673935.ts
-舒活台(高清),p8p://0198.02686.cc:16871/5d25b7e8000d10950a2fcf3b28b5d106.ts
-
-
+松视1台,p8p://0818.02686.cc:20012/5f3f2c2b000f126c0a4476a7dee5d96c.ts
+松视2,p8p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e
+松视3台,p8p://0818.02686.cc:20012/5f3f2cc700001f430a46d433c00cd7cd.ts
+K频道,p8p://0818.02686.cc:20012/5f3f2b9e0005cb370a424d7f07df7156.ts
+彩虹MOIVE,p8p://0818.02686.cc:20012/5f3f2b350002131a0a40b263a63e9fdf.ts
+彩虹e台,p8p://0818.02686.cc:20012/5f3f2a7800019ef50a3dcffdb1daa619.ts
+HOT,p8p://0818.02686.cc:20012/5f3f2a31000938130a3cbc97aa35e26d.ts
+HAPPY,p8p://0818.02686.cc:20012/5f3f298b000350920a3a32a46e3f183f.ts
+潘多拉玩美,p8p://0818.02686.cc:20012/5f3f278f00023acc0a3271fd50ba8d23.ts
+潘多拉粉红,p8p://0818.02686.cc:20012/5f3f26e00005c41d0a2fc74dc6d2ac31.ts
+惊艳成人电影台,p8p://0818.02686.cc:20012/5f3f25da000e99280a2bca20680560c2.ts
+香蕉台,p8p://0818.02686.cc:20012/5f3f24c1000af48d0a277f8997de9d5f.ts
+高清无码1,p8p://0818.02686.cc:20012/5f3f2e5a0003915a0a4cfb4da38d6ed8.ts
+高清无码2,p8p://0818.02686.cc:20012/5f3f2e9f000b559d0a4e0ad28ce54913.ts
+高清无码3,p8p://0818.02686.cc:20012/5f3f2fbc000c70e30a526462ef446896.ts
+高清无码4,p8p://0818.02686.cc:20012/5f3f2ff80007fef30a534d9f762fa0ed.ts
+高清无码5,p8p://0818.02686.cc:20012/5f3f306f0007d1660a551e6b27110a49.ts
+高清无码6,p8p://0818.02686.cc:20012/5f3f312b000cefdc0a57fe1bc034aa6c.ts
+高清无码7,p8p://0818.02686.cc:20012/5f3f31f70005ee300a5b19305c50d5e1.ts
+高清无码8,p8p://0818.02686.cc:20012/5f3f317d000cd5c00a593e64218c74c7.ts
+高清无码9,p8p://0818.02686.cc:20012/5f3f32ac000bd5f60a5dddbb8907f335.ts
+高清无码10,p8p://0818.02686.cc:20012/5f3f32f0000eded80a5ee822d0b984b5.ts
+高清无码11,p8p://0818.02686.cc:20012/5f3f33af0005501c0a61cfc7673db9a7.ts
 
 
 
