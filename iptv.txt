@@ -144,25 +144,38 @@ NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
 东森超视,mitv://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e.ts
 东森幼幼,mitv://147.135.39.171:9906/5e7cf98d000118463dc383fc2a2c3dc9.ts
 
-Mitv源,#genre#
-翡翠,mitv://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts#mitv://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
-翡翠(备),mitv://fccseuro.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts#mitv://fccsovh.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
-无线新闻,mitv://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#mitv://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
-无线新闻(备),mitv://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb.ts#mitv://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb.ts
-J2,mitv://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#mitv://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
-J2(备),mitv://fccseuro.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts#mitv://fccsovh.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts
-明珠,mitv://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#mitv://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
-HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-无线财经,mitv://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#mitv://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
-HKC新闻,mitv://fccsovh.pvbox.live:18912/5cb870e80007bd8518bd664dc725ad75.ts#mitv://fccseuro.pvbox.live:18912/5cb870e80007bd8518bd664dc725ad75.ts
-香港開電視,mitv://fccseuro.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2.ts#mitv://fccsovh.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2.ts
-TVB娱乐,mitv://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts#mitv://fccsovh.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts
-民視,mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts
-台视 HD,mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#mitv://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
-大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98.ts#mitv://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98.ts
-中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts
-華視,mitv://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
-公視,mitv://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#mitv://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
+107源,#genre#
+J2,P2p://107.148.223.220:48918/5fbff87d0009345d4c0d3a1c59b1a9a0
+无线新闻台,P2p://107.148.223.220:48918/5fbff87d000855524c0d39e343e3f354
+翡翠台,P2p://107.148.223.220:48918/5fbff87d000774a04c0d39a9484db2b1
+奇妙电视,P2p://107.148.223.220:48918/5fbff87d000696244c0d3970b10b1115
+明珠台,P2p://107.148.223.220:48918/5fbff87d0005ba6a4c0d39387dddfbd5
+RHK31,P2p://107.148.223.220:48918/5fbff8830001e1f54c0d4fac40f1f047
+RHK32,P2p://107.148.223.220:48918/5fbff87d0004e82c4c0d39026d49d893
+ViuTu,P2p://107.148.223.220:48918/5fbff87d0004a7164c0d38f1a850fc5c
+ViuTu_6,P2p://107.148.223.220:48918/5fbff878000926414c0d269096edb536
+无线财经资讯台,P2p://107.148.223.220:48918/5fbff87800084a204c0d265868a6a54a
+香港开电视,P2p://107.148.223.220:48918/5fbff8830000d4904c0d4f679ab84758
+香港有线新闻,P2p://107.148.223.220:48918/5fbff8780001de7d4c0d24b31faee6da
+中视经典,P2p://107.148.223.220:48918/5fbff8730004fcc04c0d11f748bc431e
+中视 HD,P2p://107.148.223.220:48918/5fbff8730004222b4c0d11bf037ef6f8
+中视新闻台,P2p://107.148.223.220:48918/5fbff873000335214c0d11830e3a0a5b
+公视 HD,P2p://107.148.223.220:48918/5fbff873000244fd4c0d1145ebcab0da
+民视台湾台,P2p://107.148.223.220:48918/5fbff87300016d1c4c0d110e7b4da107
+民视新闻台,P2p://107.148.223.220:48918/5fbff873000091e34c0d10d6692e19ea
+民视第一台,P2p://107.148.223.220:48918/5fbff866000a313e4c0ce084fba515fa
+民视,P2p://107.148.223.220:48918/5fbff872000eeb874c0d109a88a6c1e3
+台视 HD,P2p://107.148.223.220:48918/5fbff872000e10244c0d106288e07983
+台视新闻台,P2p://107.148.223.220:48918/5fbff872000d2ece4c0d102864df51c3
+华视 HD,P2p://107.148.223.220:48918/5fbff872000c4f9c4c0d0feffc98f923
+年代新闻,P2p://107.148.223.220:48918/5fbff872000b6dfc4c0d0fb5f72b5d60
+非凡新闻,P2p://107.148.223.220:48918/5fbff872000a94ea4c0d0f7e7cdc4ac3
+纬来育乐,P2p://107.148.223.220:48918/5fbff872000a49894c0d0f6b94dc6162
+纬来综合,P2p://107.148.223.220:48918/5fbff86d0008f9044c0cfb8c9c6ec398
+华丽台,P2p://107.148.223.220:48918/5fbff8100002ea9b4c0b8eb8572a8804
+小太阳,P2p://107.148.223.220:48918/5fbff8100001217c4c0b8e433f93b854
+全佳,P2p://107.148.223.220:48918/5fbff810000035084c0b8e0663b51f12
+双星,P2p://107.148.223.220:48918/5fbff80f000e96d54c0b8dcd53f94f39
 
 香港高清源,#genre#
 明珠台,http://61.238.6.49:8001/bysid/2
