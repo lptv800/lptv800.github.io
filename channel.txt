@@ -278,30 +278,30 @@ $c_start港澳源7.23$c_end
 無綫財經,http://61.238.6.49:8001/bysid/85
 [emoji:J2]J2台,http://61.238.6.49:8001/bysid/82
 
-$c_startHITV$c_end
-[emoji:翡翠台]TVB翡翠,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
-TVB明珠,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
-[emoji:J2]TVB J2,tvbus://6VBHJgmSsrmg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
-[emoji:无线新闻台]无线新闻,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
-无线财经,tvbus://5abQ59biU9JmaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
-有线新闻,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo
-有线体育,tvbus://5z5hyC2iiPvRwBZEVBs7U8ety8mnzBtg5hqMwp3tr6idj1fhihwLA1cyysg2F
-有线体育,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
-有线18台,tvbus://5i3Bvmk3f1gLcJee7BoPVyvNdMkkybMWXkvpNYWjiCG6en5r85mZzd77FM8mE
-有线603,tvbus://6DkDGTWoByEnPdchfaKxM1ML1nea2VKiVNYyvRrwFhi5gjbmq1CEo1nW2kS9x
-有线财经,tvbus://63fvA6r71HaVvqPntBHZTgkkC3QsCGaNu2YJgcDPQ7rtxTwQzys6ucgQRo4fV
-有线娱乐,tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK
-VIUTV,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
-NOW新闻,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM
-NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
-RTHK31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
-RTHK32,tvbus://5KqYBRifjas1kDjSTncngGo4vxnyKkwJnnsHWk6aGwMb8k1SM6EFpRDsGfR7U
-香港开电视,tvbus://6fsQou6zBDhugncdm41whPZWJSNRysBNA8ApnEZpHZPAzfYRcK1WiPowMwLer
-[emoji:无线新闻台]无线新闻,http://tv_qt.kksyw.top/tv_qt888/gat/tvb.php?id=1
-有线娱乐,http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
-TVB明珠,http://tv_qt.kksyw.top/tv_qt888/gn/gudou.php?id=xgmingzhu_1500
-[emoji:翡翠台]TVB翡翠,http://tv_qt.kksyw.top/tv_qt888/gn/gudou.php?id=xgfeicui_1500
-[emoji:翡翠台]TVB翡翠,http://tv_qt.kksyw.top/tv_qt888/b.php?tv=翡翠台(备)
+$c_startP5P$c_end
+有线新闻,p5p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts
+无线新闻,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
+TVB-J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+无线翡翠,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+无线明珠,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+无线资讯,p5p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
+综合娱乐,p5p://0198.02686.cc:16871/5f2cc18d0002ad29174d3cc37573600e.ts
+有线18台,p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
+VIUTV,p5p://0198.02686.cc:16871/5f2cb706000ed2b7172420872f151703.ts
+港台电视31,p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
+香港开电视,p5p://0198.02686.cc:16871/5f2cbf8c000b033117456afede5aa743.ts
+中视高清,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
+台视高清,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
+民视高清,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
+民视新闻,p5p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+壹视新闻,p5p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+壹视综合,p5p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
+Astro华丽台,p5p://0198.02686.cc:16871/5ecfb36000001d6396821ea0563496d9.ts
+Astro欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
+Astro爱奇艺,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
+Astro双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
+Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
+Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
 
 $c_start韩国$c_end
 韩国-KMTV,tvbus://5NW3FFM1tRx9FiZW5KWX2kf6NDLwntDiFnjqnuPKqvqCczeGm7vk5FQX4tvto
