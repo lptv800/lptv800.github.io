@@ -1,121 +1,110 @@
-
 #EXTM3U
-#EXTINF:-1 group-title="香港高清",明珠台
+#EXTINF:-1 group-title="香港高清台",明珠台
 http://61.238.6.49:8001/bysid/2
-#EXTINF:-1 group-title="香港高清",無綫新聞台
+#EXTINF:-1 group-title="香港高清台",无线新闻台
 http://61.238.6.49:8001/bysid/83
-#EXTINF:-1 group-title="香港高清",無綫財經 · 資訊台
+#EXTINF:-1 group-title="香港高清台",无线财经·资讯台
 http://61.238.6.49:8001/bysid/85
-#EXTINF:-1 group-title="香港高清",翡翠台
+#EXTINF:-1 group-title="香港高清台",翡翠台
 http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 group-title="香港高清",ViuTVsix
+#EXTINF:-1 group-title="香港高清台",ViuTVsix
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 group-title="香港高清",ViuTV
+#EXTINF:-1 group-title="香港高清台",ViuTV
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 group-title="香港高清",J2台
+#EXTINF:-1 group-title="香港高清台",J2台
 http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 group-title="港台",翡翠综合
+#EXTINF:-1 group-title="香港高清台",TVB J2台
+http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+#EXTINF:-1 group-title="香港高清台",TVB明珠台
+http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+#EXTINF:-1 group-title="香港高清台",TVB翡翠台
+http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+#EXTINF:-1 group-title="香港高清台",TVB新聞台
+http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
+#EXTINF:-1 group-title="香港台",翡翠综合
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 group-title="港台",翡翠综合
+#EXTINF:-1 group-title="香港台",翡翠综合
 http://danielwu.gz01.bdysite.com/iptv/?id=tvb
-#EXTINF:-1 group-title="港台",翡翠综合
+#EXTINF:-1 group-title="香港台",翡翠综合
 http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 group-title="港台",翡翠明珠
+#EXTINF:-1 group-title="香港台",翡翠明珠
 http://61.238.6.49:8001/bysid/2
-#EXTINF:-1 group-title="港台",翡翠明珠
+#EXTINF:-1 group-title="香港台",翡翠明珠
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="港台",翡翠明珠
+#EXTINF:-1 group-title="香港台",翡翠明珠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="港台",翡翠明珠
+#EXTINF:-1 group-title="香港台",翡翠明珠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-#EXTINF:-1 group-title="港台",无线新闻
+#EXTINF:-1 group-title="香港台",无线新闻
 http://61.238.6.49:8001/bysid/83
-#EXTINF:-1 group-title="港台",无线新闻
+#EXTINF:-1 group-title="香港台",无线新闻
 http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
-#EXTINF:-1 group-title="港台",有线新闻
+#EXTINF:-1 group-title="香港台",有线新闻
 http://danielwu.gz01.bdysite.com/iptv/?id=yxxw
-#EXTINF:-1 group-title="港台",無綫財經
+#EXTINF:-1 group-title="香港台",无线财经
 http://61.238.6.49:8001/bysid/85
-#EXTINF:-1 group-title="港台",J2台
+#EXTINF:-1 group-title="香港台",J2台
 http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 group-title="CCTV",CCTV-1蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-2蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-3蓝光
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-4蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-5蓝光
-http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/#http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-5+蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8#http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-6蓝光
-http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8#http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-7蓝光[1920*1080]
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-8蓝光
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-9蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-10蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-11蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-12蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-13蓝光
-http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-14蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-15蓝光
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-17蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-4K蓝码
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-4K高码
-http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 group-title="CCTV",百事4K频道
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV1超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV2超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV3超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV4超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV5+超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-6电影HD
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV7超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV8超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV9超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV10超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV11超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV12超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV13超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV14超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV15超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV17超清
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV超高清 4K
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-#EXTINF:-1 group-title="CCTV",CGTN
-http://120.241.188.27/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-1 8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-2 8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3(4M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3(8M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-4
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5(4M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5(8M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+  8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6(4M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6(8M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-7  8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8(4M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8(8M)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-9  8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-10
+http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-10  8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-11
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-12
+http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-12  8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-14
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-14高清8M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV-15
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村高清4M
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="CCTV",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
 
 
