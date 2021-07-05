@@ -303,53 +303,26 @@ Astro双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
 Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
 Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
 
-$c_startns2港湾台$c_end
-CNN,mitv://ns2.hellotvvod.com:9906/af9a53b73f054846895c9897f8ab4eb6.ts
-民视,mitv://ns2.hellotvvod.com:9906/08fb8494b81e4dfa9a61b876ce6022a3.ts
-人间卫视,mitv://ns2.hellotvvod.com:9906/29553337e2594caf922a0cccc38c1232.ts
-台视,mitv://ns2.hellotvvod.com:9906/4aa17a1600694f0da36e5156ca5a0447.ts
-大爱,mitv://ns2.hellotvvod.com:9906/9d882d3754f244debd3b600c1101c207.ts
-中视,mitv://ns2.hellotvvod.com:9906/b38bd7674fa04ed7bb60a3e5b4c34bab.ts
-霹雳台湾台,mitv://ns2.hellotvvod.com:9906/3f2ca8769dea45eda0336202b2031d5a.ts
-华视,mitv://ns2.hellotvvod.com:9906/92d223a4fd4a4b659f9c18684934b0bf.ts
-公视,mitv://ns2.hellotvvod.com:9906/9a170aa9d7534cfb8b9312bd4076a633.ts
-公视台语台,mitv://ns2.hellotvvod.com:9906/efd77922b2594a12bdbb59551d792e50.ts
-港台電視31,mitv://ns2.hellotvvod.com:9906/dcf163898ead413e9c3ebb85d52d8277.ts
-港台电视32,mitv://ns2.hellotvvod.com:9906/12cabfd27d194e4685af3ac1f06c494a.ts
-香港开电视,mitv://ns2.hellotvvod.com:9906/26eb82c3f8d94db5a7700d76946184cb.ts
-翡翠台(备),mitv://ns2.hellotvvod.com:9906/0610977b37cc4c978192818eb8686053.ts
-J2,mitv://ns2.hellotvvod.com:9906/3f1748c99c95496e8547204939705429.ts
-明珠台,mitv://ns2.hellotvvod.com:9906/169a24692ba84e95b8b2ebe2491ef83a.ts
-无线新闻台,mitv://ns2.hellotvvod.com:9906/9915905cf4c44d919f98188a625d2a5f.ts
-ViuTVsix,mitv://ns2.hellotvvod.com:9906/a57ca5b32c0e43cb8bd63b76bea68ce9.ts
-ViuTV,mitv://ns2.hellotvvod.com:9906/d2ee9b500bdd4e1e8bf60fdb7a34498c.ts
-香港无线新闻台,mitv://ns2.hellotvvod.com:9906/604c79820003412db9e551b942eb0874.ts
-HKC 18,mitv://ns2.hellotvvod.com:9906/60925bda000bdd5acae1c1dd36f87576.ts
-HKC 603,mitv://ns2.hellotvvod.com:9906/60536a0c000375ded500ecd976f06cfd.ts
-翡翠台,mitv://ns2.hellotvvod.com:9906/1e78ff7373bd46e39f2f40c0a09e81ee.ts CNN,mitv://ns2.hellotvvod.com:9906/af9a53b73f054846895c9897f8ab4eb6.ts
-TV1,mitv://ns2.hellotvvod.com:9906/9f8d858d1f2541b7a103e4926e19499a.ts
-TV2,mitv://ns2.hellotvvod.com:9906/abbe5cd71d0a4c3fbaad59465e866efe.ts
-TV3,mitv://ns2.hellotvvod.com:9906/59a689ad01824f37bb78015a57af3d5a.ts
-Astro小太阳,mitv://ns2.hellotvvod.com:9906/b53d6f6e84fe4ad59567e2b146ae0894.ts
-Astro AEC(备),mitv://ns2.hellotvvod.com:9906/a9a236621c6c4cba81078eb719f15f8b.ts
-Astro双星,mitv://ns2.hellotvvod.com:9906/b61f93b099db446297d1314505b5a1d0.ts
-Astro全佳,mitv://ns2.hellotvvod.com:9906/7571f4cb4f1543ab8220694def3ee835.ts
-天映频道,mitv://ns2.hellotvvod.com:9906/58769bfba6c247d2855f39050c076253.ts
-翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/ad0d9f8a12ee4ab4ab184373bbeb1ad6.ts
-Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/76fc69569735448fbd1ae79b7cb633b9.ts
-中天亚洲台,mitv://ns2.hellotvvod.com:9906/fde6c01415164c99b1594401b996defd.ts
-香港无线新闻台,mitv://ns2.hellotvvod.com:9906/604c79820003412db9e551b942eb0874.ts
-Astro欢喜台,mitv://ns2.hellotvvod.com:9906/93104e4f1af148ea8e3cd0333b418c3c.ts
-无线新闻台,mitv://ns2.hellotvvod.com:9906/9915905cf4c44d919f98188a625d2a5f.ts
-香港无线新闻台,mitv://ns2.hellotvvod.com:9906/604c79820003412db9e551b942eb0874.ts
-now新闻台,mitv://ns2.hellotvvod.com:9906/965d29611a8c4fa7a77462a95bc52c5a.ts
-东森新闻台,mitv://ns2.hellotvvod.com:9906/6068d2b7b8574c0a8a7e1c78df97133d.ts
-中天新闻台,mitv://ns2.hellotvvod.com:9906/ed541615b0a14a8e8e32769d2aa908c2.ts
-民视新闻台,mitv://ns2.hellotvvod.com:9906/337ff42855794e0b8629b17d7559d361.ts
-三立新闻台,mitv://ns2.hellotvvod.com:9906/db2893404a24435d944097640dce0c7f.ts
-TVBS新闻台,mitv://ns2.hellotvvod.com:9906/95156f8bf39c4ba19ccef74b2593dcaa.ts
-东森财经新闻台,mitv://ns2.hellotvvod.com:9906/39edd9d820054487876d3b137a56c380.ts
-非凡新闻台,mitv://ns2.hellotvvod.com:9906/3c9b8f9890b44977b4fc8a8d64b75b59.ts
+$c_start港$c_end
+翡翠,tvbus://6CYpcABuqf3RrsnjCwViXm3fzZxgeEvjemvxDQf1YHYEBAuJWbsQLesPnnxPt
+无线新闻,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
+明珠,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
+viutv,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
+j2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
+无线财经,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
+rthk31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
+RTHK32,tvbus://5KqYBRifjas1kDjSTncngGo4vxnyKkwJnnsHWk6aGwMb8k1SM6EFpRDsGfR7U
+高清603台,tvbus://6DkDGTWoByEnPdchfaKxM1ML1nea2VKiVNYyvRrwFhi5gjbmq1CEo1nW2kS9x
+有線18台,tvbus://5i3Bvmk3f1gLcJee7BoPVyvNdMkkybMWXkvpNYWjiCG6en5r85mZzd77FM8mE
+有線娛樂,tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK
+有線體育2,tvbus://3VVyGVyQB7hhcuRxWDKb7nxgCqJcBSkZCd9qBnWGp3k5hH74uf
+有線新聞,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo
+NOW 新闻,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM
+NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
+双星,tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj
+全佳,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
+华丽,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
+ML_天映,tvbus://5gWRwQczZURAdQBNVt6KhaJZWfWYrQ4PzKM3VymWpSEBm9wVsnVHUsHT2d88o
 
 
 $c_startAV(1)源_1111$c_end
