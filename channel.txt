@@ -104,9 +104,6 @@ j2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
 无线财经,tvbus://5abQ59biU9JmSDaVxDMGYqY44R9xq2mpyfMRoiuGuFT7NoXLSkaME7diYrevL
 TVB星河,tvbus://5rYDDrFr8zHam7aFnp1Dz97B634q5QbLqhrVNCT2p4C56gBsaemHs8eWmRkqJ
 RTHK32,tvbus://5KqYBRifjas1kDjSTncngGo4vxnyKkwJnnsHWk6aGwMb8k1SM6EFpRDsGfR7U
-凤凰资讯,tvbus://6VtmWGXBWsZdttRWaZxjXxxMo3SoTzZNp4U9vBJm8WXKUgXLJfUaPgsUR4qUL
-凤凰卫视,tvbus://6VcWe6ABdTke5PBvWQ9Bg3APSDwsQCJjNwjKYtZrU2kMGWJ1dHETNPPsRCGJL
-凤凰香港,tvbus://6BJwgLicQwMHssbeiMJNbwSPoySHTb5voME89ofJKoN8gJ9BrdoXxcRUEdXXE
 rthk31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
 奇妙电视,tvbus://6fsQou6zBDhugncdm41whPZWJSNRysBNA8ApnEZpHZPAzfYRcK1WiPowMwLer
 有線體育,tvbus://5z5hyC2iiPvRwBZEVBs7U8ety8mnzBtg5hqMwp3tr6idj1fhihwLA1cyysg2F
@@ -116,6 +113,30 @@ rthk31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
 高清603台,tvbus://6DkDGTWoByEnPdchfaKxM1ML1nea2VKiVNYyvRrwFhi5gjbmq1CEo1nW2kS9x
 NOW 新闻,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM
 NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
+﻿翡翠台,tvbus://6TfjoohwSRMxGFboofPXSiezLKLkKxoKJM7mZ8eK7C5AZ3YaEttTM9UTsGJH7
+無線新聞台,tvbus://5YsFaP1VuG7mcB23CypgZ9cNNsv3SJtESD8mZUdPHNNUGHm71b3fTKJCSH4HN
+明珠台,tvbus://61V85DyYVcVZFMY2P5NRc8QM5wvHw6ZfvTDUqhL23AN33vNfKH3X9j4DKoU7r
+viutv,tvbus://5TRJtBkaYNHuAjqkYALafieT8hqjSGZUxhMh2VMRATqokeyTxKVDrrSWjLQiR
+j2,tvbus://6VBHJgmSsrmSDg1tvDKeV2mUdN1VCbwc1rAqeeDPdvuwUwrYX6NkWrWmuwRC2
+RTHK32,tvbus://5KqYBRifjas1kDjSTncngGo4vxnyKkwJnnsHWk6aGwMb8k1SM6EFpRDsGfR7U
+RHK31,tvbus://6LG8XinCKR8W9K7rNRrPbzCJfuYubAqzE8nrGJsijA219EobCWdoNdo3mgJh7
+香港開電視,tvbus://6fsQou6zBDhugncdm41whPZWJSNRysBNA8ApnEZpHZPAzfYRcK1WiPowMwLer
+有線體育,tvbus://5z5hyC2iiPvRwBZEVBs7U8ety8mnzBtg5hqMwp3tr6idj1fhihwLA1cyysg2F
+有線18台,tvbus://5i3Bvmk3f1gLcJee7BoPVyvNdMkkybMWXkvpNYWjiCG6en5r85mZzd77FM8mE
+有線財經,tvbus://63fvA6r71HaVvqPntBHZTgkkC3QsCGaNu2YJgcDPQ7rtxTwQzys6ucgQRo4fV
+有線娛樂,tvbus://6HBjDrhcqo2RGExPNhuQfyD5rkfK3J42wyE15qS7yn116KoJ9y93svdXDPVhK
+有線新聞,tvbus://5KXsErRUrgRpRJU4sXpNhdZ3K7EX7Zfd1wcaytmrsTknUQ1Dn4MDHEPYmauQo
+高清603台,tvbus://6DkDGTWoByEnPdchfaKxM1ML1nea2VKiVNYyvRrwFhi5gjbmq1CEo1nW2kS9x
+娛樂新聞,tvbus://62Cov39MtSfqEq8ryeiVhDfStgHqLHm7r8HqQYgvxieuKoNYDYNkfdbTvyE7Y
+有线新闻台线路二,p2p://livefccs.looktvb.com:16888/5f4cad4100086f031e4203d06b2cfcf0.ts
+NOW 新闻,tvbus://5z9iVBi34FWnh4bXn1obe87mAfpgATGrBfv8Vx3LNtvAH8EqGH5x3h7xbuzeM
+NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
+AEC HD,tvbus://69HUkvFC5bgvWC7Aiyw5D97oab717PfL95iuqLjfdhJuWz5DA2phzxoLcKLi4
+雙星台,tvbus://5twcSF7JKTzUVxKoqKF9iJ3ppQnUaXJdZhvfcKdHo7K55UJtkvXAxvKfCCdUj
+全佳台,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
+華麗台,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
+歡喜台,tvbus://6Gv4wn3XhVm449Z2Qc9Dip7j2WQYWW1ZjWoGGKiv9NRQNpGKgDEYEYtWmJJC6
+AOD,tvbus://6M2LXLZTJBZgxKppRjk3hS1DdpbYXYZwxRT5rJHYhCceQMEswdU6ryfZZS2va
 双星,tvbus://65KFzmeNPHWa91jTcsym8egA3XAiavnD5Ak1NJ2iiHNhKxC2AY7Gz47q6MyDj
 全佳,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m
 华丽,tvbus://6gsunidCw9zw1XxAhtwAGEXRyfKxSVspS6yBTMGszT9gAHdi3sitETJwNobCF
@@ -123,19 +144,28 @@ NOW直播,tvbus://5iq3WFP2ZZt4iXDCc7sodMGxx48UJckzpy6S3cEFaQspsQ7jutyJiAuq3XpkA
 中视,mitv://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts
 华视,mitv://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905.ts
 公视,mitv://147.135.39.171:9906/5e9e760d00082ccec09222e0768b3cba.ts
-八大综合,mitv://147.135.39.171:9906/5e9e749a000d3deac08c7af061bf4966.ts
-八大娱乐,mitv://147.135.39.171:9906/5e9e749b00099094c08c7dde5ba80b06.ts
-八大第一,mitv://147.135.39.171:9906/5e9e749b00040aaac08c7c7774062e4f.ts
-八大戏剧,mitv://147.135.39.171:9906/5e9e749a0007249ec08c795a648451d4.ts
-东森新闻,mitv://147.135.39.171:9906/5eb29b85000e2d4e0f44a539793f250c.ts
-东森财经,mitv://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts
-东森亚洲,mitv://147.135.39.171:9906/5ede6859000be2b3ba5d17d529f60875.ts
-东森综合,mitv://147.135.39.171:9906/5eb29b860006eefb0f44a74c7d3950ab.ts
-东森电影,mitv://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661.ts
-东森洋片,mitv://147.135.39.171:9906/5ea13baf000efb4ecb66256578d5166f.ts
-东森戏剧,mitv://147.135.39.171:9906/5eb29b86000c614d0f44a8b302d67a7e.ts
-东森超视,mitv://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e.ts
-东森幼幼,mitv://147.135.39.171:9906/5e7cf98d000118463dc383fc2a2c3dc9.ts
+民視,tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp
+民視新聞台HD,tvbus://6jFetiFjCWXsqPDsuGyy49zbmRtbHmkoosUuDtmYR4W89jPaxqfeRLScGUYwB
+民視新聞台,tvbus://7nT2iddkgmDZ1RGyHpRd7qxnDBkgkxTm1jyFJPRAbmrjrS6ctR
+民視第一台HD,tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
+民視第一台,tvbus://7Mr4JguE9t8WmjxQrbVopcAtPjtkbBsQhXaoYmthFEcQ2Ews3u
+民視台灣台HD,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
+民視台灣台,tvbus://8NozZU7NHAr4ePJwNgpUMDKXHnrd3kjGr2hLevzsvaYdBbBGXr
+台視,tvbus://7t2ivyBLp7Dy8j2NQdnHPxrJRLs8qUDAQjKUiZmAD7y3k6QtTb
+台視新聞,tvbus://7cqz3AhEqMKENB9T2d4PyDyoJBuvc7ELSBLD4h7UTm75QbUUoW
+台視財經台,tvbus://87CC5jmRkPXg4SciMr5sDQ5HHgLjw5VErXV5xvh7mMsZnh5vTH
+台視綜合台,tvbus://816nXW2wpNN4h8qUWSyfi197s5H9B4RHmKiLvPB5SjYfTg6Joh
+中視,tvbus://6tmVPLy8qewPrgUS6n1VhBv3EkTcCwQbXTkEg7zh3mfvPFCnz5
+中视新闻,tvbus://79k2QZQw4r59enLjCFc5SWXQSP1W5oaC1J4XmtNjY44hWjRxs7
+中视新闻HD,tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
+中視經典台,tvbus://7b2H1BoizYf6gefs5Vo5U2en49smSNQ7ZHdj6kGakroVumFR1W
+中視菁采台,tvbus://8jQZXR3YkjrgsK8v68Fm52KtNjnXg2auM4b46tb1XUXjkCQ3rH
+華視,tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX
+公視,tvbus://7gZG9TtGAevuGZ6z3sUYaPxrr8zeqP5pAPMS6o2HVTag7yh4Bm
+公視台語台,tvbus://6qkEzW3LhZ8DgVL5ivQFaJwKUXJXXrGsi3aQnSHZAHRNFeSoy8
+公視3,tvbus://8RT5B4va9wkfC7a6twDMtKQiQAhu8HcNNmVdi7Rhnri1nSnv9b
+大愛電視,tvbus://7DCyc4FLPENQTLThfYHS1yDF7cyBAVr3FVHD9YTvVk2AiWtQT3
+大愛二台,tvbus://78Butmx62nXwBdFxgCfCAXYEHSLLxUUGa6Z4KCbyEHLMikeKLU
 
 $c_start107源$c_end
 J2,P2p://107.148.223.220:48918/5fbff87d0009345d4c0d3a1c59b1a9a0
@@ -304,14 +334,10 @@ Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
 Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
 
 $c_startAV(1)源_1111$c_end
-彩虹e台,p2p://ns2.hellotvvod.com:9906/30287410178b4d21a82de2f8b892fede
-彩虹电影台,p2p://ns2.hellotvvod.com:9906/d19446f7a4c74047bde1ca15c6609103
-LOOK TV,p2p://ns2.hellotvvod.com:9906/1a798b97c9284ff4b9e9738a3df5e455
-潘朵啦玩美台,p2p://ns2.hellotvvod.com:9906/10589c42eb344b1e93f8a08715dc7491
-惊艳成人电影台,p2p://ns2.hellotvvod.com:9906/92598aa1260546668303fab4231451b6
-松视1台,p2p://ns2.hellotvvod.com:9906/123d2990d35e45599bfb3d68dee25267
-松视2台,p2p://ns2.hellotvvod.com:9906/83df5aa831dc488db92b79bc0ce2b202
-潘朵啦粉红台,p2p://ns2.hellotvvod.com:9906/c5967d3640f848968d398bea126e468a
-PLAYBOY,p2p://ns2.hellotvvod.com:9906/46ca075a19314e14bddb25e9d90ee40c
-香蕉台,p2p://ns2.hellotvvod.com:9906/ed314d99496146958273131bb4f861dc
-HOT,p2p://ns2.hellotvvod.com:9906/c85311a43a8f4c7a9906ed4182ecf7da
+彩虹电影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
+彩虹E台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
+松视1台,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
+松视2台,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
+惊艳台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
+极限电影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
+潘多拉完美,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
