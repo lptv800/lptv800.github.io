@@ -341,13 +341,19 @@ Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
 Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
 
 AV(1)源_1111,#genre#
-彩虹电影,p8p://0198.02686.cc:16871/60d53d16000eff77f2a9a6d4e162209c.ts
-彩虹E台,p8p://0198.02686.cc:16871/60d53d5a000f345ff2aab082b6067f98.ts
-松视1台,p8p://0198.02686.cc:16871/60d53d8e00057359f2ab7923682f1b04.ts
-松视2台,p8p://0198.02686.cc:16871/60d53dc70008faa7f2ac58b29604771a.ts
-惊艳台,p8p://0198.02686.cc:16871/60d53ded0009cddef2aced586355082e.ts
-极限电影,p8p://0198.02686.cc:16871/60d53e1000085590f2ad75b087c6e78e.ts
-潘多拉完美,p8p://0198.02686.cc:16871/60d53e4100021553f2ae337ec15497c2.ts
+HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
+潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
+彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+RUsskayanoch,http://93.189.224.117:9030/russkayanoch
+hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
+redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
+Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
 
 
 
