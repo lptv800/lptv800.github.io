@@ -339,6 +339,12 @@ Astro爱奇艺,p5p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a.ts
 Astro双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
 Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
 Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
+民視,rtmp://59.124.75.153/sat/tv051
+台視,rtmp://59.124.75.153/sat/tv071
+中視,rtmp://59.124.75.153/sat/tv091
+華視,rtmp://59.124.75.153/sat/tv111
+TVBS新聞,rtmp://59.124.75.153/sat/tv551
+東森財經新聞,rtmp://59.124.75.153/sat/tv571
 
 AV(1)源_1111,#genre#
 HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
