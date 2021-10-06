@@ -78,6 +78,22 @@ VIU,p8p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
 有線603高清,p8p://fccs.123178.top:9906/60693cbb000cbc0e15b522a901468cb2.ts
 有線娛樂台,p8p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
 
+$c_start高清香港台（地面波源）$c_end
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台(中英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
+J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+无线新闻台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台(粤语声道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
+无线财经·资讯台,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
+港台电视31台,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台电视32台,https://cdn.hkdtmb.com/hls/32/index.m3u8
+港台电视33台,https://cdn.hkdtmb.com/hls/33/index.m3u8
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+
 $c_start台湾台$c_end
 民視,rtmp://59.124.75.153/sat/tv051
 台視,rtmp://59.124.75.153/sat/tv071
