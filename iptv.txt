@@ -114,6 +114,42 @@ ELEVEN,rtmp://161.202.204.248/sat/tv731
 ELTA體育3,rtmp://161.202.204.248/sat/md021
 ELTA體育1,rtmp://161.202.204.248/sat/md051
 
+港湾台,#genre#
+J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
+翡.翠.台,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
+翡翠台广电,http://116.199.5.51:8114/00000000/b680be64bb9341b0b66d7bdbab974fef/index.m3u8?version=0&FvSeid=67d4f6d1c979dcb8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1191&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=00000000&Pcontent_id=b680be64bb9341b0b66d7bdbab974fef&Fsv_CMSID=00000000&Fsv_otype=1
+明珠台,https://p2.weizan.cn/1646497941/724923712381534274/live.m3u8
+明珠台广电,http://116.199.5.51:8114/00000000/b680be64bb9341b0b66d7bdbab974fef/index.m3u8?version=0&FvSeid=67d4f6d1c979dcb8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1191&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=00000000&Pcontent_id=b680be64bb9341b0b66d7bdbab974fef&Fsv_CMSID=00000000&Fsv_otype=1
+无线新闻,https://p2.weizan.cn/1646497941/673946820532880689/live.m3u8
+VIUT,https://p2.weizan.cn/1646497941/298463206624524692/live.m3u8
+台视 HD,http://50.7.61.148:30080/Entry/ttv
+民视 HD,http://50.7.61.147:30080/Entry/ftv
+华视CTS HD,http://50.7.61.147:30080/Entry/cts
+中视 HD,http://50.7.61.148:30080/Entry/ctv
+TVBS HD,http://50.7.61.148:30080/Entry/tvbs
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET综合,http://50.7.61.147:30080/Entry/jet
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+SET三立台湾,http://50.7.61.148:30080/Entry/settw-
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+TVBS欢乐台,rtmp://59.124.75.136/sat/tv421
+TVBS新闻台,rtmp://59.124.75.136/sat/tv551
+东森财经新闻,rtmp://59.124.75.136/sat/tv571
+纬来育乐,rtmp://59.124.75.136/sat/tv701
+纬来体育,rtmp://59.124.75.136/sat/tv721
+MoMo综合台,rtmp://59.124.75.136/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+纬来日本,rtmp://59.124.75.136/sat/tv771
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+
 AV(1)源_1111,#genre#
 HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
