@@ -1,0 +1,151 @@
+$c_start港台免翻$c_end
+[emoji:翡翠台]翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
+TVB明珠,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
+J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
+有線娛樂台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
+民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
+台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
+台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
+中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
+中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
+中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
+華視 HD,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
+民视,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
+[emoji:无线新闻台]无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+[emoji:无线新闻台]无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+[emoji:翡翠台]翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
+[emoji:翡翠台]翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+[emoji:翡翠台]翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+[emoji:翡翠台]翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+[emoji:J2]J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+[emoji:J2]J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
+有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
+有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
+有线18台,rtmp://161.202.204.248/sat/hk041
+无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+[emoji:VIU6]ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
+RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播331台,https://api.leonardpark.dev/live/now/331
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
+民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
+华视,rtmp://161.202.204.248:1935/sat/tv111
+Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+$c_startP8P$c_end
+[emoji:J2]J2,p8p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04.ts
+[emoji:翡翠台]翡翠台,p8p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
+TVB明珠,p8p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
+J5,p8p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
+互動新聞台,p8p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
+動新聞台,p8p://fccs.123178.top:9906/60ed1aee000cb6580fa7e0fdc9ca8c4e
+RK31,p8p://fccs.123178.top:9906/60693efb0004b7c815bdea9b4ac50fcb.ts
+RK32,p8p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
+RK32,p8p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
+VIU,p8p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
+[emoji:VIU6]VIU SIX,p8p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
+有線新聞,p8p://fccs.123178.top:9906/6048a389000ca55311d1b4e03b6b32df.ts
+有線財經台,p8p://fccs.123178.top:9906/60693c610004761315b3c0fb80a71cf8.ts
+有線18台,p8p://fccs.123178.top:9906/60693bf3000bde2815b21530e4f633d3.ts
+有線603高清,p8p://fccs.123178.top:9906/60693cbb000cbc0e15b522a901468cb2.ts
+有線娛樂台,p8p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
+
+$c_start高清香港台（地面波源）$c_end
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台(中英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
+J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+无线新闻台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台(粤语声道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
+无线财经·资讯台,https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
+港台电视31台,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台电视32台,https://cdn.hkdtmb.com/hls/32/index.m3u8
+港台电视33台,https://cdn.hkdtmb.com/hls/33/index.m3u8
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香港国际财经台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+
+$c_start台湾台$c_end
+民視,rtmp://59.124.75.153/sat/tv051
+台視,rtmp://59.124.75.153/sat/tv071
+中視,rtmp://59.124.75.153/sat/tv091
+華視,rtmp://59.124.75.153/sat/tv111
+TVBS新聞,rtmp://59.124.75.153/sat/tv551
+東森財經新聞,rtmp://59.124.75.153/sat/tv571
+緯來日本,rtmp://59.124.75.153/sat/tv521
+緯來育樂,rtmp://59.124.75.153/sat/tv701
+緯來體育,rtmp://59.124.75.153/sat/tv721
+ELEVEN1,rtmp://59.124.75.153/sat/tv731
+東森超視,rtmp://59.124.75.153/sat/tv771
+ELTA奧運1,rtmp://59.124.75.153/sat/md011
+ELTA體育3,rtmp://59.124.75.153/sat/md021
+ELTA體育1,rtmp://59.124.75.153/sat/md051
+TVBS歡樂,rtmp://161.202.204.248/sat/tv421
+ELEVEN,rtmp://161.202.204.248/sat/tv731
+ELTA體育3,rtmp://161.202.204.248/sat/md021
+ELTA體育1,rtmp://161.202.204.248/sat/md051
+
+$c_start港湾台$c_end
+J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
+翡.翠.台,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
+翡翠台广电,http://116.199.5.51:8114/00000000/b680be64bb9341b0b66d7bdbab974fef/index.m3u8?version=0&FvSeid=67d4f6d1c979dcb8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1191&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=00000000&Pcontent_id=b680be64bb9341b0b66d7bdbab974fef&Fsv_CMSID=00000000&Fsv_otype=1
+明珠台,https://p2.weizan.cn/1646497941/724923712381534274/live.m3u8
+明珠台广电,http://116.199.5.51:8114/00000000/b680be64bb9341b0b66d7bdbab974fef/index.m3u8?version=0&FvSeid=67d4f6d1c979dcb8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1191&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=00000000&Pcontent_id=b680be64bb9341b0b66d7bdbab974fef&Fsv_CMSID=00000000&Fsv_otype=1
+无线新闻,https://p2.weizan.cn/1646497941/673946820532880689/live.m3u8
+VIUT,https://p2.weizan.cn/1646497941/298463206624524692/live.m3u8
+台视 HD,http://50.7.61.148:30080/Entry/ttv
+民视 HD,http://50.7.61.147:30080/Entry/ftv
+华视CTS HD,http://50.7.61.147:30080/Entry/cts
+中视 HD,http://50.7.61.148:30080/Entry/ctv
+TVBS HD,http://50.7.61.148:30080/Entry/tvbs
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET综合,http://50.7.61.147:30080/Entry/jet
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+SET三立台湾,http://50.7.61.148:30080/Entry/settw-
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+TVBS欢乐台,rtmp://59.124.75.136/sat/tv421
+TVBS新闻台,rtmp://59.124.75.136/sat/tv551
+东森财经新闻,rtmp://59.124.75.136/sat/tv571
+纬来育乐,rtmp://59.124.75.136/sat/tv701
+纬来体育,rtmp://59.124.75.136/sat/tv721
+MoMo综合台,rtmp://59.124.75.136/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+纬来日本,rtmp://59.124.75.136/sat/tv771
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
