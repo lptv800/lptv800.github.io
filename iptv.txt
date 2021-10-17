@@ -116,7 +116,7 @@ ELTA體育1,rtmp://161.202.204.248/sat/md051
 
 港湾台,#genre#
 J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
-翡.翠.台,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
+翡翠台,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
 翡翠台广电,http://116.199.5.51:8114/00000000/b680be64bb9341b0b66d7bdbab974fef/index.m3u8?version=0&FvSeid=67d4f6d1c979dcb8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1191&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=00000000&Pcontent_id=b680be64bb9341b0b66d7bdbab974fef&Fsv_CMSID=00000000&Fsv_otype=1
 明珠台,https://p2.weizan.cn/1646497941/724923712381534274/live.m3u8
 明珠台广电,http://116.199.5.51:8114/00000000/b680be64bb9341b0b66d7bdbab974fef/index.m3u8?version=0&FvSeid=67d4f6d1c979dcb8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1191&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=00000000&Pcontent_id=b680be64bb9341b0b66d7bdbab974fef&Fsv_CMSID=00000000&Fsv_otype=1
