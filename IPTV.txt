@@ -1,5 +1,5 @@
 $c_start港台免翻$c_end
-[emoji:翡翠台]翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
+翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
 TVB明珠,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
 J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 有線娛樂台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
@@ -11,14 +11,14 @@ J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
 華視 HD,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
 民视,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-[emoji:无线新闻台]无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
-[emoji:无线新闻台]无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-[emoji:翡翠台]翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
-[emoji:翡翠台]翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-[emoji:翡翠台]翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-[emoji:翡翠台]翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-[emoji:J2]J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-[emoji:J2]J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
@@ -36,7 +36,7 @@ J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-[emoji:VIU6]ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
+ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
@@ -61,8 +61,8 @@ Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
 $c_startP8P$c_end
-[emoji:J2]J2,p8p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04.ts
-[emoji:翡翠台]翡翠台,p8p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
+J2,p8p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04.ts
+翡翠台,p8p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
 TVB明珠,p8p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
 J5,p8p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
 互動新聞台,p8p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
@@ -71,7 +71,7 @@ RK31,p8p://fccs.123178.top:9906/60693efb0004b7c815bdea9b4ac50fcb.ts
 RK32,p8p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
 RK32,p8p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
 VIU,p8p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
-[emoji:VIU6]VIU SIX,p8p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
+VIU SIX,p8p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
 有線新聞,p8p://fccs.123178.top:9906/6048a389000ca55311d1b4e03b6b32df.ts
 有線財經台,p8p://fccs.123178.top:9906/60693c610004761315b3c0fb80a71cf8.ts
 有線18台,p8p://fccs.123178.top:9906/60693bf3000bde2815b21530e4f633d3.ts
