@@ -1,82 +1,113 @@
-港台免翻,#genre#
-翡翠台,p5p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
-TVB明珠,p5p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
-J5,p5p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
-有線娛樂台,p5p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
-民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-台視 HD,p5p://fccs.123178.top:9906/604483a00001a70f01b50be75415ab3a.ts
-台視新聞,p5p://fccs.123178.top:9906/60448580000cd93c01bc61c5ce37b60a.ts
-中視 HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-中視新聞,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
-中視經典台,p5p://fccs.123178.top:9906/604489250001a93601ca9b70388b5d75.ts
-華視 HD,p5p://fccs.123178.top:9906/60448a5e0007261101cf6380c974fa71.ts
-民视,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
-有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
-有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
-有线18台,rtmp://161.202.204.248/sat/hk041
-无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+香港,#genre#
+翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+明珠台广东,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#https://cdn.hkdtmb.com/hls/85/index.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+Now直播331台,https://api.leonardpark.dev/live/now/331
+HKC有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
+HKC有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
+HKC有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
 无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
-RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now直播331台,https://api.leonardpark.dev/live/now/331
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
-香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
-民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
-台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
-中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
-华视,rtmp://161.202.204.248:1935/sat/tv111
-Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+香港开电视,https://cdn-cn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+纬来日本,http://50.7.61.147:30080/Entry/vljp
+台视,http://50.7.61.148:30080/Entry/ttv
+TVBS,http://50.7.61.148:30080/Entry/tvbs
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+中视,http://50.7.61.148:30080/Entry/ctv
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET综合,http://50.7.61.147:30080/Entry/jet
+民视,http://50.7.61.147:30080/Entry/ftv
+华视CTS,http://50.7.61.147:30080/Entry/cts
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
 
-P8P,#genre#
-J2,p8p://fccs.123178.top:9906/60435877000a8705070460f5c3c8cb04.ts
-翡翠台,p8p://fccs.123178.top:9906/604357750001033b07006eb55a3e9a7d.ts
-TVB明珠,p8p://fccs.123178.top:9906/604357ed000a60d0070245dbf181e582.ts
-J5,p8p://fccs.123178.top:9906/604356f80000c88a06fe865e7d380324.ts
-互動新聞台,p8p://fccs.123178.top:9906/60693e820004bfd915bc11f5fbb305ed.ts
-動新聞台,p8p://fccs.123178.top:9906/60ed1aee000cb6580fa7e0fdc9ca8c4e
-RK31,p8p://fccs.123178.top:9906/60693efb0004b7c815bdea9b4ac50fcb.ts
-RK32,p8p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
-RK32,p8p://fccs.123178.top:9906/60693f4b000a807615bf2496ceb91552.ts
-VIU,p8p://fccs.123178.top:9906/6043566f000e998306fc72bfe48d0cd7.ts
-VIU SIX,p8p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
-有線新聞,p8p://fccs.123178.top:9906/6048a389000ca55311d1b4e03b6b32df.ts
-有線財經台,p8p://fccs.123178.top:9906/60693c610004761315b3c0fb80a71cf8.ts
-有線18台,p8p://fccs.123178.top:9906/60693bf3000bde2815b21530e4f633d3.ts
-有線603高清,p8p://fccs.123178.top:9906/60693cbb000cbc0e15b522a901468cb2.ts
-有線娛樂台,p8p://fccs.123178.top:9906/60693d720003abb015b7eb2f92963e28.ts
+P2P,#genre#
+无线新闻台,P2p://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
+无线财经·资讯台,P2p://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
+ViuTVsix,P2p://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
+ViuTV,P2p://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+now新闻台,P2p://ns2.hellotvvod.com:9906/f228f98bc84245ce9b4870364b82b6da
+now直播台,P2p://ns2.hellotvvod.com:9906/185dbf64ed284733a132ae9ec355f263
+HKC新闻台,P2p://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf
+HKC财经资讯台,P2p://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+HKC 18,P2p://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
+HKC 603,P2p://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+翡翠台,P2p://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
+明珠台,P2p://ns2.hellotvvod.com:9906/7a62960513a04dc18339caabbf644cd9
+HKC直播新闻台,P2p://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
+爆谷台,P2p://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
+Astro AEC(备),P2p://ns2.hellotvvod.com:9906/ba54a1fee32c4b159e953cc9f2632857
+Astro双星,P2p://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
+Astro全佳,P2p://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
+天映频道,P2p://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+翡翠台(华丽台),P2p://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
+Astro AOD HD 311,P2p://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85
+CNN,P2p://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+民视,P2p://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
+台视,P2p://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
+大爱,P2p://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
+中视,P2p://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
+华视,P2p://ns2.hellotvvod.com:9906/fd73b217be314cf198807cc5d1d911b6
+公视,P2p://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
+原住民电视台,P2p://ns2.hellotvvod.com:9906/aa08defb0c824c2286623855624a0e07
+MOMO亲子台,P2p://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
+东森幼幼台,P2p://ns2.hellotvvod.com:9906/a5729018eb3d44c4b4033e72ea4af060
+纬来综合台,P2p://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
+八大第一台,P2p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
+八大综合台,P2p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
+三立台湾台,P2p://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
+三立都会台,P2p://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+东森综合台,P2p://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
+超视,P2p://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
+中天综合台,P2p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
+中天娱乐台,P2p://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
+壹电视新闻台,P2p://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
+年代新闻,P2p://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
+东森新闻台,P2p://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
+中天新闻台,P2p://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
+民视新闻台,P2p://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
+三立新闻台,P2p://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
+TVBS新闻台,P2p://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
+TVBS,P2p://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
+东森财经新闻台,P2p://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
+非凡新闻台,P2p://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
+CINEMAX,P2p://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
+纬来育乐台,P2p://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
+纬来体育台,P2p://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
+ELEVEN体育1台,P2p://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
+纬来日本,P2p://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
+FOX,P2p://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
+Z频道,P2p://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
+Animax,P2p://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
+MTV,P2p://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
+八大娱乐台,P2p://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
+三立iNEWS,P2p://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
+公视3台,P2p://ns2.hellotvvod.com:9906/6ba6fe3a051e4113b82eb6d32fbb7114
+大爱2台,P2p://ns2.hellotvvod.com:9906/4523b0956bb34141bfb61460ea9494ed
+三立综合台,P2p://ns2.hellotvvod.com:9906/39099a64df574197b97e74dcdabbb332
+靖天资讯台,P2p://ns2.hellotvvod.com:9906/62412f14fbef4a3f8c7e463cc8db65c8
+靖天综合台,P2p://ns2.hellotvvod.com:9906/fe98dad44e224b70ae27c282fdd5682a
+靖天育乐台,P2p://ns2.hellotvvod.com:9906/48cbe27fc4af4d988cab3cbf08c34d60
+中视经典台,P2p://ns2.hellotvvod.com:9906/003d7fef9db3466e9b9e2f569474dd28
+中视菁采台,P2p://ns2.hellotvvod.com:9906/c448d3d8a89f432d9d5ea92258dc3cef
+TVBS精采台,P2p://ns2.hellotvvod.com:9906/12b97bd9bd274f78846703aceb5894d2
+壹电视综合,P2p://ns2.hellotvvod.com:9906/9296b1db1f674585a1ca7be4ff47c004
+纬来精采,P2p://ns2.hellotvvod.com:9906/2c975cf5b04545ba8bf7b0320111883a
+ETtoday综合台,P2p://ns2.hellotvvod.com:9906/b9f9c80102d54af7b3bc3aedc124afa9
+民视第一台,P2p://ns2.hellotvvod.com:9906/998ca373e45e4f01b6755ddaec323cb7
+民视台湾台,P2p://ns2.hellotvvod.com:9906/42f0e30a314e405bbbc3c67bb7846c60
 
 高清香港台（地面波源）,#genre#
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
@@ -176,6 +207,20 @@ RUsskayanoch,http://93.189.224.117:9030/russkayanoch
 hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
 redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
 Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
+彩虹e台,P2p://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
+彩虹电影台,P2p://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
+LOOK TV,P2p://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
+潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61
+惊艳成人电影台,P2p://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8
+松视1台,P2p://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
+松视2台,P2p://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
+潘朵啦粉红台,P2p://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
+香蕉台,P2p://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa
+HOT,P2p://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
+松视3台,P2p://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
+JStar极限台,P2p://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
+HAPPY,P2p://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
 
 福利源_1111,#genre#
 潘朵拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
