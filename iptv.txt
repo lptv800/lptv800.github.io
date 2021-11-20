@@ -33,7 +33,7 @@ JET综合,http://50.7.61.147:30080/Entry/jet
 壹新闻 HD,http://50.7.61.147:30080/Entry/etv
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
 
-🇭🇰P2P,#genre
+P2P,#genre
 无线新闻台,P2p://ns2.hellotvvod.com:9906/977fac4b93af4ee0a190f38217d79e51
 无线财经·资讯台,P2p://ns2.hellotvvod.com:9906/790b3d24875349d8b3118357cb9a5124
 ViuTVsix,P2p://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
