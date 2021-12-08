@@ -33,6 +33,10 @@ https://cdn.hkyoutv.com/hls/76/index.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 #EXTINF:-1 group-title="HK高清",翡翠台 - 线路2（大陆线路）
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="HK高清",明珠台广东
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+#EXTINF:-1 group-title="HK高清",翡翠台（高清）
+http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 group-title="HK高清",翡翠明珠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 group-title="HK高清",ViuTV
@@ -65,6 +69,84 @@ http://danielwu.gz01.bdysite.com/iptv/?id=yxxw
 http://61.238.6.49:8001/bysid/85
 #EXTINF:-1 group-title="香港台",J2台
 http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 group-title="台灣",美丽人生
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",MoMo综合
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",纬来日本
+http://50.7.61.147:30080/Entry/vljp
+#EXTINF:-1 group-title="台灣",JET综合
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1 group-title="台灣",TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 group-title="台灣",中天新闻
+http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="台灣",民视新闻
+http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1 group-title="台灣",三立新闻
+http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新闻
+http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1 group-title="台灣",寰宇新闻
+http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 group-title="台灣",壹新闻台
+http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="台灣",东森新闻
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="台灣",中视新闻
+http://iptv2.phoves.com.cn/mytv/mytv.php?id=21&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516
+#EXTINF:-1 group-title="台灣",东森财经新闻
+http://iptv2.phoves.com.cn/mytv/mytv.php?id=26&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516
+#EXTINF:-1 group-title="台灣",华视新闻
+http://iptv2.phoves.com.cn/mytv/mytv.php?id=27&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516
+#EXTINF:-1 group-title="台灣",壹新闻
+http://iptv2.phoves.com.cn/mytv/mytv.php?id=31&t=1633129423&sign=204e76a8f11f28e92a3e201a49dd7516
+#EXTINF:-1 group-title="台灣",台視
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="台灣",中視
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="台灣",華視
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="台灣",民視
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="台灣",公視
+http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="台灣",八大第一
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台灣",三立台灣
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="台灣",三立都會
+http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="台灣",衛視中文
+http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 group-title="台灣",東森綜合
+http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="台灣",東森超視
+http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="台灣",中天綜合
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="台灣",中天娛樂
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="台灣",台视 HD
+http://50.7.61.148:30080/Entry/ttv
+#EXTINF:-1 group-title="台灣",TVBS HD
+http://50.7.61.148:30080/Entry/tvbs
+#EXTINF:-1 group-title="台灣",民视新闻
+http://50.7.61.148:30080/Entry/ftvnews
+#EXTINF:-1 group-title="台灣",中视 HD
+http://50.7.61.148:30080/Entry/ctv
+#EXTINF:-1 group-title="台灣",非凡商业 HD
+http://50.7.61.147:30080/Entry/ubnbus
+#EXTINF:-1 group-title="台灣",TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 group-title="台灣",JET综合
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1 group-title="台灣",民视 HD
+http://50.7.61.147:30080/Entry/ftv
+#EXTINF:-1 group-title="台灣",华视CTS HD
+http://50.7.61.147:30080/Entry/cts
+#EXTINF:-1 group-title="台灣",SET三立台湾
+http://50.7.61.148:30080/Entry/settw-
 #EXTINF:-1 group-title="CCTV",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-1 8M
@@ -125,6 +207,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="CCTV",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+
 
 
 
