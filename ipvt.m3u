@@ -127,26 +127,6 @@ http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
 http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 #EXTINF:-1 group-title="台湾",中天娛樂
 http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
-#EXTINF:-1 group-title="台湾",台视 HD
-http://50.7.61.148:30080/Entry/ttv
-#EXTINF:-1 group-title="台湾",TVBS HD
-http://50.7.61.148:30080/Entry/tvbs
-#EXTINF:-1 group-title="台湾",民视新闻
-http://50.7.61.148:30080/Entry/ftvnews
-#EXTINF:-1 group-title="台湾",中视 HD
-http://50.7.61.148:30080/Entry/ctv
-#EXTINF:-1 group-title="台湾",非凡商业 HD
-http://50.7.61.147:30080/Entry/ubnbus
-#EXTINF:-1 group-title="台湾",TLC
-http://50.7.61.147:30080/Entry/tlc
-#EXTINF:-1 group-title="台湾",JET综合
-http://50.7.61.147:30080/Entry/jet
-#EXTINF:-1 group-title="台湾",民视 HD
-http://50.7.61.147:30080/Entry/ftv
-#EXTINF:-1 group-title="台湾",华视CTS HD
-http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1 group-title="台湾",SET三立台湾
-http://50.7.61.148:30080/Entry/settw-
 #EXTINF:-1 group-title="CCTV",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV-1 8M
