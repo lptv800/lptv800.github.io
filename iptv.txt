@@ -2,6 +2,7 @@
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 明珠台广东,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+翡翠台（高清）,http://iptv.tvfix.org/hls/jade.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8
