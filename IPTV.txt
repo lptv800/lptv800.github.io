@@ -160,6 +160,30 @@ ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 香港開電視,https://cdn.hkyoutv.com/hls/77/index.m3u8
 香港國際財經台,https://cdn.hkyoutv.com/hls/76/index.m3u8
 
+$c_startHK高清2$c_end
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+翡翠台(繁体) ,http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(简体),http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台 ,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB为食台(2) ,http://iptv.tvfix.org/hls/tvbws2.m3u8
+美亚港版(粤语) ,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚港版(国语) ,http://iptv.tvfix.org/hls/mydy2.m3u8
+J2台,http://iptv.tvfix.org/hls/j2.m3u8
+J2台(2),http://iptv.tvfix.org/hls/j22.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台2,http://iptv.tvfix.org/hls/pearl.m3u8
+无线财经,http://iptv.tvfix.org/hls/finance.m3u8
+无线财经(2),http://iptv.tvfix.org/hls/finance2.m3u8
+无线财经海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+Thrill,http://iptv.tvfix.org//hls/thrill.m3u8
+Thrill(第2声道),http://iptv.tvfix.org/hls/thrill2.m3u8
+
 $c_start台湾台$c_end
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
