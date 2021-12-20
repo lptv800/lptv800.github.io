@@ -45,6 +45,50 @@ http://61.238.6.49:8000/bysid/99.m3u8
 http://61.238.6.49:8000/bysid/96.m3u8
 #EXTINF:-1 group-title="HK高清",香港C+ - 蓝光1
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="HK高清2",无线新闻
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 group-title="HK高清2",翡翠台(繁体) 
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 group-title="HK高清2",翡翠台(简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 group-title="HK高清2",翡翠台海外版(繁体)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 group-title="HK高清2",翡翠台海外版(简体)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 group-title="HK高清2",TVB经典(港版)
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 group-title="HK高清2",TVB为食台 
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 group-title="HK高清2",TVB为食台(2) 
+http://iptv.tvfix.org/hls/tvbws2.m3u8
+#EXTINF:-1 group-title="HK高清2",美亚港版(粤语) 
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 group-title="HK高清2",美亚港版(国语) 
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 group-title="HK高清2",J2台
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 group-title="HK高清2",J2台(2)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 group-title="HK高清2",明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="HK高清2",明珠台2
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="HK高清2",无线财经
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 group-title="HK高清2",无线财经(2)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 group-title="HK高清2",无线财经海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 group-title="HK高清2",TVBS亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 group-title="HK高清2",TVBS新闻台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 group-title="HK高清2",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 group-title="HK高清2",Thrill
+http://iptv.tvfix.org//hls/thrill.m3u8
+#EXTINF:-1 group-title="HK高清2",Thrill(第2声道)
+http://iptv.tvfix.org/hls/thrill2.m3u8
 #EXTINF:-1 group-title="香港台",翡翠综合
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 #EXTINF:-1 group-title="香港台",翡翠综合
@@ -129,6 +173,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="CCTV",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+
 
 
 
