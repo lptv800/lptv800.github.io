@@ -95,43 +95,45 @@ http://iptv.tvfix.org/hls/jade.m3u8
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 group-title="电视侠",翡翠台海外版(粤语繁体)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",J2
+#EXTINF:-1 group-title="电视侠",翡翠台海外版(普通话简体)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 group-title="电视侠",J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",J2(第2声道)
+#EXTINF:-1 group-title="电视侠",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",无线新闻台
+#EXTINF:-1 group-title="电视侠",无线新闻台
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",明珠台
+#EXTINF:-1 group-title="电视侠",明珠台
 http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",明珠台(第2声道)
+#EXTINF:-1 group-title="电视侠",明珠台(第2声道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",无线财经资讯台
+#EXTINF:-1 group-title="电视侠",无线财经资讯台
 http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",无线财经资讯台(第2声道)
+#EXTINF:-1 group-title="电视侠",无线财经资讯台(第2声道)
 http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",无线财经资讯台海外版
+#EXTINF:-1 group-title="电视侠",无线财经资讯台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",ViuTV
+#EXTINF:-1 group-title="电视侠",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",ViuTV(第2声道)
+#EXTINF:-1 group-title="电视侠",ViuTV(第2声道)
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",ViuTV6
+#EXTINF:-1 group-title="电视侠",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",RTHK31
+#EXTINF:-1 group-title="电视侠",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",RTHK32
+#EXTINF:-1 group-title="电视侠",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",香港国际财经台
+#EXTINF:-1 group-title="电视侠",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",香港开电视
+#EXTINF:-1 group-title="电视侠",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",TVBS亚洲台
+#EXTINF:-1 group-title="电视侠",TVBS亚洲台
 http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",TVBS新闻台
+#EXTINF:-1 group-title="电视侠",TVBS新闻台
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",TVB为食台
+#EXTINF:-1 group-title="电视侠",TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 group-title="翡翠台海外版(普通话简体)http://iptv.tvfix.org/hls/jadenhk2.m3u8",TVB为食台(第2声道)
+#EXTINF:-1 group-title="电视侠",TVB为食台(第2声道)
 http://iptv.tvfix.org/hls/tvbws2.m3u8
 #EXTINF:-1 group-title="香港台",翡翠综合
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
@@ -217,12 +219,3 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="CCTV",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-
-
-
-
-
-
-
-
-
