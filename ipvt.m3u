@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 group-title="高清香港台（地面波源）",翡翠台
 https://cdn.hkyoutv.com/hls/81/index.m3u8
@@ -45,6 +46,64 @@ http://61.238.6.49:8000/bysid/99.m3u8
 http://61.238.6.49:8000/bysid/96.m3u8
 #EXTINF:-1 group-title="HK高清",香港C+ - 蓝光1
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="台湾",民视
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 group-title="台湾",台视
+rtmp://59.124.75.157/sat/tv071
+#EXTINF:-1 group-title="台湾",中视
+rtmp://59.124.75.157/sat/tv091
+#EXTINF:-1 group-title="台湾",华视
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 group-title="台湾",TVBS欢乐台
+rtmp://59.124.75.157/sat/tv421
+#EXTINF:-1 group-title="台湾",TVBS新闻台
+rtmp://59.124.75.157/sat/tv551
+#EXTINF:-1 group-title="台湾",东森超视
+rtmp://59.124.75.157/sat/tv331
+#EXTINF:-1 group-title="台湾",东森财经新闻
+rtmp://59.124.75.157/sat/tv571
+#EXTINF:-1 group-title="台湾",纬来日本
+rtmp://59.124.75.157/sat/tv771
+#EXTINF:-1 group-title="台湾",纬来育乐
+rtmp://59.124.75.157/sat/tv701
+#EXTINF:-1 group-title="台湾",纬来体育
+rtmp://59.124.75.157/sat/tv721
+#EXTINF:-1 group-title="台湾",台视
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="台湾",中视
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="台湾",华视
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="台湾",民视
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="台湾",公视
+http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+#EXTINF:-1 group-title="台湾",大爱
+http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
+#EXTINF:-1 group-title="台湾",八大第一
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台湾",八大综合
+http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="台湾",三立台湾
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="台湾",三立都会
+http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="台湾",中天娱乐
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="台湾",三立台湾台
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="台湾",三立都会台
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="台湾",三立财经新闻台
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="台湾",民视
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 group-title="台湾",民视第一台
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 group-title="台湾",民视新闻台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 group-title="台湾",民视台湾台
+http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 group-title="HK高清2",无线新闻
 http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 group-title="HK高清2",翡翠台(繁体) 
