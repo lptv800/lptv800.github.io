@@ -57,8 +57,6 @@ http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1185
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1199
 #EXTINF:-1 group-title="广东",广东国际
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1191
-#EXTINF:-1 group-title="广东",广东房产
-http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1192
 #EXTINF:-1 group-title="广东",经济科教
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1196
 #EXTINF:-1 group-title="广东",南方卫视
@@ -67,48 +65,22 @@ http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1197
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1198
 #EXTINF:-1 group-title="广东",广东少儿
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1200
-#EXTINF:-1 group-title="广东",广东珠江
-http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1183
 #EXTINF:-1 group-title="广东",广东体育
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1184
 #EXTINF:-1 group-title="广东",嘉佳卡通
 http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1187
 #EXTINF:-1 group-title="广东",嘉佳卡通
 http://111.20.33.93/PLTV/88888893/224/3221226227/index.m3u8
-#EXTINF:-1 group-title="广东",广州影视
-http://116.199.5.251/hls/gzys.m3u8
-#EXTINF:-1 group-title="广东",广州法治
-http://116.199.5.251/hls/gzqx.m3u8
-#EXTINF:-1 group-title="广东",广州竞赛
-http://116.199.5.251/hls/gzjs.m3u8
-#EXTINF:-1 group-title="广东",广州综合
-http://116.199.5.251/hls/gzds.m3u8
-#EXTINF:-1 group-title="广东",广州新闻
-http://116.199.5.251/hls/gzxw.m3u8
-#EXTINF:-1 group-title="广东",佛山公共
-http://wa.dubya.net/00/fstv.php?id=fsgg
 #EXTINF:-1 group-title="广东",佛山公共
 http://jdsw.top:8000/udp/239.253.43.53:5146
 #EXTINF:-1 group-title="广东",佛山综合
-http://wa.dubya.net/00/fstv.php?id=fszh
-#EXTINF:-1 group-title="广东",佛山综合
 http://jdsw.top:8000/udp/239.253.43.57:5146
-#EXTINF:-1 group-title="广东",佛山影视
-http://wa.dubya.net/00/fstv.php?id=fsys
 #EXTINF:-1 group-title="广东",佛山影视
 http://jdsw.top:8000/udp/239.253.43.56:5146
 #EXTINF:-1 group-title="广东",佛山南海
-http://wa.dubya.net/00/fstv.php?id=fsnh
-#EXTINF:-1 group-title="广东",佛山南海
 http://jdsw.top:8000/udp/239.253.43.54:5146
 #EXTINF:-1 group-title="广东",佛山顺德
-http://wa.dubya.net/00/fstv.php?id=fssd
-#EXTINF:-1 group-title="广东",佛山顺德
 http://jdsw.top:8000/udp/239.253.43.55:5146
-#EXTINF:-1 group-title="广东",佛山高明
-http://wa.dubya.net/00/fstv.php?id=fsgm
-#EXTINF:-1 group-title="广东",佛山三水
-http://wa.dubya.net/00/fstv.php?id=fsss
 #EXTINF:-1 group-title="广东",深圳都市
 http://jdsw.top:8000/udp/239.77.1.176:5146
 #EXTINF:-1 group-title="广东",深圳都市
@@ -125,8 +97,6 @@ http://jdsw.top:8000/udp/239.77.1.140:5146
 http://jdsw.top:8000/udp/239.77.1.243:5146
 #EXTINF:-1 group-title="广东",深圳财经生活
 http://jdsw.top:8000/udp/239.77.1.242:5146
-#EXTINF:-1 group-title="广东",深圳财经生活
-http://183.11.239.36:808/hls/103/index.m3u8
 #EXTINF:-1 group-title="广东",深圳少儿
 http://jdsw.top:8000/udp/239.77.1.244:5146
 #EXTINF:-1 group-title="广东",深圳宝安
@@ -137,16 +107,6 @@ http://jdsw.top:8000/udp/239.77.1.223:5146
 http://jdsw.top:8000/udp/239.77.1.224:5146
 #EXTINF:-1 group-title="广东",深圳众创
 http://jdsw.top:8000/udp/239.77.1.247:5146
-#EXTINF:-1 group-title="广东",深圳都市频道
-http://183.11.239.36:808/hls/101/index.m3u8
-#EXTINF:-1 group-title="广东",深圳娱乐频道
-http://183.11.239.36:808/hls/104/index.m3u8
-#EXTINF:-1 group-title="广东",深圳少儿频道
-http://183.11.239.36:808/hls/106/index.m3u8
-#EXTINF:-1 group-title="广东",深圳公共频道
-http://183.11.239.36:808/hls/107/index.m3u8
-#EXTINF:-1 group-title="广东",深圳体育健康
-http://183.11.239.36:808/hls/105/index.m3u8
 #EXTINF:-1 group-title="广东",深圳卫视
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 group-title="广东",深圳卫视
@@ -447,4 +407,3 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 group-title="CCTV",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-
