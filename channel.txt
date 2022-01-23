@@ -365,7 +365,7 @@ TVBS新闻,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u
 中天綜合,http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
 中天娛樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 
-$c_start魔改-港$c_end
+$c_start港湾台$c_end
 J2,https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8
 翡翠台,https://p2.weizan.cn/1646497941/13205559193952310/live.m3u8
 翡翠台广电,http://116.199.5.51:8114/00000000/b680be64bb9341b0b66d7bdbab974fef/index.m3u8?version=0&FvSeid=67d4f6d1c979dcb8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1191&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=00000000&Pcontent_id=b680be64bb9341b0b66d7bdbab974fef&Fsv_CMSID=00000000&Fsv_otype=1
@@ -524,6 +524,17 @@ KMP 頻道,p5p://fccs.123178.top:9906/6163d476000d83df0d53f1a1211aff1e
 AV女王,p5p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb
 水多多,p5p://fccs.123178.top:9906/6163d262000030a30d4bd018f5ef2d93
 櫻桃,p5p://fccs.123178.top:9906/6163db960004ec200d6fc46e629bcf58
+HAPPY,rtmp://125.227.196.250:1935/live/HAPPY 
+松视一台,rtmp://125.227.196.250:1935/live/PineVision1 
+松视二台,rtmp://125.227.196.250:1935/live/PineVision2 
+松视三台,rtmp://125.227.196.250:1935/live/PineVision3 
+完美台,rtmp://125.227.196.250:1935/live/PandoraPlays 
+粉红台,rtmp://125.227.196.250:1935/live/PandoraPink 
+香蕉台,rtmp://125.227.196.250:1935/live/BananaStation 
+彩虹E台,rtmp://125.227.196.250:1935/live/Rainbowmovie 
+惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan 
+K频道,rtmp://125.227.196.250:1935/live/Kchannel 
+JSTAR极限台,rtmp://125.227.196.250:1935/live/JSTAR
 
 $c_start福利源_1111$c_end
 潘朵拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
