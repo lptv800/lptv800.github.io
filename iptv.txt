@@ -466,6 +466,17 @@ happy,http://45.11.92.170/play/smart/xziptv.php?id=412
 驚豔台,http://45.11.92.170/play/smart/xziptv.php?id=409
 红松,rtmp://v3948069e.live.126.net/live/fhwwjopytvknbxxykhs
 看到爽,https://www.ast.tv/stream/1/ultra.m3u8
+HAPPY,rtmp://125.227.196.250:1935/live/HAPPY 
+松视一台,rtmp://125.227.196.250:1935/live/PineVision1 
+松视二台,rtmp://125.227.196.250:1935/live/PineVision2 
+松视三台,rtmp://125.227.196.250:1935/live/PineVision3 
+完美台,rtmp://125.227.196.250:1935/live/PandoraPlays 
+粉红台,rtmp://125.227.196.250:1935/live/PandoraPink 
+香蕉台,rtmp://125.227.196.250:1935/live/BananaStation 
+彩虹E台,rtmp://125.227.196.250:1935/live/Rainbowmovie 
+惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan 
+K频道,rtmp://125.227.196.250:1935/live/Kchannel 
+JSTAR极限台,rtmp://125.227.196.250:1935/live/JSTAR
 
 AV(1)源_1111,#genre#
 HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
