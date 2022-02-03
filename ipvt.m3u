@@ -29,6 +29,26 @@ https://cdn.hkyoutv.com/hls/33/index.m3u8
 https://cdn.hkyoutv.com/hls/77/index.m3u8
 #EXTINF:-1 group-title="高清香港台（地面波源）",香港國際財經台
 https://cdn.hkyoutv.com/hls/76/index.m3u8
+#EXTINF:-1 group-title="香港高清",翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",无线新闻
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",明珠台
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",无线财经
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",ViuTV Six
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",港台電視31
+http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",港台電視32
+http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+#EXTINF:-1 group-title="香港高清",港台電視33
+http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 #EXTINF:-1 group-title="HK高清",翡翠台 - 线路1（大陆线路）
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 #EXTINF:-1 group-title="HK高清",翡翠台 - 线路2（大陆线路）
@@ -233,6 +253,50 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 group-title="台湾",民视台湾台
 http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 group-title="台湾",纬来日本
+http://50.7.61.147:30080/Entry/vljp
+#EXTINF:-1 group-title="台湾",JET综合
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1 group-title="台湾",TLC
+http://50.7.61.147:30080/Entry/tlc
+#EXTINF:-1 group-title="台湾",中视
+http://50.7.61.148:30080/Entry/ctv
+#EXTINF:-1 group-title="台湾",台视
+http://50.7.61.148:30080/Entry/ttv
+#EXTINF:-1 group-title="台湾",民视
+http://50.7.61.147:30080/Entry/ftv
+#EXTINF:-1 group-title="台湾",华视
+http://50.7.61.147:30080/Entry/cts
+#EXTINF:-1 group-title="台湾",TVBS
+http://50.7.61.148:30080/Entry/tvbs
+#EXTINF:-1 group-title="台湾",SET三立台湾
+http://50.7.61.148:30080/Entry/settw-
+#EXTINF:-1 group-title="台湾",AXN
+http://50.7.61.148:30080/Entry/axn
+#EXTINF:-1 group-title="台湾",HBO
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1 group-title="台湾",东森新闻
+http://50.7.61.147:30080/Entry/etnews
+#EXTINF:-1 group-title="台湾",民视新闻
+http://50.7.61.148:30080/Entry/ftvnews
+#EXTINF:-1 group-title="台湾",TVBS新闻
+http://50.7.61.148:30080/Entry/tvbsnews
+#EXTINF:-1 group-title="台湾",非凡商业
+http://50.7.61.147:30080/Entry/ubnbus
+#EXTINF:-1 group-title="台湾",壹新闻 HD
+http://50.7.61.147:30080/Entry/etv
+#EXTINF:-1 group-title="台湾",民视
+http://59.125.101.187:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 group-title="台湾",中视
+http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 group-title="台湾",台视
+http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="台湾",华视
+http://59.125.101.187:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 group-title="台湾",八大综合
+http://59.125.101.187:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="台湾",八大第一
+http://59.125.101.187:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 #EXTINF:-1 group-title="HK高清2",无线新闻
 http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 group-title="HK高清2",翡翠台(繁体) 
