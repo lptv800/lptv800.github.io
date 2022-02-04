@@ -253,38 +253,6 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 group-title="台湾",民视台湾台
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 group-title="台湾",纬来日本
-http://50.7.61.147:30080/Entry/vljp
-#EXTINF:-1 group-title="台湾",JET综合
-http://50.7.61.147:30080/Entry/jet
-#EXTINF:-1 group-title="台湾",TLC
-http://50.7.61.147:30080/Entry/tlc
-#EXTINF:-1 group-title="台湾",中视
-http://50.7.61.148:30080/Entry/ctv
-#EXTINF:-1 group-title="台湾",台视
-http://50.7.61.148:30080/Entry/ttv
-#EXTINF:-1 group-title="台湾",民视
-http://50.7.61.147:30080/Entry/ftv
-#EXTINF:-1 group-title="台湾",华视
-http://50.7.61.147:30080/Entry/cts
-#EXTINF:-1 group-title="台湾",TVBS
-http://50.7.61.148:30080/Entry/tvbs
-#EXTINF:-1 group-title="台湾",SET三立台湾
-http://50.7.61.148:30080/Entry/settw-
-#EXTINF:-1 group-title="台湾",AXN
-http://50.7.61.148:30080/Entry/axn
-#EXTINF:-1 group-title="台湾",HBO
-http://50.7.61.148:30080/Entry/hbo
-#EXTINF:-1 group-title="台湾",东森新闻
-http://50.7.61.147:30080/Entry/etnews
-#EXTINF:-1 group-title="台湾",民视新闻
-http://50.7.61.148:30080/Entry/ftvnews
-#EXTINF:-1 group-title="台湾",TVBS新闻
-http://50.7.61.148:30080/Entry/tvbsnews
-#EXTINF:-1 group-title="台湾",非凡商业
-http://50.7.61.147:30080/Entry/ubnbus
-#EXTINF:-1 group-title="台湾",壹新闻 HD
-http://50.7.61.147:30080/Entry/etv
 #EXTINF:-1 group-title="台湾",民视
 http://59.125.101.187:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
 #EXTINF:-1 group-title="台湾",中视
