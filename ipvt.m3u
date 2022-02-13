@@ -29,130 +29,64 @@ https://cdn.hkyoutv.com/hls/33/index.m3u8
 https://cdn.hkyoutv.com/hls/77/index.m3u8
 #EXTINF:-1 group-title="高清香港台（地面波源）",香港國際財經台
 https://cdn.hkyoutv.com/hls/76/index.m3u8
-#EXTINF:-1 group-title="香港高清",翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",J2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",无线新闻
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",无线财经
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",ViuTV Six
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",港台電視31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",港台電視32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",港台電視33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1 group-title="香港高清",TVB翡翠
-http://liuw.usa7.20212021.ga/tbs.php?id=1
-#EXTINF:-1 group-title="香港高清",TVB明珠
-http://liuw.usa7.20212021.ga/tbs.php?id=13
-#EXTINF:-1 group-title="香港高清",TVB J2
-http://liuw.usa7.20212021.ga/tbs.php?id=12
-#EXTINF:-1 group-title="香港高清",TVB星河
-http://liuw.usa7.20212021.ga/tbs.php?id=14
-#EXTINF:-1 group-title="香港高清",Now新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=16
-#EXTINF:-1 group-title="香港高清",ViuTV
-http://liuw.usa7.20212021.ga/tbs.php?id=8
-#EXTINF:-1 group-title="香港高清",耀才财经台
-http://liuw.usa7.20212021.ga/tbs.php?id=19
-#EXTINF:-1 group-title="香港高清",無線新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=9
-#EXTINF:-1 group-title="香港高清",無線財經
-http://liuw.usa7.20212021.ga/tbs.php?id=10
-#EXTINF:-1 group-title="香港高清",NOW財經
-http://liuw.usa7.20212021.ga/tbs.php?id=17
-#EXTINF:-1 group-title="香港高清",有線新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=24
-#EXTINF:-1 group-title="香港高清",有線財經
-http://liuw.usa7.20212021.ga/tbs.php?id=28
-#EXTINF:-1 group-title="香港高清",有线体育
-http://liuw.usa7.20212021.ga/tbs.php?id=27
-#EXTINF:-1 group-title="香港高清",有線電影
-http://liuw.usa7.20212021.ga/tbs.php?id=23
-#EXTINF:-1 group-title="香港高清",有線18台
-http://liuw.usa7.20212021.ga/tbs.php?id=25
-#EXTINF:-1 group-title="香港高清",有線603
-http://liuw.usa7.20212021.ga/tbs.php?id=26
-#EXTINF:-1 group-title="香港高清",開电视
-http://liuw.usa7.20212021.ga/tbs.php?id=7
-#EXTINF:-1 group-title="香港高清",RTHK31
-http://liuw.usa7.20212021.ga/tbs.php?id=20
-#EXTINF:-1 group-title="香港高清",RTHK32
-http://liuw.usa7.20212021.ga/tbs.php?id=21
-#EXTINF:-1 group-title="香港高清",美亞電影台
-http://liuw.usa7.20212021.ga/tbs.php?id=80
-#EXTINF:-1 group-title="香港高清",中視
-http://liuw.usa7.20212021.ga/tbs.php?id=82
-#EXTINF:-1 group-title="香港高清",華視
-http://liuw.usa7.20212021.ga/tbs.php?id=86
-#EXTINF:-1 group-title="香港高清",民視
-http://liuw.usa7.20212021.ga/tbs.php?id=84
-#EXTINF:-1 group-title="香港高清",台視
-http://liuw.usa7.20212021.ga/tbs.php?id=83
-#EXTINF:-1 group-title="香港高清",中視 HD
-http://meimei.kandiantv.cn/cici/gttv.php?id=13681&cid=13834
-#EXTINF:-1 group-title="香港高清",華視 HD
-http://meimei.kandiantv.cn/cici/gttv.php?id=13676&cid=13829
-#EXTINF:-1 group-title="香港高清",民視 HD
-http://meimei.kandiantv.cn/cici/gttv.php?id=13669&cid=13822
-#EXTINF:-1 group-title="香港高清",台視 HD
-http://meimei.kandiantv.cn/cici/gttv.php?id=14185&cid=14345
-#EXTINF:-1 group-title="香港高清",中視經典
-http://meimei.kandiantv.cn/cici/gttv.php?id=13683&cid=13836
-#EXTINF:-1 group-title="香港高清",公視
-http://liuw.usa7.20212021.ga/tbs.php?id=85
-#EXTINF:-1 group-title="香港高清",壹新闻
-http://liuw.usa7.20212021.ga/tbs.php?id=58
-#EXTINF:-1 group-title="香港高清",TVBS
-http://liuw.usa7.20212021.ga/tbs.php?id=95
-#EXTINF:-1 group-title="香港高清",TVBS新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=54
-#EXTINF:-1 group-title="香港高清",TVBS精采
-http://liuw.usa7.20212021.ga/tbs.php?id=96
-#EXTINF:-1 group-title="香港高清",TVBS歡樂
-http://liuw.usa7.20212021.ga/tbs.php?id=97
-#EXTINF:-1 group-title="香港高清",寰宇新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=63
-#EXTINF:-1 group-title="香港高清",寰宇台灣
-http://liuw.usa7.20212021.ga/tbs.php?id=64
-#EXTINF:-1 group-title="香港高清",年代新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=61
-#EXTINF:-1 group-title="香港高清",非凡新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=62
-#EXTINF:-1 group-title="香港高清",中天新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=53
-#EXTINF:-1 group-title="香港高清",東森新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=55
-#EXTINF:-1 group-title="香港高清",三立新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=57
-#EXTINF:-1 group-title="香港高清",三立都会
-http://liuw.usa7.20212021.ga/tbs.php?id=49
-#EXTINF:-1 group-title="香港高清",三立台湾
-http://liuw.usa7.20212021.ga/tbs.php?id=51
-#EXTINF:-1 group-title="香港高清",东森超视
-http://liuw.usa7.20212021.ga/tbs.php?id=69
-#EXTINF:-1 group-title="香港高清",中視新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=60
-#EXTINF:-1 group-title="香港高清",民視新聞
-http://liuw.usa7.20212021.ga/tbs.php?id=59
-#EXTINF:-1 group-title="香港高清",民視台灣
-http://liuw.usa7.20212021.ga/tbs.php?id=99
-#EXTINF:-1 group-title="香港高清",民視第一
-http://liuw.usa7.20212021.ga/tbs.php?id=100
-#EXTINF:-1 group-title="香港高清",民視综艺
-http://liuw.usa7.20212021.ga/tbs.php?id=101
-#EXTINF:-1 group-title="香港高清",民視旅游
-http://liuw.usa7.20212021.ga/tbs.php?id=102
-#EXTINF:-1 group-title="香港高清",民視影剧
-http://liuw.usa7.20212021.ga/tbs.php?id=103
+#EXTINF:-1 group-title="港台高清",翡翠台
+http://206.119.173.184/tv/js.php?id=4
+#EXTINF:-1 group-title="港台高清",明珠台
+http://206.119.173.184/tv/js.php?id=6
+#EXTINF:-1 group-title="港台高清",J2
+http://206.119.173.184/tv/js.php?id=9
+#EXTINF:-1 group-title="港台高清",无线新闻
+http://206.119.173.184/tv/js.php?id=12
+#EXTINF:-1 group-title="港台高清",无线财经
+http://206.119.173.184/tv/js.php?id=13
+#EXTINF:-1 group-title="港台高清",无线财经
+http://206.119.173.184/tv/js.php?id=14
+#EXTINF:-1 group-title="港台高清",VIU6
+http://206.119.173.184/tv/js.php?id=16
+#EXTINF:-1 group-title="港台高清",VIUTV
+http://206.119.173.184/tv/js.php?id=15
+#EXTINF:-1 group-title="港台高清",RHK31
+http://206.119.173.184/tv/js.php?id=17
+#EXTINF:-1 group-title="港台高清",RHK32
+http://206.119.173.184/tv/js.php?id=18
+#EXTINF:-1 group-title="港台高清",TVBS欢乐台
+http://206.119.173.184/tv/js.php?id=22
+#EXTINF:-1 group-title="港台高清",C+
+http://206.119.173.184/tv/js.php?id=21
+#EXTINF:-1 group-title="港台高清",now直播
+http://206.119.173.184/tv/js.php?id=20
+#EXTINF:-1 group-title="港台高清",中天娱乐
+http://206.119.173.184/tv/js.php?id=23
+#EXTINF:-1 group-title="港台高清",中天综合
+http://206.119.173.184/tv/js.php?id=25
+#EXTINF:-1 group-title="港台高清",中视
+http://206.119.173.184/tv/js.php?id=29
+#EXTINF:-1 group-title="港台高清",民视
+http://206.119.173.184/tv/js.php?id=30
+#EXTINF:-1 group-title="港台高清",八大一台
+http://206.119.173.184/tv/js.php?id=34
+#EXTINF:-1 group-title="港台高清",华视
+http://206.119.173.184/tv/js.php?id=32
+#EXTINF:-1 group-title="港台高清",民视台湾台
+http://206.119.173.184/tv/js.php?id=31
+#EXTINF:-1 group-title="港台高清",八大戏剧
+http://206.119.173.184/tv/js.php?id=36
+#EXTINF:-1 group-title="港台高清",八大综合
+http://206.119.173.184/tv/js.php?id=35
+#EXTINF:-1 group-title="港台高清",八大娱乐
+http://206.119.173.184/tv/js.php?id=37
+#EXTINF:-1 group-title="港台高清",三立台湾
+http://206.119.173.184/tv/js.php?id=38
+#EXTINF:-1 group-title="港台高清",三立综合
+http://206.119.173.184/tv/js.php?id=40
+#EXTINF:-1 group-title="港台高清",三立都会
+http://206.119.173.184/tv/js.php?id=41
+#EXTINF:-1 group-title="港台高清",东森综合
+http://206.119.173.184/tv/js.php?id=42
+#EXTINF:-1 group-title="港台高清",东森超视
+http://206.119.173.184/tv/js.php?id=43
+#EXTINF:-1 group-title="港台高清",民视第一
+http://206.119.173.184/tv/js.php?id=46
 #EXTINF:-1 group-title="HK高清",翡翠台 - 线路1（大陆线路）
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 #EXTINF:-1 group-title="HK高清",翡翠台 - 线路2（大陆线路）
