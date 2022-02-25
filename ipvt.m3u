@@ -29,51 +29,51 @@ https://cdn.hkyoutv.com/hls/33/index.m3u8
 https://cdn.hkyoutv.com/hls/77/index.m3u8
 #EXTINF:-1 group-title="高清香港台（地面波源）",香港國際財經台
 https://cdn.hkyoutv.com/hls/76/index.m3u8
-#EXTINF:-1 group-title="香港地面波内地版",翡翠台
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 https://cdn.hkyoutv.com/raw/81.ts
-#EXTINF:-1 group-title="香港地面波内地版",J2台
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2台
 https://cdn.hkyoutv.com/raw/82.ts
-#EXTINF:-1 group-title="香港地面波内地版",無綫新聞台
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",無綫新聞台
 https://cdn.hkyoutv.com/raw/83.ts
-#EXTINF:-1 group-title="香港地面波内地版",明珠台
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
 https://cdn.hkyoutv.com/raw/84.ts
-#EXTINF:-1 group-title="香港地面波内地版",無綫財經·資訊台
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",無綫財經·資訊台
 https://cdn.hkyoutv.com/raw/85.ts
-#EXTINF:-1 group-title="香港地面波内地版",ViuTV
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
 https://cdn.hkyoutv.com/raw/99.ts
-#EXTINF:-1 group-title="香港地面波内地版",ViuTV Six
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV Six
 https://cdn.hkyoutv.com/raw/96.ts
-#EXTINF:-1 group-title="香港地面波内地版",港台電視31
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",港台電視31
 https://cdn.hkyoutv.com/raw/31.ts
-#EXTINF:-1 group-title="香港地面波内地版",港台電視32
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
 https://cdn.hkyoutv.com/raw/32.ts
 #EXTINF:-1 group-title="香港地面波内地版",港台電視33
 https://cdn.hkyoutv.com/raw/33.ts
-#EXTINF:-1 group-title="香港地面波内地版",香港開電視
+#EXTINF:-1 group-title="香港地面波内地版" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港開電視
 https://cdn.hkyoutv.com/raw/77.ts
 #EXTINF:-1 group-title="香港地面波内地版",香港國際財經台
 https://cdn.hkyoutv.com/raw/76.ts
-#EXTINF:-1 group-title="HK地面波挂代理",翡翠台
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 https://cdn.hkdtmb.com/raw/81.ts
-#EXTINF:-1 group-title="HK地面波挂代理",J2台
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2台
 https://cdn.hkdtmb.com/raw/82.ts
-#EXTINF:-1 group-title="HK地面波挂代理",無綫新聞台
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",無綫新聞台
 https://cdn.hkdtmb.com/raw/83.ts
-#EXTINF:-1 group-title="HK地面波挂代理",明珠台
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
 https://cdn.hkdtmb.com/raw/84.ts
-#EXTINF:-1 group-title="HK地面波挂代理",無綫財經·資訊台
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",無綫財經·資訊台
 https://cdn.hkdtmb.com/raw/85.ts
-#EXTINF:-1 group-title="HK地面波挂代理",ViuTV
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV
 https://cdn.hkdtmb.com/raw/99.ts
-#EXTINF:-1 group-title="HK地面波挂代理",ViuTV Six
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV Six
 https://cdn.hkdtmb.com/raw/96.ts
-#EXTINF:-1 group-title="HK地面波挂代理",港台電視31
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",港台電視31
 https://cdn.hkdtmb.com/raw/31.ts
-#EXTINF:-1 group-title="HK地面波挂代理",港台電視32
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",港台電視32
 https://cdn.hkdtmb.com/raw/32.ts
 #EXTINF:-1 group-title="HK地面波挂代理",港台電視33
 https://cdn.hkdtmb.com/raw/33.ts
-#EXTINF:-1 group-title="HK地面波挂代理",香港開電視
+#EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港開電視
 https://cdn.hkdtmb.com/raw/77.ts
 #EXTINF:-1 group-title="HK地面波挂代理",香港國際財經台
 https://cdn.hkdtmb.com/raw/76.ts
@@ -219,19 +219,19 @@ rtmp://59.124.75.157/sat/tv071
 rtmp://59.124.75.157/sat/tv091
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视
 rtmp://59.124.75.157/sat/tv111
-#EXTINF:-1 group-title="台湾",TVBS欢乐台
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾",TVBS欢乐台
 rtmp://59.124.75.157/sat/tv421
-#EXTINF:-1 group-title="台湾",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
 rtmp://59.124.75.157/sat/tv551
-#EXTINF:-1 group-title="台湾",东森超视
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾",东森超视
 rtmp://59.124.75.157/sat/tv331
-#EXTINF:-1 group-title="台湾",东森财经新闻
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",东森财经新闻
 rtmp://59.124.75.157/sat/tv571
-#EXTINF:-1 group-title="台湾",纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来日本
 rtmp://59.124.75.157/sat/tv771
-#EXTINF:-1 group-title="台湾",纬来育乐
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾",纬来育乐
 rtmp://59.124.75.157/sat/tv701
-#EXTINF:-1 group-title="台湾",纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
 rtmp://59.124.75.157/sat/tv721
 #EXTINF:-1 group-title="台湾",台视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
