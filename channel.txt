@@ -500,43 +500,26 @@ HKC 18,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54
 HKC 603,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 
 $c_startAV(2)源_1111$c_end
-彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
-LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61
-潘朵啦粉紅台,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8
-香蕉台,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa
-松視1台,mitv://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
-松視2台,mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
-松視3台,mitv://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
-HOT,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
-JStar極限台,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69
-Dorcel XXX,http://45.11.92.170/play/smart/xziptv.php?id=2248
-Penthouse TV,http://45.11.92.170/play/smart/xziptv.php?id=2249
-松視1,http://45.11.92.170/play/smart/xziptv.php?id=402
-松視2,http://45.11.92.170/play/smart/xziptv.php?id=403
-松視3,http://45.11.92.170/play/smart/xziptv.php?id=404
-香蕉台,http://45.11.92.170/play/smart/xziptv.php?id=408
-潘朵拉完美,http://45.11.92.170/play/smart/xziptv.php?id=410
-潘朵拉粉紅,http://45.11.92.170/play/smart/xziptv.php?id=411
-彩虹電影,http://45.11.92.170/play/smart/xziptv.php?id=413
-彩虹K,http://45.11.92.170/play/smart/xziptv.php?id=406
-彩虹E,http://45.11.92.170/play/smart/xziptv.php?id=405
-一本道,http://45.11.92.170/play/smart/xziptv.php?id=414
-二本道,http://45.11.92.170/play/smart/xziptv.php?id=415
-東京熱,http://45.11.92.170/play/smart/xziptv.php?id=416
-HOT,http://45.11.92.170/play/smart/xziptv.php?id=407
-happy,http://45.11.92.170/play/smart/xziptv.php?id=412
-驚豔台,http://45.11.92.170/play/smart/xziptv.php?id=409
-红松,rtmp://v3948069e.live.126.net/live/fhwwjopytvknbxxykhs
 看到爽,https://www.ast.tv/stream/1/ultra.m3u8
-HAPPY,rtmp://125.227.196.250:1935/live/HAPPY 
-松视一台,rtmp://125.227.196.250:1935/live/PineVision1 
+AV女王,rtmp://202.39.64.234:1936/live/964
+人妻不倫,rtmp://202.39.64.234:1936/live/636
+水多多,rtmp://202.39.64.234:1936/live/968
+近親相姦,rtmp://202.39.64.234:1937/live/967
+彩虹通道,rtmp://202.39.64.234:1937/live/944
+PLAYBOY,rtmp://202.39.64.234:1937/live/943
+KMP,rtmp://202.39.64.234:1937/live/942
+午夜藍,rtmp://202.39.64.234:1937/live/945
+櫻桃,rtmp://202.39.64.234:1937/live/947
+大學女援交妹,rtmp://202.39.64.234:1937/live/966
+做愛輸入,rtmp://202.39.64.234:1938/live/949
+Hot,rtmp://125.227.196.250:1935/live/ho
+Happy,rtmp://125.227.196.250:1935/live/HAPPY
+彩虹電影台,rtmp://118.163.221.79:1936/live/RainbowE
+Look TV,rtmp://118.163.221.79:1936/live/LookHD
+松視一台,rtmp://125.227.196.250:1935/live/PineVision1
 松视二台,rtmp://125.227.196.250:1935/live/PineVision2 
 松视三台,rtmp://125.227.196.250:1935/live/PineVision3 
-完美台,rtmp://125.227.196.250:1935/live/PandoraPlays 
+完美台,rtmp://125.227.196.250:1935/live/PandoraPlay
 粉红台,rtmp://125.227.196.250:1935/live/PandoraPink 
 香蕉台,rtmp://125.227.196.250:1935/live/BananaStation 
 彩虹E台,rtmp://125.227.196.250:1935/live/Rainbowmovie 
