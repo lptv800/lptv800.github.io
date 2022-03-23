@@ -53,6 +53,30 @@ https://cdn.hkyoutv.com/raw/33.ts
 https://cdn.hkyoutv.com/raw/77.ts
 #EXTINF:-1 group-title="香港地面波内地版",香港國際財經台
 https://cdn.hkyoutv.com/raw/76.ts
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="香港地面波内地版1",港台電視31
+https://cdn.hklive.tv/raw/31.ts
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="香港地面波内地版1",港台電視32
+https://cdn.hklive.tv/raw/32.ts
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="香港地面波内地版1",港台電視33
+https://cdn.hklive.tv/raw/33.ts
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="香港地面波内地版1",香港開電視
+https://cdn.hklive.tv/raw/77.ts
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="香港地面波内地版1",香港國際財經台
+https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港地面波内地版1",翡翠台
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="香港地面波内地版1",J2台
+https://cdn.hklive.tv/raw/82.ts
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港地面波内地版1",無綫新聞台
+https://cdn.hklive.tv/raw/83.ts
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港地面波内地版1",明珠台
+https://cdn.hklive.tv/raw/84.ts
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="香港地面波内地版1",無綫財經·資訊台
+https://cdn.hklive.tv/raw/85.ts
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="香港地面波内地版1",ViuTV
+https://cdn.hklive.tv/raw/99.ts
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="香港地面波内地版1",ViuTV Six
+https://cdn.hklive.tv/raw/96.ts
 #EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 https://cdn.hkdtmb.com/raw/81.ts
 #EXTINF:-1 group-title="HK地面波挂代理" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2台
