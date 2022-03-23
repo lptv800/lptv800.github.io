@@ -212,6 +212,20 @@ ViuTV Six （第二聲度）,https://cdn.hkyoutv.com/hls/96b/index.m3u8
 香港開電視,https://cdn.hkyoutv.com/hls/77/index.m3u8
 香港國際財經台,https://cdn.hkyoutv.com/hls/76/index.m3u8
 
+香港地面波内地版1,#genre#
+翡翠台,https://cdn.hklive.tv/raw/81.ts
+J2台,https://cdn.hklive.tv/raw/82.ts
+無綫新聞台,https://cdn.hklive.tv/raw/83.ts
+明珠台,https://cdn.hklive.tv/raw/84.ts
+無綫財經·資訊台,https://cdn.hklive.tv/raw/85.ts
+ViuTV,https://cdn.hklive.tv/raw/99.ts
+ViuTV Six,https://cdn.hklive.tv/raw/96.ts
+港台電視31,https://cdn.hklive.tv/raw/31.ts
+港台電視32,https://cdn.hklive.tv/raw/32.ts
+港台電視33,https://cdn.hklive.tv/raw/33.ts
+香港開電視,https://cdn.hklive.tv/raw/77.ts
+香港國際財經台,https://cdn.hklive.tv/raw/76.ts
+
 HK超清地面波(挂代理),#genre#
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
 J2台,https://cdn.hkdtmb.com/raw/82.ts
