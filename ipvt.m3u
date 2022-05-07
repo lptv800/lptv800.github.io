@@ -106,9 +106,9 @@ http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 group-title="HK高清",香港C+ - 蓝光1
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="HK高清",港台電視31
-http://185.207.176.189:8080/channels/tv-31/chunks.m3u8
+http://50.7.218.42:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="HK高清",港台電視32
-http://185.207.176.189:8080/channels/tv-32/chunks.m3u8
+http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="HK高清",港台電視33
 http://185.207.176.189:8080/channels/tv-33/chunks.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="HK高清",香港開電視
@@ -126,7 +126,7 @@ http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="HK高清",無綫財經·資訊台
 http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="HK高清",ViuTV
-http://185.207.176.189:8080/channels/tv-99/chunks.m3u8
+http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HK高清",ViuTV Six
 http://185.207.176.189:8080/channels/tv-96/chunks.m3u8
 #EXTINF:-1 group-title="广东",广州南国都市
