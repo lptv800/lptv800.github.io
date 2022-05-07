@@ -280,7 +280,7 @@ rtmp://59.124.75.157/sat/tv771
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾",纬来育乐
 rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
-rtmp://59.124.75.157/sat/tv721
+http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 group-title="台湾",台视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 #EXTINF:-1 group-title="台湾",中视
@@ -288,7 +288,7 @@ http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 #EXTINF:-1 group-title="台湾",华视
 http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 #EXTINF:-1 group-title="台湾",民视
-http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 group-title="台湾",公视
 http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 #EXTINF:-1 group-title="台湾",大爱
