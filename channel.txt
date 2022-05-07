@@ -539,7 +539,7 @@ Look TV,rtmp://118.163.221.79:1936/live/LookHD
 彩虹E台,rtmp://125.227.196.250:1935/live/Rainbowmovie 
 惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan 
 K频道,rtmp://125.227.196.250:1935/live/Kchannel 
-JSTAR极限台,rtmp://125.227.196.250:1935/live/JSTAR
+JSTAR极限台,rtmp://125.227.196.250:1935/live/JSTAR#http://125.227.210.37:19020/VideoInput/play.ts
 香蕉台,http://125.227.210.37:11055/VideoInput/play.ts
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv 
 松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv 
