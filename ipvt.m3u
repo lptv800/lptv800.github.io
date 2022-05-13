@@ -116,17 +116,17 @@ http://185.207.176.189:8080/channels/tv-77/chunks.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="HK高清",香港國際財經台
 http://185.207.176.189:8080/channels/tv-76/chunks.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="HK高清",翡翠台
-http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+http://liuy.usa7.20212021.ga/ns.php?id=78
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="HK高清",J2台
-http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+http://liuy.usa7.20212021.ga/ns.php?id=74
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="HK高清",無綫新聞台
-http://185.207.176.189:8080/channels/tv-83/chunks.m3u8
+http://liuy.usa7.20212021.ga/ns.php?id=73
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="HK高清",明珠台
 http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="HK高清",無綫財經·資訊台
 http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="HK高清",ViuTV
-http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+http://liuy.usa7.20212021.ga/ns.php?id=94
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="HK高清",ViuTV Six
 http://185.207.176.189:8080/channels/tv-96/chunks.m3u8
 #EXTINF:-1 group-title="广东",广州南国都市
@@ -282,15 +282,15 @@ rtmp://59.124.75.157/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
 http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 group-title="台湾",台视
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+http://liuy.usa7.20212021.ga/ns.php?id=45
 #EXTINF:-1 group-title="台湾",中视
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+http://liuy.usa7.20212021.ga/ns.php?id=47
 #EXTINF:-1 group-title="台湾",华视
-http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+http://liuy.usa7.20212021.ga/ns.php?id=46
 #EXTINF:-1 group-title="台湾",民视
-http://seb.sason.top/ptv/ftv.php?id=ms
+http://liuy.usa7.20212021.ga/ns.php?id=44
 #EXTINF:-1 group-title="台湾",公视
-http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+http://liuy.usa7.20212021.ga/ns.php?id=43
 #EXTINF:-1 group-title="台湾",大爱
 http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 #EXTINF:-1 group-title="台湾",八大第一
@@ -310,7 +310,7 @@ https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&r
 #EXTINF:-1 group-title="台湾",三立财经新闻台
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 group-title="台湾",民视
-http://seb.sason.top/ptv/ftv.php?id=ms
+http://liuy.usa7.20212021.ga/ns.php?id=44
 #EXTINF:-1 group-title="台湾",民视第一台
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 group-title="台湾",民视新闻台
@@ -326,9 +326,9 @@ http://59.125.101.187:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 #EXTINF:-1 group-title="台湾",华视
 http://59.125.101.187:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 #EXTINF:-1 group-title="台湾",八大综合
-http://59.125.101.187:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+http://liuy.usa7.20212021.ga/ns.php?id=22
 #EXTINF:-1 group-title="台湾",八大第一
-http://59.125.101.187:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+http://liuy.usa7.20212021.ga/ns.php?id=21
 #EXTINF:-1 group-title="HK高清2",无线新闻
 http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 group-title="HK高清2",翡翠台(繁体) 
