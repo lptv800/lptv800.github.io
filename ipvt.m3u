@@ -373,54 +373,74 @@ http://iptv.tvfix.org/hls/channelv.m3u8
 http://iptv.tvfix.org//hls/thrill.m3u8
 #EXTINF:-1 group-title="HK高清2",Thrill(第2声道)
 http://iptv.tvfix.org/hls/thrill2.m3u8
-#EXTINF:-1 group-title="电视侠",翡翠台(第1声道繁体)
-http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 group-title="电视侠",翡翠台(第2声道简体)
-http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 group-title="电视侠",翡翠台海外版(粤语繁体)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 group-title="电视侠",翡翠台海外版(普通话简体)
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 group-title="电视侠",J2
-http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 group-title="电视侠",J2(第2声道)
-http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/翡翠台.png" group-title="电视侠",翡翠台(第1声道繁体)
+https://tvfix.woodong.workers.dev/hls/jadehk.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/翡翠台.png" group-title="电视侠",翡翠台(第2声道简体)
+https://tvfix.woodong.workers.dev/hls/jadehk2.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/翡翠台.png" group-title="电视侠",翡翠台海外版(粤语繁体)
+https://tvfix.woodong.workers.dev/hls/jadenhk.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/翡翠台.png" group-title="电视侠",翡翠台海外版(普通话简体)
+https://tvfix.woodong.workers.dev/hls/jadenhk2.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视侠",J2
+https://tvfix.woodong.workers.dev/hls/j2.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="电视侠",J2(第2声道)
+https://tvfix.woodong.workers.dev/hls/j22.m3u8
 #EXTINF:-1 group-title="电视侠",无线新闻台
-http://iptv.tvfix.org/hls/inews.m3u8
+https://tvfix.woodong.workers.dev/hls/inews.m3u8
+#EXTINF:-1 group-title="电视侠",无线新闻台(香港第2声)
+https://tvfix.woodong.workers.dev/hls/inews2.m3u8
 #EXTINF:-1 group-title="电视侠",明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 group-title="电视侠",明珠台(第2声道)
-http://iptv.tvfix.org/hls/pearl2.m3u8
+https://tvfix.woodong.workers.dev/hls/pearl.m3u8
+#EXTINF:-1 group-title="电视侠",明珠台(香港第2声)
+https://tvfix.woodong.workers.dev/hls/pearl2.m3u8
 #EXTINF:-1 group-title="电视侠",无线财经资讯台
-http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 group-title="电视侠",无线财经资讯台(第2声道)
-http://iptv.tvfix.org/hls/finance2.m3u8
+https://tvfix.woodong.workers.dev/hls/finance.m3u8
+#EXTINF:-1 group-title="电视侠",无线资讯台(第2话财经)
+https://tvfix.woodong.workers.dev/hls/finance2.m3u8
 #EXTINF:-1 group-title="电视侠",无线财经资讯台海外版
-http://iptv.tvfix.org/hls/financenhk.m3u8
+https://tvfix.woodong.workers.dev/hls/financenhk.m3u8
 #EXTINF:-1 group-title="电视侠",ViuTV
-http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 group-title="电视侠",ViuTV(第2声道)
-http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 group-title="电视侠",ViuTV6
-http://iptv.tvfix.org/hls/viutv6.m3u8
+https://tvfix.woodong.workers.dev/hls/viutv.m3u8
+#EXTINF:-1 group-title="电视侠",ViuTV(香港第2声)
+https://tvfix.woodong.workers.dev/hls/viutv2.m3u8
 #EXTINF:-1 group-title="电视侠",RTHK31
-http://iptv.tvfix.org/hls/rthk31.m3u8
+https://tvfix.woodong.workers.dev/hls/rthk31.m3u8
 #EXTINF:-1 group-title="电视侠",RTHK32
-http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 group-title="电视侠",香港国际财经台
-http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 group-title="电视侠",香港开电视
-http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 group-title="电视侠",TVBS亚洲台
-http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 group-title="电视侠",TVBS新闻台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 group-title="电视侠",TVB为食台
-http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 group-title="电视侠",TVB为食台(第2声道)
-http://iptv.tvfix.org/hls/tvbws2.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="电视侠",tvN
-http://iptv.tvfix.org/hls/tvn.m3u8
+https://tvfix.woodong.workers.dev/hls/rthk32.m3u8
+#EXTINF:-1 group-title="电视侠",TVB星河(粤语)
+https://tvfix.woodong.workers.dev/hls/tvbxh.m3u8
+#EXTINF:-1 group-title="电视侠",TVB星河(普通话)
+https://tvfix.woodong.workers.dev/hls/tvbxh2.m3u8
+#EXTINF:-1 group-title="电视侠",TVB功夫台(粤语)
+https://tvfix.woodong.workers.dev/hls/tvbkf.m3u8
+#EXTINF:-1 group-title="电视侠",TVB功夫(普通话)
+https://tvfix.woodong.workers.dev/hls/tvbkf2.m3u8
+#EXTINF:-1 group-title="电视侠",赛马频道18台
+https://tvfix.woodong.workers.dev/hls/18.m3u8
+#EXTINF:-1 group-title="电视侠",黄金翡翠台
+https://tvfix.woodong.workers.dev/hls/jadegold.m3u8
+#EXTINF:-1 group-title="电视侠",TVB经典台
+https://tvfix.woodong.workers.dev/hls/tvbjd.m3u8
+#EXTINF:-1 group-title="电视侠",娱乐新闻台
+https://tvfix.woodong.workers.dev/hls/enews.m3u8
+#EXTINF:-1 group-title="电视侠",TVB亚洲综艺台
+https://tvfix.woodong.workers.dev/hls/tvbzy.m3u8
+#EXTINF:-1 group-title="电视侠",TVB华语剧台
+https://tvfix.woodong.workers.dev/hls/tvbhy.m3u8
+#EXTINF:-1 group-title="电视侠",TVB亚洲剧台
+https://tvfix.woodong.workers.dev/hls/tvbyz.m3u8
+#EXTINF:-1 group-title="电视侠",TVB戏曲台
+https://tvfix.woodong.workers.dev/hls/tvbxq.m3u8
+#EXTINF:-1 group-title="电视侠",美亚电影台(粤语)
+https://tvfix.woodong.workers.dev/hls/mydy.m3u8
+#EXTINF:-1 group-title="电视侠",美亚电影台(普通话)
+https://tvfix.woodong.workers.dev/hls/mydy2.m3u8
+#EXTINF:-1 group-title="电视侠",天映经典
+https://tvfix.woodong.workers.dev/hls/tyjd.m3u8
+#EXTINF:-1 group-title="电视侠",天映经典(香港第2声)
+https://tvfix.woodong.workers.dev/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-id="471" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="电视侠",tvN
+https://tvfix.woodong.workers.dev/hls/tvn.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 8M
