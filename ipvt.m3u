@@ -28,6 +28,32 @@ https://cdn.hklive.tv/hls/99/index.m3u8
 https://cdn.hklive.tv/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="高清香港台(地面波源)",ViuTV Six (第二声度)
 https://cdn.hklive.tv/hls/96b/index.m3u8
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港地面波源码",翡翠台
+https://cdn.hklive.tv/raw/81.ts
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港地面波源码",J2台
+https://cdn.hklive.tv/raw/82.ts
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波源码",无线新闻台
+https://cdn.hklive.tv/raw/83.ts
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港地面波源码",明珠台
+https://cdn.hklive.tv/raw/84.ts
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港地面波源码",无线财经·资讯台
+https://cdn.hklive.tv/raw/85.ts
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波源码",ViuTV
+https://cdn.hklive.tv/raw/99.ts
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波源码",ViuTV Six
+https://cdn.hklive.tv/raw/96.ts
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="香港地面波源码",港台电视31
+https://cdn.hklive.tv/raw/31.ts
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="香港地面波源码",港台电视32
+https://cdn.hklive.tv/raw/32.ts
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="香港地面波源码",港台电视33
+https://cdn.hklive.tv/raw/33.ts
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港地面波源码",香港开电视
+https://cdn.hklive.tv/raw/77.ts
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="香港地面波源码",香港国际财经台
+https://cdn.hklive.tv/raw/76.ts
+
 #EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾",民视
 http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
@@ -98,6 +124,7 @@ http://59.125.101.187:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
 http://liuy.usa7.20212021.ga/ns.php?id=22
 #EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾",八大第一
 http://liuy.usa7.20212021.ga/ns.php?id=21
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="电视侠",翡翠台(第1声道繁体)
 https://iptv.52sf.ga/hls/jadehk.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="电视侠",翡翠台(第2声道简体)
@@ -202,6 +229,7 @@ https://iptv.52sf.ga/hls/hubvv.m3u8
 https://iptv.52sf.ga/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电视侠",星空卫视
 https://iptv.52sf.ga/hls/startv.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-1 8M
