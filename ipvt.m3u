@@ -325,6 +325,8 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=85
 http://192.168.50.12:9500/jmsytb.m3u8?c=86
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="youtube直播",民视新闻
 http://192.168.50.12:9500/jmsytb.m3u8?c=87
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube直播",华视新闻
+http://192.168.50.12:9500/jmsytb.m3u8?c=132
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube直播",TVBS新闻
 http://192.168.50.12:9500/jmsytb.m3u8?c=88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube直播",TVBS 56
