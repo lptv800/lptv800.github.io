@@ -281,11 +281,11 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=115
 #EXTINF:-1 tvg-id="6112" tvg-name="诚心电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChengSinTV.png" group-title="youtube直播",诚心电视台
 http://192.168.50.12:9500/jmsytb.m3u8?c=116
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube直播",NBC News
-http://192.168.50.12:9500/jmsytb.m3u8?c=117
+http://192.168.50.12:9500/jmsytb.m3u8?c=134
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube直播",华视综艺
 http://192.168.50.12:9500/jmsytb.m3u8?c=131
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube直播",GTV-Drama1
-http://192.168.50.12:9500/jmsytb.m3u8?c=133
+http://192.168.50.12:9500/jmsytb.m3u8?c=135
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube直播",名城综合台
 http://192.168.50.12:9500/jmsytb.m3u8?c=120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="youtube直播",梯子台
