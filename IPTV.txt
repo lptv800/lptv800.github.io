@@ -260,6 +260,7 @@ SBN全球財經台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv
 滾動力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 LUXE TV Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=17
+中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 
 $c_startYouTube直播$c_end
 中天新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=1
@@ -288,8 +289,5 @@ GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=18
 華視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=25	
 NBC News,http://192.168.50.12:9500/jmsytb.m3u8?c=26
 GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=27
-華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=285
-中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-
-
+華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=28
 
