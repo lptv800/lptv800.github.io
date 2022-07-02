@@ -97,6 +97,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 #EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="台湾",三立综合台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾",三立台湾台
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 #EXTINF:-1 tvg-id="6035" tvg-name="客家电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" group-title="台湾",客家电视台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",新唐人亚太台
@@ -212,6 +214,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17农业农村高清4M
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
@@ -270,6 +274,8 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
 http://192.168.50.12:9500/jmsytb.m3u8?c=29
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",中文音乐
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",安徽音乐广播
 http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",北京经典969
@@ -379,6 +385,10 @@ http://netlive.zhxwzx.com/live/1001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台HD
+http://120.84.96.226:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台", 面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="港湾台",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=1
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港湾台",有线新闻台
@@ -992,6 +1002,8 @@ http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",佛山三水
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方", 江门综合
+http://dslive.grtn.cn/jmzh/sd/live.m3u8?zguangd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雅安新闻综合
 https://m3u8channel.wuxianyaan.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",雅安公共
