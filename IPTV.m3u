@@ -273,6 +273,8 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=56
 http://192.168.50.12:9500/jmsytb.m3u8?c=60
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
 http://192.168.50.12:9500/jmsytb.m3u8?c=59
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
+http://192.168.50.12:9500/jmsytb.m3u8?c=61
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",中文音乐
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
