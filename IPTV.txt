@@ -92,5 +92,5 @@ GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=49
 凤凰新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=55
 华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=56
 GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=60
-华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=59
+华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=62
 台视,http://192.168.50.12:9500/jmsytb.m3u8?c=61
