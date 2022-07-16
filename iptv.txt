@@ -97,21 +97,20 @@ GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=60
 
 AV(2)源_1111,#genre#
 看到爽,https://www.ast.tv/stream/1/ultra.m3u8
-彩虹E台,mitv://ns2.hellotvvod.com:9906/94c57d70e6a542e58226e0ab34f32082
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/652eaae198354a7eaee4de4e83241c22
-LOOK TV,mitv://ns2.hellotvvod.com:9906/2a8c2699d7294d3ab670a9287bc20bc6
-潘朵拉完美台,mitv://ns2.hellotvvod.com:9906/93a3328f3bfe4a82963d8c3584ede02a
-驚艷台,mitv://ns2.hellotvvod.com:9906/ad86969137014a8c81684ed690c41b08
-松視1台,mitv://ns2.hellotvvod.com:9906/6a1d4bb966874f598cc453df234ae44f
-松視2台,mitv://ns2.hellotvvod.com:9906/cc116ed3044f4941aea23c942fef7406
-潘朵拉粉红台,mitv://ns2.hellotvvod.com:9906/5308670d6df54b1ebd9d0642f389e269
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/8318778f77a1460797911ecacc214b92
-香蕉台,mitv://ns2.hellotvvod.com:9906/84e8a4a58f91482abe98cdd513dbe6a8
-HOT,mitv://ns2.hellotvvod.com:9906/bc89924c45ce47c8a6f1f9e8ba460d11
-松視3台,mitv://ns2.hellotvvod.com:9906/034caef8cf944c6e88398bde3576fecc
-JSTAR極限台,mitv://ns2.hellotvvod.com:9906/1ff75bd38f6241d6a39cc0272a4ae935
-HAPPY,mitv://ns2.hellotvvod.com:9906/4f208bff963b442cafe9a71efc892105
-K,mitv://ns2.hellotvvod.com:9906/e0693c0fb4b5478b85b8fa720a683048
+松視➊臺備,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
+松視➋臺備,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
+松視➌臺備,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
+潘多拉玩美台Perfec,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
+潘朵啦高畫質粉紅台Pink,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
+驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
+彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
+彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+Happy頻道,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
+HOT頻道,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
+K 頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
+Look TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
+☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
 
 福利源_1111,#genre#
 潘朵拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
