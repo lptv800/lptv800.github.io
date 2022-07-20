@@ -30,30 +30,34 @@ https://cdn.hklive.tv/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="高清香港台(地面波源)",ViuTV Six (第二声度)
 https://cdn.hklive.tv/hls/96b/index.m3u8
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港地面波源码",翡翠台
-https://cdn.hklive.tv/raw/81.ts
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港地面波源码",J2台
-https://cdn.hklive.tv/raw/82.ts
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港地面波源码",无线新闻台
-https://cdn.hklive.tv/raw/83.ts
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港地面波源码",明珠台
-https://cdn.hklive.tv/raw/84.ts
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港地面波源码",无线财经·资讯台
-https://cdn.hklive.tv/raw/85.ts
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波源码",ViuTV
-https://cdn.hklive.tv/raw/99.ts
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港地面波源码",ViuTV Six
-https://cdn.hklive.tv/raw/96.ts
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="香港地面波源码",港台电视31
-https://cdn.hklive.tv/raw/31.ts
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="香港地面波源码",港台电视32
-https://cdn.hklive.tv/raw/32.ts
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="香港地面波源码",港台电视33
-https://cdn.hklive.tv/raw/33.ts
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港地面波源码",香港开电视
-https://cdn.hklive.tv/raw/77.ts
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="香港地面波源码",香港国际财经台
-https://cdn.hklive.tv/raw/76.ts
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="香港地面波源码",港台電視31
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="香港地面波源码",港台電視32
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="香港地面波源码",港台電視33
+https://cdn.hklive.tv/xxxx/33/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://live.hkanime.com.hk/png_logo/34.png" group-title="香港地面波源码",CGTN紀錄頻道
+https://cdn.hklive.tv/xxxx/34/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="香港地面波源码",香港開電視
+https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="香港地面波源码",香港國際財經台
+https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港地面波源码",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="香港地面波源码",J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港地面波源码",無綫新聞台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港地面波源码",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港地面波源码",明珠台(粵語聲道)
+https://cdn.hklive.tv/xxxx/84b/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="香港地面波源码",無綫財經·資訊台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="香港地面波源码",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="香港地面波源码",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",新华中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
