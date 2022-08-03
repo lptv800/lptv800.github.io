@@ -93,8 +93,8 @@ GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=85
 華視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=92
 GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=93
 台視,http://192.168.50.12:9500/jmsytb.m3u8?c=94
-華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=95
-三立華劇,http://192.168.50.12:9500/jmsytb.m3u8?c=96
+華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=98
+三立華劇,http://192.168.50.12:9500/jmsytb.m3u8?c=99
 GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=97
 
 AV(2)源_1111,#genre#
