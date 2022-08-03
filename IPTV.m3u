@@ -397,7 +397,7 @@ http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台HD
 http://120.84.96.226:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="香港地面波源码",J2台
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="港湾台",J2台
 https://j3.lhlh.app/mv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台", 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
