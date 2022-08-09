@@ -99,20 +99,37 @@ GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=97
 
 $c_startAV(2)源_1111$c_end
 看到爽,https://www.ast.tv/stream/1/ultra.m3u8
-松視➊臺備,mitv://ns2.hellotvvod.com:9906/16240d1d4ea84fa0959f83886018f241
-松視➋臺備,mitv://ns2.hellotvvod.com:9906/582f6cb92c6b4d01a36fbdb8e79c511c
-松視➌臺備,mitv://ns2.hellotvvod.com:9906/a5576853fb2741e4b4725be5d648329b
-潘多拉玩美台Perfec,mitv://ns2.hellotvvod.com:9906/2c7cee1243934dbcb123b0e120d94630
-潘朵啦高畫質粉紅台Pink,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/3d60204c01d0419c91327711d4a0d5ce
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/e874af6954fb492694408efd40334cac
-彩虹e台,mitv://ns2.hellotvvod.com:9906/359b6bf2b58f47adb0e119ecaaaa6af4
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
-Happy頻道,mitv://ns2.hellotvvod.com:9906/794cf19698d9486c91a8f026e5f06aec
-HOT頻道,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd
-K 頻道,mitv://ns2.hellotvvod.com:9906/3970fa5f77e1495cadc2f369d5913d04
-Look TV,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
-☆JSᴴᴰ極限電影,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+☆JSᴴᴰ極限電影,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815#P2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
+彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+彩虹電影台,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
+LOOK TV,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd#P2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
+潘朵啦粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+潘朵啦玩美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31#mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31#p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
+松視1台,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894#mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894#p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2台,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b#mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b#p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3台,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3#mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3#p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+HOT頻道,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6#mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6#p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
+HAPPY頻道,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7#mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7#P2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
+K 頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f#mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f#p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98#P2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
+驚豔成人電影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9#P2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984#P2p://54.39.16.152:9906/626b740500067a270c6c3677cce23984
+K頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
+教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
+VENS,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+特教班,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
+桉莫店,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
+A王,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
+人不,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+多多,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
+近,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+彩虹通道,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+KMP 頻道,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+午夜藍,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+櫻桃,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
+大學,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
+INPUT,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e01
 
 $c_start福利源_1111$c_end
 潘朵拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
