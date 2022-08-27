@@ -545,7 +545,7 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=93
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
 http://192.168.50.12:9500/jmsytb.m3u8?c=94
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:9500/jmsytb.m3u8?c=101
+http://192.168.50.12:9500/jmsytb.m3u8?c=102
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立华剧
 http://192.168.50.12:9500/jmsytb.m3u8?c=99
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
