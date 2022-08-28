@@ -200,36 +200,32 @@ HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 $c_startYouTube直播$c_end
-中天新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=68
-半岛新闻-英语,http://192.168.50.12:9500/jmsytb.m3u8?c=69
-民視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=70
-TVBS新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=71
-TVBS 56,http://192.168.50.12:9500/jmsytb.m3u8?c=72
-台視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=73
-中視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=74
-東森新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=75
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=76
-東森財經,http://192.168.50.12:9500/jmsytb.m3u8?c=77
-寰宇新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=78
-ANN News,http://192.168.50.12:9500/jmsytb.m3u8?c=79
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=80
-鏡新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=81
-東森新聞全球速報,http://192.168.50.12:9500/jmsytb.m3u8?c=82
-MBC News,http://192.168.50.12:9500/jmsytb.m3u8?c=83
-KBS Kr,http://192.168.50.12:9500/jmsytb.m3u8?c=84
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=85
-梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=86
-美食星球,http://192.168.50.12:9500/jmsytb.m3u8?c=87
-龍華桌逰,http://192.168.50.12:9500/jmsytb.m3u8?c=88
-亞洲旅遊台,http://192.168.50.12:9500/jmsytb.m3u8?c=89
-靖天電視台,http://192.168.50.12:9500/jmsytb.m3u8?c=90
-鳳凰新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=91
-華視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=92
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=93
-台視,http://192.168.50.12:9500/jmsytb.m3u8?c=94
-華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=101
-三立華劇,http://192.168.50.12:9500/jmsytb.m3u8?c=99
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=97
+中天新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=1
+半岛新闻-英语,http://192.168.50.12:9500/jmsytb.m3u8?c=2
+民視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=3
+TVBS新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=4
+TVBS 56,http://192.168.50.12:9500/jmsytb.m3u8?c=5
+台視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=6
+中視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=7
+東森新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=8
+三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=9
+東森財經,http://192.168.50.12:9500/jmsytb.m3u8?c=10
+寰宇新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=11
+三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=12
+鏡新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=13
+東森新聞全球速報,http://192.168.50.12:9500/jmsytb.m3u8?c=14
+MBC News,http://192.168.50.12:9500/jmsytb.m3u8?c=15
+KBS Kr,http://192.168.50.12:9500/jmsytb.m3u8?c=16
+GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=17
+梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=18
+龍華桌逰,http://192.168.50.12:9500/jmsytb.m3u8?c=19
+鳳凰新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=20
+華視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=21
+GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=22
+台視,http://192.168.50.12:9500/jmsytb.m3u8?c=23
+華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=24
+三立華劇,http://192.168.50.12:9500/jmsytb.m3u8?c=25
+GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=26
 
 $c_startAV(2)源_1111$c_end
 看到爽,https://www.ast.tv/stream/1/ultra.m3u8
