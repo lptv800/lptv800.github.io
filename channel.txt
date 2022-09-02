@@ -223,7 +223,7 @@ GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=17
 華視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=21
 GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=22
 台視,http://192.168.50.12:9500/jmsytb.m3u8?c=23
-華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=24
+華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=28
 三立華劇,http://192.168.50.12:9500/jmsytb.m3u8?c=25
 GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=26
 
