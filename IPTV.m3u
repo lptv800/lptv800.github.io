@@ -537,7 +537,7 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=22
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
 http://192.168.50.12:9500/jmsytb.m3u8?c=23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:9500/jmsytb.m3u8?c=30
+http://192.168.50.12:9500/jmsytb.m3u8?c=31
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立华剧
 http://192.168.50.12:9500/jmsytb.m3u8?c=25
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
@@ -656,6 +656,8 @@ http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台HD
 http://113.64.147.66:808/hls/67/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台HD
+http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="港湾台",J2台
 https://j3.lhlh.app/mv.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港湾台", 无线新闻台
@@ -666,6 +668,8 @@ http://xindapc.qicp.vip:5502/now.php?id=332
 http://120.84.96.195:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台
 http://113.64.147.213:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台(联通）
+http://120.84.96.55:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港湾台", 明珠台
 http://120.84.96.195:808/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台", 面包台
