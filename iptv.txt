@@ -227,99 +227,262 @@ GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=22
 三立華劇,http://192.168.50.12:9500/jmsytb.m3u8?c=25
 GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=26
 
-AV(2)源_1111,#genre#
-看到爽,https://www.ast.tv/stream/1/ultra.m3u8
-☆JSᴴᴰ極限電影,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815#P2p://54.39.16.152:9906/6260e2b000004933172c99712568d815
-彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057#p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
-彩虹電影台,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66#p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-LOOK TV,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd#P2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-潘朵啦粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-潘朵啦玩美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31#mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31#p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-松視1台,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894#mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894#p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松視2台,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b#mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b#p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松視3台,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3#mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3#p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-HOT頻道,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6#mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6#p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-HAPPY頻道,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7#mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7#P2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-K 頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f#mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f#p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
-香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98#P2p://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98
-驚豔成人電影台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9#P2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984#P2p://54.39.16.152:9906/626b740500067a270c6c3677cce23984
-K頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
-教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
-VENS,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
-特教班,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
-桉莫店,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
-A王,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
-人不,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
-多多,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
-近,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
-彩虹通道,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
-KMP 頻道,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
-午夜藍,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
-櫻桃,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
-大學,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
-INPUT,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e01
+港澳,#genre#
+港台電視31,P2p://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
+港台电视32,P2p://ns1.hellotvvod.com:9906/44e81dd24fce43f8891b1b63ecd269fa
+香港开电视,P2p://ns1.hellotvvod.com:9906/1bef010967f94e4db79ddfc122295306
+﻿翡翠台(备),P2p://ns1.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
+J2,P2p://ns1.hellotvvod.com:9906/616e19fec3c0475db88cc23ddde228bc
+无线新闻台(备),P2p://ns1.hellotvvod.com:9906/aa6d38843405411aa2111b762923144f
+无线新闻台,P2p://ns1.hellotvvod.com:9906/1092b398d19b42c6806dc2ec04bb511e
+无线财经·资讯台,P2p://ns1.hellotvvod.com:9906/ba9474ae0fe14381be9237b3e85a700a
+ViuTVsix,P2p://ns1.hellotvvod.com:9906/1c1ce894e3ff45739b2badcd15e0ec0f
+ViuTV,P2p://ns1.hellotvvod.com:9906/98f64c66543c463ab99ea26e536338a4
+凤凰中文台,P2p://ns1.hellotvvod.com:9906/b2895b96b4434e06857c781cda31bc24
+凤凰资讯台,P2p://ns1.hellotvvod.com:9906/ec3f4649930b47e887b0d1265e581b01
+凤凰香港台,P2p://ns1.hellotvvod.com:9906/4d44dc63035642918f903ec03c1f2bfe
+TVB星河(粤),P2p://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
+now新闻台,P2p://ns1.hellotvvod.com:9906/eeb32fe00b4e4ef6a6863dbea6f15b8d
+now直播台,P2p://ns1.hellotvvod.com:9906/7c06ed22c9454993a9717d749d409f48
+HKC电影台,P2p://ns1.hellotvvod.com:9906/3c0eb2fd7f0c4c8ea4c2ab55408bb52f
+HKC新闻台,P2p://ns1.hellotvvod.com:9906/7af6dae4a30d47b68a72161534e9251a
+HKC财经资讯台,P2p://ns1.hellotvvod.com:9906/f6de0031c13847db913b0c89c55cfadd
+HKC 18,P2p://ns1.hellotvvod.com:9906/01468cb56cb4490eaec43acc732a0403
+HKC 603,P2p://ns1.hellotvvod.com:9906/be1b98abd39c4df3bd65dbf46054a27a
+HKC體育台,P2p://ns1.hellotvvod.com:9906/65074314730a4fdd99b1c30a3b37539b
+HKC Sports Plus 1,P2p://ns1.hellotvvod.com:9906/8976e105848241b6b3f69ab54818947c
+HKC综合娱乐台,P2p://ns1.hellotvvod.com:9906/5719826a53974fd2b83c0fb250495f8a
+TVB娱乐新闻台,P2p://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
+翡翠台,P2p://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
+TVB经典台,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
+Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
+明珠台,P2p://ns1.hellotvvod.com:9906/f67e007a5c594dc1b66829615d4bb8e3
+18台,P2p://ns1.hellotvvod.com:9906/8dd46bc762274253a9eb6083af2db37b
+爆谷星影台,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
+美亚电影台(粤语),P2p://ns1.hellotvvod.com:9906/6260802bc14243bd98a9c0be6e349725
+Hands Up,P2p://ns1.hellotvvod.com:9906/deab003089244038bcff853c11f9806e
+粤语片台,P2p://ns1.hellotvvod.com:9906/06395cb1f1104e668afc72f24f0641fe
+亚洲剧台,P2p://ns1.hellotvvod.com:9906/e870a0c870a84793b4d34b40b0d444a7
+功夫台,P2p://ns1.hellotvvod.com:9906/976daf11a1d44b5eb675744b64eff202
+爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
 
-福利源_1111,#genre#
-潘朵拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-松视1,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
-松视2,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
-松视3,p9p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5.ts
-惊艳电影,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
-彩虹E台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
-香蕉台,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
-潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-K頻道,p8p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
-HIPLAY,p8p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
-LOOK-HD,p8p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
-香草天道,p8p://fccs.123178.top:9906/612a231f000b7d44152cbb2ae557040e
-HAPPY,p8p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
-潘朵拉完美台,p8p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
-HOT,p8p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
-松視1台,p8p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
-松視2台,p8p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視3台,p8p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
-彩虹E台,p8p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
-大神猫先生,p9p://45.86.67.154:9906/6088574f000726f40f4775e0effc3aef.ts
-HOT,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
-彩虹电影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
-LOOK,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
-Heyzo无码,p9p://45.86.67.154:9906/608bea27000c60bd034481e611c23d95.ts
-人妻斩,p9p://45.86.67.154:9906/608bea4b000e85d903450f12cb48a2ef.ts
-猫步毒药,p9p://45.86.67.154:9906/608bea74000ea3350345af42d8d8b0a6.ts
-人妻熟女,p9p://45.86.67.154:9906/608bea960002cfd30346310ba8ab00a1.ts
-素人动画,p9p://45.86.67.154:9906/608beab8000eeeb70346b8f59110da07.ts
-XXXAV,p9p://45.86.67.154:9906/608beae40002b5d4034761b4ed6c00f0.ts
-黑珍珠,p9p://45.86.67.154:9906/608beb520004891c03490fdc097d7e4c.ts
-色情世界,p9p://45.86.67.154:9906/608beb7600096d8803499dbcd1c788c1.ts
-人妻出轨,p9p://45.86.67.154:9906/608bec3e00060395034caa1cf343991f.ts
-阿拉伯情色,p9p://45.86.67.154:9906/608bec620007bc02034d372d176b1cdf.ts
-啄木鸟,p9p://45.86.67.154:9906/608bec97000589c3034e05a5aa2c6188.ts
-Hi Play,p9p://45.86.67.154:9906/608beb280004836603486bcab7d4e831.ts
-古川伊织,p9p://45.86.67.154:9906/608becd9000336e2034f06ddc00031d3.ts
-迷奸无码,p9p://45.86.67.154:9906/608c0034000ce114039aa4ce516a1ea7.ts
-经典三级,p9p://45.86.67.154:9906/608c0057000ef9b8039b2e1056ace6eb.ts
-华男洋妞,p9p://45.86.67.154:9906/608c0090000eebf9039c0cb440ccacea.ts
-麻豆大番,p9p://45.86.67.154:9906/608c00b600071408039c9f226307f8cb.ts
-麻豆导演,p9p://45.86.67.154:9906/608c00e10007e058039d474f3d9f7f96.ts
-麻豆外番,p9p://45.86.67.154:9906/608c0103000de280039dcda8c9f55a82.ts
-麻豆台湾,p9p://45.86.67.154:9906/608c01a70005cbc903a04c36fe07e835.ts
-91老金,p9p://45.86.67.154:9906/608c01d60003609403a103308739719a.ts
-鸭总侦探,p9p://45.86.67.154:9906/608c01fd000c740003a19ddacc1c7d5f.ts
-金三角猎艳,p9p://45.86.67.154:9906/608c02220006ded803a22cf5cf1c760a.ts
-黑人干翻天,p9p://45.86.67.154:9906/608c0247000bbce203a2bebca4cdb2c9.ts
-千人斩,p9p://45.86.67.154:9906/608c027c000c450603a38de66db6a92d.ts
-小宝寻花,p9p://45.86.67.154:9906/608c02a30002b14603a423cb81258ba5.ts
-午夜寻花,p9p://45.86.67.154:9906/608c02c80004e1aa03a4b4e26241a1bc.ts
-男爵探花,p9p://45.86.67.154:9906/608c02f80006677903a570c674c16ef7.ts
-大陆迷奸,p9p://45.86.67.154:9906/608c031d000bbb8103a602ab387ff987.ts
-SM西贡女,p9p://45.86.67.154:9906/608c034100080f6903a68e5b1f24e142.ts
-PsychopornTW,p9p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2.ts
-俄罗斯毛子,p9p://45.86.67.154:9906/608c03bd000d5ca203a8741602ffe939.ts
-美国家庭,p9p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e.ts
-欧美艺术,p9p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750.ts
-果冻传媒,p9p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05.ts
+马来西亚,#genre#
+CNN,P2p://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
+TV1,P2p://ns1.hellotvvod.com:9906/dc1ddc9d6dca49ec9f4257b31d24611e
+TV2,P2p://ns1.hellotvvod.com:9906/f05994f32aa04d5a85fc7dfdead84c7f
+TV3,P2p://ns1.hellotvvod.com:9906/564466735f1f442393fae0abd1699cb1
+NTV7,P2p://ns1.hellotvvod.com:9906/9e0b7b753fb64cf1ac164569d5439b91
+八度空间,P2p://ns1.hellotvvod.com:9906/bad0725028134d769d66557eb447050c
+TV9,P2p://ns1.hellotvvod.com:9906/0e86faf5e4184e2e874f42b1a3399d68
+Astro Ria HD,P2p://ns1.hellotvvod.com:9906/66b4e294e52f4e22a84fd40dd5c24762
+Astro Prima HD,P2p://ns1.hellotvvod.com:9906/7e9d20ccb70a48ebb682f948b591bae8
+Astro Oasis HD,P2p://ns1.hellotvvod.com:9906/fac29c467e5f4ecc979afe681daf8671
+Astro Warna HD,P2p://ns1.hellotvvod.com:9906/35464942fc9f478abae305efc393d5e5
+Astro Citra HD,P2p://ns1.hellotvvod.com:9906/d48839494ab1414e957098cc149b8c0d
+Astro Rania HD,P2p://ns1.hellotvvod.com:9906/fd38402f65ae437eb6c718a528ebbdd4
+Astro Aura HD,P2p://ns1.hellotvvod.com:9906/cf8d343215624702a49fbbdd5803fa6e
+Al-Hijrah,P2p://ns1.hellotvvod.com:9906/1c3f54156e484a4aa4dd7b0997df3a4d
+SUN TV,P2p://ns1.hellotvvod.com:9906/b056b842d11a4fa2baae1e84052b8394
+Astro Cricket,P2p://ns1.hellotvvod.com:9906/4c533bc5c7844e2d8d3b07553cb836c5
+爱奇艺,P2p://ns1.hellotvvod.com:9906/fe0db8a3d53d4af185618d6797b07260
+Astro小太阳,P2p://ns1.hellotvvod.com:9906/f85592520f2048c4b9908ecdd4c94b45
+Astro AEC(备),P2p://ns1.hellotvvod.com:9906/cb3dca5e4b38462f995cbfca03b1f3e2
+Astro双星,P2p://ns1.hellotvvod.com:9906/3c22b51da8b1425bb83cb03049a7eaec
+Astro全佳,P2p://ns1.hellotvvod.com:9906/cb1f083dc631420d9f4ab9e3b637926c
+Boomerang,P2p://ns1.hellotvvod.com:9906/e0b17b1609c74590b0bc778bd7535402
+AXN亚洲,P2p://ns1.hellotvvod.com:9906/10600c888f674a45bd37e8ca90fc6a39
+KIX,P2p://ns1.hellotvvod.com:9906/b126c8c43291421cb6522cc601a5b50a
+HITS,P2p://ns1.hellotvvod.com:9906/9ec305de0e2f4c4cbc9ab3702a4593ce
+Astro Arena,P2p://ns1.hellotvvod.com:9906/c8dce6653d584743aad06ec60425dbc7
+Astro SuperSport,P2p://ns1.hellotvvod.com:9906/2a238b3660944b2f98792afd329b15f3
+Astro SuperSport 2,P2p://ns1.hellotvvod.com:9906/ce3ed19da3064fb4857368700f4d3bc2
+Astro SuperSport 3,P2p://ns1.hellotvvod.com:9906/c8d913298bf447c6b3e6a015186e8da2
+Astro SuperSport 4,P2p://ns1.hellotvvod.com:9906/c1899240093d4d7f8e053d5c4e42ea76
+beIN Sports 3,P2p://ns1.hellotvvod.com:9906/03a345a7adc647239ab8f103be5a35e4
+WWE,P2p://ns1.hellotvvod.com:9906/8c03032c5ffe4e78aecbd70784aee0d9
+Sky News,P2p://ns1.hellotvvod.com:9906/6bc9f99f7ad948d081e5df3ea8f92df9
+八度空间(备),P2p://ns1.hellotvvod.com:9906/dc4664c7f4be4d6fa041329db491d86a
+Nat Geo Wild,P2p://ns1.hellotvvod.com:9906/760505f914f347f0810b65dc0c68a5ae
+tvN,P2p://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
+天映频道,P2p://ns1.hellotvvod.com:9906/4e8ab40b90c2435997c24c1cfb13e05e
+翡翠台(华丽台),P2p://ns1.hellotvvod.com:9906/9a15de42672b48ec93410af38314b0ee
+Astro AOD HD 311,P2p://ns1.hellotvvod.com:9906/eb0df787a2cb4f8e8cace40868c27629
+中天亚洲台,P2p://ns1.hellotvvod.com:9906/b1e3973893a5462fbe0a8b655156f10a
+TVB星河(粤),P2p://ns1.hellotvvod.com:9906/ca7f820f9e924ea1acde9f5b68b7e6ec
+天映经典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
+Astro欢喜台(备),P2p://ns1.hellotvvod.com:9906/0629fdb26f964187bee9fda13e4e4b6b
+KBS World,P2p://ns1.hellotvvod.com:9906/e2d0dc98c20d4f1fa69d79d16901c635
+ONE,P2p://ns1.hellotvvod.com:9906/722da6aa288d46dab02d1356f400012d
+Colors Hindi,P2p://ns1.hellotvvod.com:9906/5f864cb444ff49df88d0a8e57d0056d6
+TVS,P2p://ns1.hellotvvod.com:9906/d3914a0aa1484789bdb53d0ffd313e81
+Astro Vaanavil,P2p://ns1.hellotvvod.com:9906/f99e1e458d434f8589cfc2b7c43c4185
+tvN Movies HD,P2p://ns1.hellotvvod.com:9906/9b3ba26f523643acb722559371c793fa
+Astro Awani,P2p://ns1.hellotvvod.com:9906/e780f22bf06640f0b739f24a95e68032
+BERNAMA,P2p://ns1.hellotvvod.com:9906/ca8ac3a62f1740b7b3e494e5dc3e7dc8
+CGTN,P2p://ns1.hellotvvod.com:9906/21a9c043ba7243f09549c1041da51a2a
+BBC World News,P2p://ns1.hellotvvod.com:9906/a0dcc5edc0024e7fa6671bd35d9343a3
+Al Jazeera English,P2p://ns1.hellotvvod.com:9906/cc14d72d1d314132a334b4c69c400390
+CNBC,P2p://ns1.hellotvvod.com:9906/9608b700cab04408a0bfe272e625bc84
+Bloomberg TV,P2p://ns1.hellotvvod.com:9906/632982d0000488d3bbfb2844254860de
+Astro Ceria,P2p://ns1.hellotvvod.com:9906/95ed984db03649e4aeb72916b34214d1
+Cartoon Network,P2p://ns1.hellotvvod.com:9906/e1f6e2cfa28e472a8fb931952dcd1cf7
+Nickelodeon,P2p://ns1.hellotvvod.com:9906/8ce40173e00c454695d4e4e7af17dd45
+Nick Jr.,P2p://ns1.hellotvvod.com:9906/fad8184e4b454520a20874e2e1e4859a
+Drama Sangat,P2p://ns1.hellotvvod.com:9906/64708944c2d94af9913270007e2f71ba
+RTM Sport,P2p://ns1.hellotvvod.com:9906/ba1c629c69dd479ba468f377ed830821
+Berita RTM,P2p://ns1.hellotvvod.com:9906/e81babd24bf549ec86737689fafbc9d2
+DW,P2p://ns1.hellotvvod.com:9906/883cce16471a44efa1302132b0c59e9c
+France24,P2p://ns1.hellotvvod.com:9906/59dca49463dc4dea91f3baf8be007a0b
+SPOTV,P2p://ns1.hellotvvod.com:9906/e2fa1e0ed8884ec5aa636f89edd41be9
+beIN Sports,P2p://ns1.hellotvvod.com:9906/d5f57052ecfe4fcc8caa17c503698cde
+TVB娱乐新闻台,P2p://ns1.hellotvvod.com:9906/4079b929351548c5923489e2afbfbbd7
+Astro AEC,P2p://ns1.hellotvvod.com:9906/6b6ebab8df5143d6bc9485671519090f
+Awesome TV,P2p://ns1.hellotvvod.com:9906/55c09b43fb26480e8ac0d4fbece914da
+ABO Movies Thangathirai HD,P2p://ns1.hellotvvod.com:9906/d2f3d93ac0754c578f6b02921940fbf1
+Colors Tamil,P2p://ns1.hellotvvod.com:9906/4dee74a741f0493aac4d4249240ab7f5
+BOO,P2p://ns1.hellotvvod.com:9906/432be11f4eac4e238d2cd25d64c165c9
+TVB经典台,P2p://ns1.hellotvvod.com:9906/934edf90604742edb354ac6342626d28
+ABC Australia,P2p://ns1.hellotvvod.com:9906/94a6fca1ef9b42b2bde1c38f89e14092
+Eurosport HD,P2p://ns1.hellotvvod.com:9906/895b6edf81ee4566a89aa9ebcc9e0ace
+Astro Arena 2,P2p://ns1.hellotvvod.com:9906/24a0efaec6c04162bb229e28756743f7
+Astro SuperSport 5,P2p://ns1.hellotvvod.com:9906/bf6f4babdeca4e2fb18276d7b1f38c52
+Astro Vinmeen,P2p://ns1.hellotvvod.com:9906/c59d54582da9451e8f8e322cb1314989
+Sun Music,P2p://ns1.hellotvvod.com:9906/b5e5190c4c654ff19027c308dc53e8f9
+Chutti TV,P2p://ns1.hellotvvod.com:9906/b09e681553db45e69c0211cd3dccc9f5
+Adithya,P2p://ns1.hellotvvod.com:9906/09a209300da74310b0b09c6371eb61c3
+Star Vijay,P2p://ns1.hellotvvod.com:9906/3ef4b9e11b4d4568ac7fb2ba04a293ae
+Zee Tamil,P2p://ns1.hellotvvod.com:9906/3b1e8402875a43669a6eb412bc5eebb0
+TVBS亚洲,P2p://ns1.hellotvvod.com:9906/d9714e19d87f4c96be1d303856ab8211
+Astro AOD 352,P2p://ns1.hellotvvod.com:9906/a6a10d27842a4c929da126e1f7739bc8
+Astro AOD 354,P2p://ns1.hellotvvod.com:9906/759f8db0fdfc45b88a16a1574e645d55
+Astro Tutor TV SK,P2p://ns1.hellotvvod.com:9906/8e566026a369471599a144e650396883
+Astro Tutor TV SPM,P2p://ns1.hellotvvod.com:9906/00bd0b9dfda24969b4d7091002d4cb4b
+Premier Sports,P2p://ns1.hellotvvod.com:9906/712ebdf08bbd4df19b590caa30091892
+TA-DAA!,P2p://ns1.hellotvvod.com:9906/e9f735fa774b4171994f7c94d3d0a0f6
+eGG Network,P2p://ns1.hellotvvod.com:9906/735ddb7b11f645e7995f0a59ba9ddcad
+BollyOne,P2p://ns1.hellotvvod.com:9906/a51cb57a20054ad59d13af313d45d399
+HITS Movies,P2p://ns1.hellotvvod.com:9906/a598c973264e4cb7939b7e0f335cb027
+SHOWCASE MOVIES,P2p://ns1.hellotvvod.com:9906/75c18dc987de4060bb992f13a21af8e2
+PrimeTime Channel,P2p://ns1.hellotvvod.com:9906/85ba72e206ce40079dbb82e7490f4db6
+Golf Channel,P2p://ns1.hellotvvod.com:9906/b64421529d034a3fb2da928238a3de30
+Astro欢喜台,P2p://ns1.hellotvvod.com:9906/6acca014434741f6a7757bb8f4eed3aa
+beIN Sports 2,P2p://ns1.hellotvvod.com:9906/d878e7d73489484c9959cbdbd8767c5c
+
+日本,#genre#
+NHK-G综合,P2p://ns1.hellotvvod.com:9906/db2bf3fbd52a4d38b39e0a7459b6362e
+NHK-E教育,P2p://ns1.hellotvvod.com:9906/ab81a5077f974d9583f64f2d5d228ed7
+日本テレビ,P2p://ns1.hellotvvod.com:9906/2441078117ae4793a009f437922fc193
+TBSテレビ,P2p://ns1.hellotvvod.com:9906/effb9dd45a9f4eb7a8df58c08872211f
+テレビ東京,P2p://ns1.hellotvvod.com:9906/471db2adfe324c9981d2fbe4fbbf2e24
+フジテレビ,P2p://ns1.hellotvvod.com:9906/d8284202323942328c9fb3ad0cdda4b4
+読売テレビ,P2p://ns1.hellotvvod.com:9906/63f69a54ccd0477ca483fa6686a53ce4
+関西テレビ,P2p://ns1.hellotvvod.com:9906/f2a4314d997042c2bca8d35e56245b4c
+KBS京都,P2p://ns1.hellotvvod.com:9906/1118a69e69204578ba07d88b2b91532d
+毎日放送,P2p://ns1.hellotvvod.com:9906/b7ca845ecfcc4ec9bbea26c639701bf0
+朝日放送,P2p://ns1.hellotvvod.com:9906/75644c3120c647a388a4c2d6bcc480a8
+テレビ大阪,P2p://ns1.hellotvvod.com:9906/ff1975b428b34f9b84023c2191c77367
+テレビ朝日,P2p://ns1.hellotvvod.com:9906/dc7371882965437c812d5a34a43c239e
+BS-1,P2p://ns1.hellotvvod.com:9906/69a9af62c56641deb724babfdbe66a94
+BSプレミアム,P2p://ns1.hellotvvod.com:9906/1969a1bee00743bda3583ff389c9cada
+BS日テレ,P2p://ns1.hellotvvod.com:9906/70ba8f990d3b445795e13ae14184fd0b
+BS朝日,P2p://ns1.hellotvvod.com:9906/7a94760300304cea8493ba79be9c9b38
+BS-TBS,P2p://ns1.hellotvvod.com:9906/dc81623f2de84cac90834e5012cd1d4c
+BS11,P2p://ns1.hellotvvod.com:9906/bcb13acae1cd45aca44fe0ff6b0676d3
+BSフジ,P2p://ns1.hellotvvod.com:9906/a2daeeb34a77421aab41fd7f91593edc
+WOWOWプライム,P2p://ns1.hellotvvod.com:9906/2e7e28b62daa419d9d928a3f09c31c65
+WOWOWライブ,P2p://ns1.hellotvvod.com:9906/afceb9f45e7040a1b13485048a5f1a6a
+WOWOWシネマ,P2p://ns1.hellotvvod.com:9906/bb54a77d8a9d4e38ac475c5ea5a6a137
+スター・チャンネル1,P2p://ns1.hellotvvod.com:9906/9278eeb2b6e840fa806d52c71a78b664
+スター・チャンネル2,P2p://ns1.hellotvvod.com:9906/5b15554c3d8343229515f55d394c0434
+スター・チャンネル3,P2p://ns1.hellotvvod.com:9906/b8eb90a6040a4b198121eef409bdc8e2
+BSアニマックス,P2p://ns1.hellotvvod.com:9906/3b2fc14c9a824a0783841ed47c076f8c
+J Sports 1,P2p://ns1.hellotvvod.com:9906/6cd91f13b6c341009e098f821330521e
+J Sports 2,P2p://ns1.hellotvvod.com:9906/d59755bc289c45ffb5d3d18d79c980fa
+J Sports 3,P2p://ns1.hellotvvod.com:9906/f4b8c3911eaa4b54bc62a74fdab4bd60
+J Sports 4,P2p://ns1.hellotvvod.com:9906/d6b32f35fe1b4bd0a6d4b4cf9ea4645b
+BS12,P2p://ns1.hellotvvod.com:9906/f61bc703e085476e833fce793d8450ce
+ゴルフネットワークHD,P2p://ns1.hellotvvod.com:9906/5132e12229494e65ad13deb2c76df4ba
+時代劇専門チャンネル,P2p://ns1.hellotvvod.com:9906/75ed832015c7438dbe534b7ecf367723
+Music Japan TV,P2p://ns1.hellotvvod.com:9906/9a1f9c1b043740129c0e38d971c8a1aa
+キッズステーションHD,P2p://ns1.hellotvvod.com:9906/9a408080d7734d21950fc6cdcbad3edc
+ディスカバリーチャンネル,P2p://ns1.hellotvvod.com:9906/ae041082194d42c0afe8fe483b769453
+ナショナルジオグラフィック,P2p://ns1.hellotvvod.com:9906/a8f6745279b3415a86dcc84ad249ef85
+日テレNEWS 24,P2p://ns1.hellotvvod.com:9906/d6f01b25b2c24f29a895a68ede544318
+旅チャンネル,P2p://ns1.hellotvvod.com:9906/7991296433ef4f66994fa2cb4961a793
+ファミリー劇場,P2p://ns1.hellotvvod.com:9906/54a07ca6a1bf4f93b0e1fbccd2f3a1fa
+
+韩国,#genre#
+Arirang,P2p://ns1.hellotvvod.com:9906/efafb6156be7460aaaad33a7aa9ce539
+KBS1,P2p://ns1.hellotvvod.com:9906/f5aedc6a214645b4934a92b6dfd4aabe
+KBS2,P2p://ns1.hellotvvod.com:9906/982374b8b005412192b87f6cb6e6f253
+KBS Drama,P2p://ns1.hellotvvod.com:9906/c743009438fe4fcc915d49cd09316d1f
+KBS Joy,P2p://ns1.hellotvvod.com:9906/f7790a09d55845129168eaaad7f889cd
+SBS,P2p://ns1.hellotvvod.com:9906/41fc9b1672e6458ab5d6c0cddbfb3291
+SBS Biz,P2p://ns1.hellotvvod.com:9906/1dd3d2aeef3c4c1a9e6b4dff54a3e582
+JTBC,P2p://ns1.hellotvvod.com:9906/223fb319cb9b486e8cbd9f10b5c0b7a6
+EBS,P2p://ns1.hellotvvod.com:9906/71a7ef3e0a354d8db3b60b147b25d9f1
+YTN,P2p://ns1.hellotvvod.com:9906/62ebcdbb70544e63880ed69b1b12769c
+Mnet,P2p://ns1.hellotvvod.com:9906/1773adf66242412285bd5736993fbb33
+tvN,P2p://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
+OCN,P2p://ns1.hellotvvod.com:9906/ec058aed3c654adda8039b15f8914fef
+OCN Movies,P2p://ns1.hellotvvod.com:9906/35531ee53539443fb23b8edcbcfd1746
+TV Chosun,P2p://ns1.hellotvvod.com:9906/61bc3757c4bf4932a483cdaaf41965ff
+MBC,P2p://ns1.hellotvvod.com:9906/c74c3a4825d24626840533d0fad75e2a
+MBN,P2p://ns1.hellotvvod.com:9906/4ab740d9672a4bc1ab71cc7c59c527e3
+Tooniverse,P2p://ns1.hellotvvod.com:9906/12b6ebf3288a4af980baa861187c63c6
+SPOTV,P2p://ns1.hellotvvod.com:9906/6fdd852f8102418da748b2b4dc935c70
+SPOTV 2,P2p://ns1.hellotvvod.com:9906/337428d6ff2448f0875e26957cbaab30
+JTBC GOLF,P2p://ns1.hellotvvod.com:9906/c5b748cdcd254c3ea4e73776c945e56a
+
+泰国,#genre#
+Channel 5,P2p://ns1.hellotvvod.com:9906/1fd869c2e10d4e1c89aee4ae4a7282d2
+NBT,P2p://ns1.hellotvvod.com:9906/e778de26214a4e0b8426166ce0d32aa1
+TNN 16,P2p://ns1.hellotvvod.com:9906/2a47d6e31caf42cebf5884f3cdd283fa
+JKN 18,P2p://ns1.hellotvvod.com:9906/38e6bc997014416aad4052ebbda9dfdb
+Voice TV,P2p://ns1.hellotvvod.com:9906/3bc30637d2c040e89e18eb525835986f
+Nation TV,P2p://ns1.hellotvvod.com:9906/2bd79619de1b443d92b683b578d874c8
+Workpoint TV,P2p://ns1.hellotvvod.com:9906/e57ccab757954719870422c337dbe66f
+true4U,P2p://ns1.hellotvvod.com:9906/5ddede65afda4bc48e32a02eae3728e7
+GMM 25,P2p://ns1.hellotvvod.com:9906/f9475266248d4d3e94d187dab3cca589
+Channel 8,P2p://ns1.hellotvvod.com:9906/78dc114defe74ccd97683d1c3376a4c1
+Mono 29,P2p://ns1.hellotvvod.com:9906/b3e089e9280f4fd8a769b760b90e59a7
+MCOT,P2p://ns1.hellotvvod.com:9906/f136343b76094a588b36c35fb57bb144
+ONE,P2p://ns1.hellotvvod.com:9906/ae935934c7434341b7ac9a2a1fdd4728
+Thairath TV,P2p://ns1.hellotvvod.com:9906/2dbb4e7e1ed845d3a76c300a04388cae
+Channel 3,P2p://ns1.hellotvvod.com:9906/ab182e3bb8924735b2af04162d9fd491
+Amarin TV,P2p://ns1.hellotvvod.com:9906/925c6352de2648928964bb0279f9c8a3
+Channel 7,P2p://ns1.hellotvvod.com:9906/be854ee67333457dbd48021e8f7106bf
+PPTV,P2p://ns1.hellotvvod.com:9906/5b392afde55f4e70a045c790ffeeb0af
+Boomerang,P2p://ns1.hellotvvod.com:9906/735e13fa8cfb4e05ba9e545903475a6f
+Toonee,P2p://ns1.hellotvvod.com:9906/bfd603bdc0dd42f18aad5382bb9e9af4
+Thai Parliament TV,P2p://ns1.hellotvvod.com:9906/2c47e3885c4346319b7b609568462922
+Thai PBS,P2p://ns1.hellotvvod.com:9906/0c6b3ca04b5348bb97b47ddcc1f607a1
+News 1,P2p://ns1.hellotvvod.com:9906/6fecca5b0e1947c89fe47165dfcc815f
+Channel 4050,P2p://ns1.hellotvvod.com:9906/b90c270646a1456c83d380d0ebac578a
+TVB Thai,P2p://ns1.hellotvvod.com:9906/671802bd584149168c70abc93ee69bd2
+Bluesky,P2p://ns1.hellotvvod.com:9906/21fe0293ac1447d79d94266712093be5
+Top News,P2p://ns1.hellotvvod.com:9906/3b396ed0c060417abf60f406a2b5e170
+True Sport 2,P2p://ns1.hellotvvod.com:9906/7b45c4a48b5b4b56a9ec0631c29f7902
+True Sport 3,P2p://ns1.hellotvvod.com:9906/a4c20dd13a254e869044f575825a6097
+True Sport 4,P2p://ns1.hellotvvod.com:9906/33f30262a7e64dac8eb4fd1ef7d37a6e
+True Sport 5,P2p://ns1.hellotvvod.com:9906/790e66f6a23f47f6b6c282f986627ace
+True Sport 7,P2p://ns1.hellotvvod.com:9906/ea6b2b1c52a24fae86f8c9ab601b136d
+
+AV源_1111,#genre#
+看到爽,https://www.ast.tv/stream/1/ultra.m3u8
+彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
+彩虹电影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
+LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
+潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
+惊艳成人电影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
+松视1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
+松视2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
+PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
+香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
+松视3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
+JStar极限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
+HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
+K,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
 
 
 
