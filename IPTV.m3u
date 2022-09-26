@@ -537,7 +537,7 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=22
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
 http://192.168.50.12:9500/jmsytb.m3u8?c=23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:9500/jmsytb.m3u8?c=31
+http://192.168.50.12:9500/jmsytb.m3u8?c=32
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立华剧
 http://192.168.50.12:9500/jmsytb.m3u8?c=25
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
@@ -655,19 +655,19 @@ http://netlive.zhxwzx.com/live/1001.m3u8
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台HD
-http://113.64.147.66:808/hls/67/index.m3u8
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=1
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台HD
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="港湾台",J2台
-https://j3.lhlh.app/mv.m3u8
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=6
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港湾台", 无线新闻台
-http://xindapc.qicp.vip:5502/newss.php?id=1
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台", now新闻台
-http://xindapc.qicp.vip:5502/now.php?id=332
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港湾台", j2
 http://120.84.96.195:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台
-http://113.64.147.213:808/hls/25/index.m3u8
+http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台(联通）
 http://120.84.96.55:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港湾台", 明珠台
@@ -675,19 +675,19 @@ http://120.84.96.195:808/hls/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台", 面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="港湾台",无线新闻台
-http://live.cooltv.top/tv/tvb.php?id=1
+http://9.zhxinda.xyz/newss.php?id=1
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港湾台",有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台",now新闻台
 http://live.cooltv.top/tv/now.php?channelno=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台",now财经台
-http://live.cooltv.top/tv/now.php?channelno=333
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台",now直播台
-http://live.cooltv.top/tv/now.php?channelno=331
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=11
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港湾台",有线财经资讯台
 https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="港湾台",无线财经资讯台
-http://live.cooltv.top/tv/tvb.php?id=2
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=19
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="港湾台",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="港湾台",明珠台
@@ -697,21 +697,23 @@ https://live.hkanime.com.hk/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="港湾台",J2
 https://live.hkanime.com.hk/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="港湾台",ViU TV
-https://cdn.hklive.tv/hls/99/index.m3u8
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="港湾台",ViU 6
 https://cdn.hklive.tv/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="港湾台",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港湾台",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="港湾台",RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=14
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港湾台",民视新闻台
 #EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港湾台",壹新闻
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港湾台",东森新闻
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港湾台",TVBS新闻
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=81
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台",中天新闻
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台",三立iNews
+https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=75
 #EXTINF:-1 tvg-id="7192" tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="港湾台",ELEVEN2
 rtmp://59.124.75.138:1935/sat/md021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台",爱尔达体育2台
