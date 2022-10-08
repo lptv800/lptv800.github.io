@@ -648,7 +648,7 @@ http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",CNR音乐之声
 http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",CRI HIT FM (北京)
-http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+http://satellitepull.cnr.cn/live/wxgjlxyy/http://www.penis18.org/stream/09a31be0f66832de0de6e4b5c56c310fplaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",PlayFM甬江之声
 http://netlive.zhxwzx.com/live/1001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",WHIZ Radio 海口音乐广播
@@ -659,7 +659,7 @@ http://www.penis18.org/stream/9b9e3e360f9931984f246f81c429cf81
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台HD
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="港湾台",J2台
-http://www.penis18.org/stream/09a31be0f66832de0de6e4b5c56c310f
+http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港湾台", 无线新闻台
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台", now新闻台
