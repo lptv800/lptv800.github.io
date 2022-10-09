@@ -660,6 +660,8 @@ http://www.penis18.org/stream/9b9e3e360f9931984f246f81c429cf81
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="港湾台",J2台
 http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="港湾台",ViU TV
+http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港湾台", 无线新闻台
 https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=20
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾台", now新闻台
@@ -667,7 +669,7 @@ https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=10
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港湾台", j2
 http://120.84.96.195:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台
-http://23.237.10.66:16106
+http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾台", 翡翠台(联通）
 http://120.84.96.55:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港湾台", 明珠台
@@ -697,7 +699,7 @@ https://live.hkanime.com.hk/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="港湾台",J2
 https://live.hkanime.com.hk/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="港湾台",ViU TV
-https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=1&id=17
+http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="港湾台",ViU 6
 https://cdn.hklive.tv/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="港湾台",香港开电视
