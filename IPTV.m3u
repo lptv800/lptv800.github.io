@@ -527,7 +527,7 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=17
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV-Drama1
 http://192.168.50.12:9500/jmsytb.m3u8?c=18
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:9500/jmsytb.m3u8?c=19
+http://192.168.50.12:9500/jmsytb.m3u8?c=20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",中文音乐
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
