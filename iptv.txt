@@ -200,24 +200,24 @@ HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 YouTube直播,#genre#
-中天新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=23
-民視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=24
-TVBS新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=25
-台視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=26
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=27
-東森財經,http://192.168.50.12:9500/jmsytb.m3u8?c=28
-寰宇新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=29
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=30
-鏡新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=31
-公視,http://192.168.50.12:9500/jmsytb.m3u8?c=32
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=33
-梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=34
-華視新聞,http://192.168.50.12:9500/jmsytb.m3u8?c=35
-台視,http://192.168.50.12:9500/jmsytb.m3u8?c=36
-三立華劇,http://192.168.50.12:9500/jmsytb.m3u8?c=37
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=38
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=39
-華視綜藝,http://192.168.50.12:9500/jmsytb.m3u8?c=40
+中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=41
+民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=42
+TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=43
+台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=44
+三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=45
+东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=46
+寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=47
+三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=48
+镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=49
+公视,http://192.168.50.12:9500/jmsytb.m3u8?c=50
+GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=51
+梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=52
+华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=53
+台视,http://192.168.50.12:9500/jmsytb.m3u8?c=54
+三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=55
+GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=56
+GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=57
+华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=58
 
 港澳,#genre#
 港台電視31,P2p://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
