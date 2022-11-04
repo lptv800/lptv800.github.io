@@ -200,21 +200,22 @@ HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 $c_startYouTube直播$c_end
-中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=41
-民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=42
-TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=43
-台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=44
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=45
-东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=46
-寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=47
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=48
-镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=49
-公视,http://192.168.50.12:9500/jmsytb.m3u8?c=50
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=51
-梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=52
-华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=53
-台视,http://192.168.50.12:9500/jmsytb.m3u8?c=54
-三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=55
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=56
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=57
-华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=58
+中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=59
+民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=60
+TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=61
+台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=62
+三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=63
+东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=64
+寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=65
+三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=66
+镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=67
+公视,http://192.168.50.12:9500/jmsytb.m3u8?c=68
+GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=69
+梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=70
+华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=71
+台视,http://192.168.50.12:9500/jmsytb.m3u8?c=72
+三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=73
+GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=74
+GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=75
+华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=76
+亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=77
