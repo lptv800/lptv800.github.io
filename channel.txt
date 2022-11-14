@@ -1,18 +1,18 @@
 $c_start高清香港台（地面波源）$c_end
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
-J2台,https://cdn.hklive.tv/hls/82/index.m3u8
-無綫新聞台,https://cdn.hklive.tv/hls/83/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
-明珠台 (粵語聲道),https://cdn.hklive.tv/hls/84b/index.m3u8
-無綫財經·資訊台,https://cdn.hklive.tv/hls/85/index.m3u8
-ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
-ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
-港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
-港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
-港台電視33,https://cdn.hklive.tv/hls/33/index.m3u8
-香港開電視,https://cdn.hklive.tv/hls/77/index.m3u8
-香港國際財經台,https://cdn.hklive.tv/hls/76/index.m3u8
+港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8
+香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.tv/xxxx/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
 
 $c_start台湾台$c_end
 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
