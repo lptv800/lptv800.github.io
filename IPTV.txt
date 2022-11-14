@@ -1,18 +1,18 @@
 $c_start高清香港台（地面波源）$c_end
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台 (中英字幕),https://cdn.hklive.tv/hls/81b/index.m3u8
-J2台,https://cdn.hklive.tv/hls/82/index.m3u8
-無綫新聞台,https://cdn.hklive.tv/hls/83/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
-明珠台 (粵語聲道),https://cdn.hklive.tv/hls/84b/index.m3u8
-無綫財經·資訊台,https://cdn.hklive.tv/hls/85/index.m3u8
-ViuTV,https://cdn.hklive.tv/hls/99/index.m3u8
-ViuTV Six,https://cdn.hklive.tv/hls/96/index.m3u8
-港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
-港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
-港台電視33,https://cdn.hklive.tv/hls/33/index.m3u8
-香港開電視,https://cdn.hklive.tv/hls/77/index.m3u8
-香港國際財經台,https://cdn.hklive.tv/hls/76/index.m3u8
+港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8
+香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.tv/xxxx/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
 
 $c_start台湾台$c_end
 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -200,22 +200,22 @@ HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 $c_startYouTube直播$c_end
-中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=59
-民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=60
-TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=61
-台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=62
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=63
-东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=64
-寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=65
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=66
-镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=67
-公视,http://192.168.50.12:9500/jmsytb.m3u8?c=68
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=69
-梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=70
-华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=71
-台视,http://192.168.50.12:9500/jmsytb.m3u8?c=72
-三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=73
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=74
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=75
-华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=76
-亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=77
+中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=78
+民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=79
+TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=80
+台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=81
+三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=82
+东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=83
+寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=84
+三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=85
+镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=86
+公视,http://192.168.50.12:9500/jmsytb.m3u8?c=87
+GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=88
+梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=89
+华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=90
+台视,http://192.168.50.12:9500/jmsytb.m3u8?c=91
+三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=92
+GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=93
+GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=94
+华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=95
+亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=96
