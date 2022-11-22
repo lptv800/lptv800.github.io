@@ -200,25 +200,25 @@ HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
 YouTube直播,#genre#
-中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=78
-民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=79
-TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=80
-台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=81
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=82
-东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=83
-寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=84
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=85
-镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=86
-公视,http://192.168.50.12:9500/jmsytb.m3u8?c=87
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=88
-梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=89
-华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=90
-台视,http://192.168.50.12:9500/jmsytb.m3u8?c=91
-三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=92
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=93
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=94
-华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=95
-亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=96
+中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=97
+民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=98
+TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=99
+台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=100
+三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=101
+东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=102
+寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=103
+三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=104
+镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=105
+公视,http://192.168.50.12:9500/jmsytb.m3u8?c=106
+GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=107
+梯子台,http://192.168.50.12:9500/jmsytb.m3u8?c=108
+华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=109
+台视,http://192.168.50.12:9500/jmsytb.m3u8?c=110
+三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=111
+GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=112
+GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=113
+华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=114
+亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=115
 
 港澳,#genre#
 港台電視31,P2p://ns1.hellotvvod.com:9906/531d238d4b754854925d387326c291a6
