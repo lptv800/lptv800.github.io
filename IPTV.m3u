@@ -419,6 +419,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",咪咕
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",抖音世界杯
+http://159.75.85.63:5678/zb.php?id=douyin
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天新闻
 http://192.168.50.12:9500/jmsytb.m3u8?c=97
