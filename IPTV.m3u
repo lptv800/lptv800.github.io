@@ -27,6 +27,7 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="香港地面波源码",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="香港地面波源码",财经资讯台
 https://cdn.hklive.tv/xxxx/108/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波源码",新闻台
 https://cdn.hklive.tv/xxxx/109/index.m3u8
@@ -41,7 +42,6 @@ https://epg.pm/stream/ee8c12e17464988e77625ae8d06dcc52d426f2105293e8269e5c3b1e3b
 https://epg.pm/stream/6c478a27971d1cd3dfa0e285db08a536637e23e4c10707f7875dffd97dd0d77f.ctv
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港台",TVB星河台
 https://epg.pm/stream/0bbc6c6c332147eb000eaccc7075649bf552bfc667e5194a5e2cdd1ca123cfc7.ctv
-#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港台",财经资讯台
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",RTHK32
 https://epg.pm/stream/f9d45aed17d594875d798bb15712e6040c03ae4a7862dc5b10fbd882488fd134.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
