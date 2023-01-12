@@ -232,6 +232,49 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="台港",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾美",翡翠台
+http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港湾美",华丽翡翠台
+http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港湾美",有线新闻台
+http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾美",有线财经台
+http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾美",有线直播台
+http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港湾美",美亚电影台
+http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+#EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="港湾美",纬来戏剧台
+http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港湾美",纬来电影台
+http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾美",莲花电影台
+http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港湾美",好莱坞电影
+http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港湾美",龙祥电影台
+http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港湾美",东森电影台
+http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港湾美",东森洋片台
+http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港湾美",HBO HD
+http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾美",HBO家庭影院
+http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港湾美",HBO原创电影
+http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="港湾美",HBO强档影院
+http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="港湾美",探索频道HD
+http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾美",KBS1 HD
+http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾美",KBS2 HD
+http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港湾美",MBC HD
+http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-1 8M
