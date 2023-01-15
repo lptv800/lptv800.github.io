@@ -302,7 +302,7 @@ http://192.168.50.12:9500/jmsytb.m3u8?c=159
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",民视新闻
 http://192.168.50.12:9500/jmsytb.m3u8?c=160
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="YouTube直播",TVBS新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=168
+http://192.168.50.12:9500/jmsytb.m3u8?c=178
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="YouTube直播",台视新闻
 http://192.168.50.12:9500/jmsytb.m3u8?c=162
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立海外
