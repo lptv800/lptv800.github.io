@@ -83,24 +83,24 @@ KBS2 HD,http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m
 MBC HD,http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 
 YouTube直播,#genre#
-中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=159
-民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=160
-TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=161
-台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=162
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=163
-东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=164
-寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=165
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=166
-镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=167
-公视,http://192.168.50.12:9500/jmsytb.m3u8?c=168
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=169
-华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=170
-台视,http://192.168.50.12:9500/jmsytb.m3u8?c=171
-三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=172
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=173
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=174
-华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=175
-亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=176
+中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=179
+民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=180
+TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=181
+台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=182
+三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=183
+东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=184
+寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=185
+三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=186
+镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=187
+公视,http://192.168.50.12:9500/jmsytb.m3u8?c=188
+GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=189
+华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=190
+台视,http://192.168.50.12:9500/jmsytb.m3u8?c=191
+三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=192
+GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=193
+GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=194
+华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=195
+亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=196
 
 AV源_1111,#genre#
 看到爽,https://www.ast.tv/stream/1/ultra.m3u8
