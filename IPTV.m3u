@@ -298,41 +298,41 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=179
+http://192.168.50.12:9500/jmsytb.m3u8?c=1
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",民视新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=180
+http://192.168.50.12:9500/jmsytb.m3u8?c=2
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="YouTube直播",TVBS新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=181
+http://192.168.50.12:9500/jmsytb.m3u8?c=3
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="YouTube直播",台视新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=182
+http://192.168.50.12:9500/jmsytb.m3u8?c=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立海外
-http://192.168.50.12:9500/jmsytb.m3u8?c=183
+http://192.168.50.12:9500/jmsytb.m3u8?c=5
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="YouTube直播",东森财经
-http://192.168.50.12:9500/jmsytb.m3u8?c=184
+http://192.168.50.12:9500/jmsytb.m3u8?c=6
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="YouTube直播",寰宇新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=185
+http://192.168.50.12:9500/jmsytb.m3u8?c=7
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="YouTube直播",三立 iNEWS
-http://192.168.50.12:9500/jmsytb.m3u8?c=186
+http://192.168.50.12:9500/jmsytb.m3u8?c=8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",镜新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=187
+http://192.168.50.12:9500/jmsytb.m3u8?c=9
 #EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="YouTube直播",公视
-http://192.168.50.12:9500/jmsytb.m3u8?c=188
+http://192.168.50.12:9500/jmsytb.m3u8?c=10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV-Drama2
-http://192.168.50.12:9500/jmsytb.m3u8?c=189
+http://192.168.50.12:9500/jmsytb.m3u8?c=11
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视新闻
-http://192.168.50.12:9500/jmsytb.m3u8?c=190
+http://192.168.50.12:9500/jmsytb.m3u8?c=12
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
-http://192.168.50.12:9500/jmsytb.m3u8?c=191
+http://192.168.50.12:9500/jmsytb.m3u8?c=13
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立华剧
-http://192.168.50.12:9500/jmsytb.m3u8?c=192
+http://192.168.50.12:9500/jmsytb.m3u8?c=14
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
-http://192.168.50.12:9500/jmsytb.m3u8?c=193
+http://192.168.50.12:9500/jmsytb.m3u8?c=15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV-Drama1
-http://192.168.50.12:9500/jmsytb.m3u8?c=194
+http://192.168.50.12:9500/jmsytb.m3u8?c=16
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:9500/jmsytb.m3u8?c=195
+http://192.168.50.12:9500/jmsytb.m3u8?c=17
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",亲亲2o音乐LîvË【中文音乐】
-http://192.168.50.12:9500/jmsytb.m3u8?c=196
+http://192.168.50.12:9500/jmsytb.m3u8?c=18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",中文音乐
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
