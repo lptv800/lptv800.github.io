@@ -83,25 +83,24 @@ KBS2 HD,http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m
 MBC HD,http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 
 YouTube直播,#genre#
-中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=1
-民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=2
-TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=3
-台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=4
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=5
-东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=6
-寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=7
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=8
-镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=9
-公视,http://192.168.50.12:9500/jmsytb.m3u8?c=10
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=11
-华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=12
-台视,http://192.168.50.12:9500/jmsytb.m3u8?c=13
-三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=14
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=15
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=16
-华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=17
-亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=18
-
+中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=42
+民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=43
+TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=44
+台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=45
+三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=46
+东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=47
+寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=48
+三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=49
+镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=50
+公视,http://192.168.50.12:9500/jmsytb.m3u8?c=51
+GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=52
+华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=53
+台视,http://192.168.50.12:9500/jmsytb.m3u8?c=54
+三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=55
+GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=56
+GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=57
+华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=58
+亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=59
 
 
 
