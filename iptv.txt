@@ -103,36 +103,19 @@ GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=57
 亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=59
 
 AV源_1111,#genre#
-看到爽,https://www.ast.tv/stream/1/ultra.m3u8
-彩虹e台,P2p://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
-彩虹电影台,P2p://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
-LOOK TV,P2p://ns3.hellotvvod.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-潘朵啦玩美台,P2p://ns3.hellotvvod.com:9906/920530a511934ff980a0bc4ffb64f51c
-惊艳成人电影台,P2p://ns3.hellotvvod.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-松视1台,P2p://ns3.hellotvvod.com:9906/b220e1df95e141188def1de2d1a3507e
-松视2台,P2p://ns3.hellotvvod.com:9906/d4e997cdc91b4506bf391e7222b77abc
-PLAYBOY,P2p://ns3.hellotvvod.com:9906/a5480458bcb946b18d21b751db08a8e1
-香蕉台,P2p://ns3.hellotvvod.com:9906/91088314de8b461ba3aaa1f27ae3732b
-松视3台,P2p://ns3.hellotvvod.com:9906/6c96963b9c974eb88da6ff55f3b77773
-JStar极限台,P2p://ns3.hellotvvod.com:9906/9ca49d959a29450fbc3f7766f7769e54
-HAPPY,P2p://ns3.hellotvvod.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-K,P2p://ns3.hellotvvod.com:9906/59281d33d7d24944abcf3d4aa0ed524c
-玩家频道,https://epg.pm/stream/e38198c01a523f4339ef076a2bb66b9ad51374027d4e1d06afb82b7a76691bb1.ctv
-HAPPY,https://epg.pm/stream/f7e1aed778368c540ec7ade348088e30150b45ccf94282a9e974c04309440f0d.ctv
-HOT,https://epg.pm/stream/ba89797b43783679da1704b982841a38dd4989ae0b59e7f3e7057ca70433a231.ctv
-松视4,https://epg.pm/stream/6466e251921c7a2437f4ba2151b676b7046428dcbc24bb3bd787f8b4b8caac77.ctv
-松视1,https://epg.pm/stream/0bd4eb5a49aef96f07bf6824687d44e191a6bf0c435ec4bff415cd7bfbf23342.ctv
-松视2,https://epg.pm/stream/1605879d15641ebabad1818042919e5d9a215698dbe35f5762c8c1e3d0f0f328.ctv
-彩虹频道,https://epg.pm/stream/c8fa38fb368cfa21b995d13943481c5f87511b49e8abd3e8f06f82d126801042.ctv
-松视3,https://epg.pm/stream/40b7a443d909766696cd2bb1bc8b547f2427279d41f3b823dc7808b5734a3c9b.ctv
-樂活频道,https://epg.pm/stream/e8c9e526148ebf2c8cdcd87b3a4116ee8e577d5e8b649b81b6f863529f482caf.ctv
-香蕉台,https://epg.pm/stream/7d08f4735385abbca7783b0c865ea34ba71b99b63453b72b57a0e3f85b5b4e08.ctv
-驚豔台,https://epg.pm/stream/aa109268bcac3b31730a789b5373fbaf832346dcbc7c2e53185e2511b81ba35e.ctv
-潘朵拉粉紅,https://epg.pm/stream/a404a8482dde807085bfe2b17b703d42b829336d823ef957deb605b78f4f2455.ctv
-潘朵拉玩美,https://epg.pm/stream/4b1abdb6a10fb4d0cf8766d940adff06296883ff8c8700d5420281f35d648147.ctv
-
-
-
+彩虹e台,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+彩虹电影台,P2p://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+LOOK TV,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+潘朵啦玩美台,P2p://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+惊艳成人电影台,P2p://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+松视1台,P2p://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+松视2台,P2p://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+PLAYBOY,P2p://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
+香蕉台,P2p://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+松视3台,P2p://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+JStar极限台,P2p://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+HAPPY,P2p://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+K,P2p://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
 
 
 
