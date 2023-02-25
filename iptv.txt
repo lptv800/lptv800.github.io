@@ -83,24 +83,22 @@ KBS2 HD,http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m
 MBC HD,http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 
 YouTube直播,#genre#
-中天新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=42
-民视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=43
-TVBS新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=44
-台视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=45
-三立海外,http://192.168.50.12:9500/jmsytb.m3u8?c=46
-东森财经,http://192.168.50.12:9500/jmsytb.m3u8?c=47
-寰宇新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=48
-三立 iNEWS,http://192.168.50.12:9500/jmsytb.m3u8?c=49
-镜新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=50
-公视,http://192.168.50.12:9500/jmsytb.m3u8?c=51
-GTV-Drama2,http://192.168.50.12:9500/jmsytb.m3u8?c=52
-华视新闻,http://192.168.50.12:9500/jmsytb.m3u8?c=53
-台视,http://192.168.50.12:9500/jmsytb.m3u8?c=54
-三立华剧,http://192.168.50.12:9500/jmsytb.m3u8?c=55
-GTV八大电视,http://192.168.50.12:9500/jmsytb.m3u8?c=56
-GTV-Drama1,http://192.168.50.12:9500/jmsytb.m3u8?c=57
-华视综艺,http://192.168.50.12:9500/jmsytb.m3u8?c=58
-亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:9500/jmsytb.m3u8?c=59
+中天新聞,http://192.168.50.12:35455/youtube/_QbRXRnHMVY
+民視新聞,http://192.168.50.12:35455/youtube/ylYJSBUgaMA
+TVBS NEWS,http://192.168.50.12:35455/youtube/Zp0qMf_n6oc
+台視新聞,http://192.168.50.12:35455/youtube/xL0ch83RAK8
+三立LIVE新闻,http://192.168.50.12:35455/youtube/GRswofGBxN0
+東森財經,http://192.168.50.12:35455/youtube/WHEPzbFA3hw
+寰宇新聞,http://192.168.50.12:35455/youtube/B7Zp3d6xXWw
+三立 iNEWS,http://192.168.50.12:35455/youtube/CKjSm5ZeehE
+鏡新聞,http://192.168.50.12:35455/youtube/5n0y6b0Q25o
+公視,http://192.168.50.12:35455/youtube/4Uc00FPs27M
+華視新聞,http://192.168.50.12:35455/youtube/wM0g8EoUZ_E
+台視,http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
+三立華劇,http://192.168.50.12:35455/youtube/jtgYMh6ngcU
+GTV八大电视,http://192.168.50.12:35455/youtube/FYi0hlNd_Tg
+華視綜藝,http://192.168.50.12:35455/youtube/pn_0gm9gztM
+親親2o音樂LîvË【中文音樂】,http://192.168.50.12:35455/youtube/wrYF0HX7Kzc
 
 AV源_1111,#genre#
 彩虹e台,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
