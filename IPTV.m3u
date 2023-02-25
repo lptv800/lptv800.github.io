@@ -719,9 +719,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",咪咕
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",#EXTINF-1中天新闻
+tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",#EXTINF-1中天新闻
 http://192.168.50.12:35455/youtube/_QbRXRnHMVY
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",#EXTINF-1民视新闻
+tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",#EXTINF-1民视新闻
 http://192.168.50.12:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",#EXTINF-1TVBS NEWS
 http://192.168.50.12:35455/youtube/Zp0qMf_n6oc
