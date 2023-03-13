@@ -388,22 +388,22 @@ Hub娱家,P2p://generationnexxxt.com:19806/48516f220b1f420f986b92c12dcd84e1
 亚洲剧台,P2p://generationnexxxt.com:19806/39b2516c7f3e465da6e7a93837c1ea81
 
 YouTube直播,#genre#
-中天新聞,http://192.168.50.12:35455/youtube/_QbRXRnHMVY
-民視新聞,http://192.168.50.12:35455/youtube/ylYJSBUgaMA
-TVBS NEWS,http://192.168.50.12:35455/youtube/Zp0qMf_n6oc
-台視新聞,http://192.168.50.12:35455/youtube/xL0ch83RAK8
+中天新闻,http://192.168.50.12:35455/youtube/_QbRXRnHMVY
+民视新闻,http://192.168.50.12:35455/youtube/ylYJSBUgaMA
+TVBS NEWS,http://192.168.50.12:35455/youtube/DRJQ5pXdJCs
+台视新闻,http://192.168.50.12:35455/youtube/xL0ch83RAK8
 三立LIVE新闻,http://192.168.50.12:35455/youtube/GRswofGBxN0
-東森財經,http://192.168.50.12:35455/youtube/WHEPzbFA3hw
-寰宇新聞,http://192.168.50.12:35455/youtube/B7Zp3d6xXWw
+东森财经,http://192.168.50.12:35455/youtube/WHEPzbFA3hw
+寰宇新闻,http://192.168.50.12:35455/youtube/B7Zp3d6xXWw
 三立 iNEWS,http://192.168.50.12:35455/youtube/CKjSm5ZeehE
-鏡新聞,http://192.168.50.12:35455/youtube/5n0y6b0Q25o
-公視,http://192.168.50.12:35455/youtube/4Uc00FPs27M
-華視新聞,http://192.168.50.12:35455/youtube/wM0g8EoUZ_E
-台視,http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
-三立華劇,http://192.168.50.12:35455/youtube/jtgYMh6ngcU
-GTV八大电视,http://192.168.50.12:35455/youtube/FYi0hlNd_Tg
-華視綜藝,http://192.168.50.12:35455/youtube/pn_0gm9gztM
-親親2o音樂LîvË【中文音樂】,http://192.168.50.12:35455/youtube/wrYF0HX7Kzc
+镜新闻,http://192.168.50.12:35455/youtube/5n0y6b0Q25o
+公视,http://192.168.50.12:35455/youtube/4Uc00FPs27M
+华视新闻,http://192.168.50.12:35455/youtube/wM0g8EoUZ_E
+台视,http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
+三立華劇,http://192.168.50.12:35455/youtube/f6cWRv86FQg
+GTV八大电视,http://192.168.50.12:35455/youtube/_MOhQbKegXs
+华视综艺,http://192.168.50.12:35455/youtube/Zq-AnR5WHKg
+亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:35455/youtube/wrYF0HX7Kzc
 
 
 
