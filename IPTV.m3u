@@ -1038,13 +1038,13 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="谷豆央视",CCTV1
-http://192.168.50.12:5678/gudou.php?id=CCTV1HD_7000
+http://192.168.50.12:5678/gudou.php?id=1402_4500
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="谷豆央视",CCTV2
 http://192.168.50.12:5678/gudou.php?id=CCTV2HD_7000
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="谷豆央视",CCTV3
 http://192.168.50.12:5678/gudou.php?id=CCTV3HD_7000
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="谷豆央视",CCTV4
-http://192.168.50.12:5678/gudou.php?id=CCTV-4HD_7500
+http://192.168.50.12:5678/gudou.php?id=1604_4500
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="谷豆央视",CCTV5
 http://192.168.50.12:5678/gudou.php?id=CCTV5HD_7000
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="谷豆央视",CCTV5+
@@ -1080,17 +1080,17 @@ http://192.168.50.12:5678/gudou.php?id=4010
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="谷豆央视",CGTN
 http://192.168.50.12:5678/gudou.php?id=CCTV15news_1500
 
-#EXTINF:-1,tvg-id="广东谷豆卫视" tvg-name="广东谷豆卫视" tvg-logo="https://epg.112114.xyz/logo/广东谷豆卫视.png" group-title="谷豆卫视",广东谷豆卫视
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="谷豆卫视",广东谷豆卫视
 http://192.168.50.12:5678/gudou.php?id=guangdongHD_7000
-#EXTINF:-1,tvg-id="深圳谷豆卫视" tvg-name="深圳谷豆卫视" tvg-logo="https://epg.112114.xyz/logo/深圳谷豆卫视.png" group-title="谷豆卫视",深圳谷豆卫视
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="谷豆卫视",深圳谷豆卫视
 http://192.168.50.12:5678/gudou.php?id=shenzhenHD_7000
-#EXTINF:-1,tvg-id="东方谷豆卫视" tvg-name="东方谷豆卫视" tvg-logo="https://epg.112114.xyz/logo/东方谷豆卫视.png" group-title="谷豆卫视",东方谷豆卫视
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="谷豆卫视",东方谷豆卫视
 http://192.168.50.12:5678/gudou.php?id=dongfangHD_7000
-#EXTINF:-1,tvg-id="北京谷豆卫视" tvg-name="北京谷豆卫视" tvg-logo="https://epg.112114.xyz/logo/北京谷豆卫视.png" group-title="谷豆卫视",北京谷豆卫视
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="谷豆卫视",北京谷豆卫视
 http://192.168.50.12:5678/gudou.php?id=beijingHD_7000
-#EXTINF:-1,tvg-id="湖南谷豆卫视" tvg-name="湖南谷豆卫视" tvg-logo="https://epg.112114.xyz/logo/湖南谷豆卫视.png" group-title="谷豆卫视",湖南谷豆卫视
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="谷豆卫视",湖南谷豆卫视
 http://192.168.50.12:5678/gudou.php?id=hunanHD_7000
-#EXTINF:-1,tvg-id="江西谷豆卫视" tvg-name="江西谷豆卫视" tvg-logo="https://epg.112114.xyz/logo/江西谷豆卫视.png" group-title="谷豆卫视",江西谷豆卫视
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="谷豆卫视",江西谷豆卫视
 http://192.168.50.12:5678/gudou.php?id=jiangxiHD_7000
 #EXTINF:-1,tvg-id="四川谷豆卫视" tvg-name="四川谷豆卫视" tvg-logo="https://epg.112114.xyz/logo/四川谷豆卫视.png" group-title="谷豆卫视",四川谷豆卫视
 http://192.168.50.12:5678/gudou.php?id=sichuanHD_7000
