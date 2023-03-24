@@ -1129,6 +1129,8 @@ http://192.168.50.12:5678/gudou.php?id=xingkong_1500
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png" group-title="谷豆卫视",澳亚卫视
 http://192.168.50.12:5678/gudou.php?id=aoya_1500
 
+#EXTINF:-1,tvg-id="香山文化" tvg-name="香山文化" tvg-logo="https://epg.112114.xyz/logo/香山文化.png" group-title="谷豆广东",香山文化
+http://192.168.50.12:5678/gudou.php?id=3663_4500
 #EXTINF:-1,tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="谷豆广东",广东综艺4K
 http://192.168.50.12:5678/gudou.php?id=GDZYHD4K_38000
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="谷豆广东",广东珠江
