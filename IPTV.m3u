@@ -737,10 +737,12 @@ http://192.168.50.12:35455/youtube/B7Zp3d6xXWw
 http://192.168.50.12:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",镜新闻
 http://192.168.50.12:35455/youtube/5n0y6b0Q25o
-#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="YouTube直播",公视
-http://192.168.50.12:35455/youtube/4Uc00FPs27M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视新闻
 http://192.168.50.12:35455/youtube/wM0g8EoUZ_E
+#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="YouTube直播",公视
+http://192.168.50.12:35455/youtube/4Uc00FPs27M
+#EXTINF:-1 tvg-id="565" tvg-name="公视2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="YouTube直播",公视台语台
+http://192.168.50.12:35455/youtube/6KlRR_DGhmI
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
 http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立華劇
