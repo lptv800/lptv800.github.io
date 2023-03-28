@@ -36,6 +36,11 @@ https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波源码",now直播台
 https://cdn.hklive.tv/xxxx/331/index.m3u8
 
+#EXTINF:-1,tvg-id="江门综合台" tvg-name="江门综合台" tvg-logo="https://epg.112114.xyz/logo/江门综合台.png" group-title="江门",江门综合台
+http://192.168.50.12:5678/JM.php?id=jmzh
+#EXTINF:-1,tvg-id="江门侨乡生活台" tvg-name="江门侨乡生活台" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活台.png" group-title="江门",江门侨乡生活台
+http://192.168.50.12:5678/JM.php?id=jmqxsh
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
 http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8#http://23.237.10.66:16106?%241920x1080
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
