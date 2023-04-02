@@ -225,8 +225,6 @@ http://chuangye168.gnway.org:56994/g8dyou.php?id=2508_4500
 http://chuangye168.gnway.org:56994/g8dyou.php?id=shantouertaogaoqing_4500
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
-http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8#http://23.237.10.66:16106?%241920x1080
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
 http://23.237.10.66:16410?%241280x720
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
 http://r.jdshipin.com/62WM7
@@ -248,6 +246,28 @@ http://r.jdshipin.com/thuYX
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
 http://23.237.10.66:16410
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",華麗翡翠台
+http://2022.stream-link.org/live/1684250157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台", 八度空間
+http://2022.stream-link.org/live/1753190198
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
+http://2022.stream-link.org/live/131217689
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台",J2
+http://2022.stream-link.org/live/1869661640
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="港台",無綫新聞台
+http://2022.stream-link.org/live/1488149502
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="港台",無綫財經資訊台
+http://2022.stream-link.org/live/201000012
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台",有線新聞台
+http://2022.stream-link.org/live/970235901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",有線財經資訊台
+http://2022.stream-link.org/live/1757618804
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="港台",開電視
+http://2022.stream-link.org/live/322793772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",開電視資訊台
+http://2022.stream-link.org/live/237166685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",國際財經台
+http://2022.stream-link.org/live/1737572864
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",小太阳
 http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
@@ -908,11 +928,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天新闻
-http://192.168.50.12:35455/youtube/_QbRXRnHMVY
+http://192.168.50.12:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",民视新闻
 http://192.168.50.12:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",TVBS NEWS
-http://192.168.50.12:35455/youtube/DRJQ5pXdJCs
+http://192.168.50.12:35455/youtube/K4LKBebN5ew
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="YouTube直播",台视新闻
 http://192.168.50.12:35455/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立LIVE新闻
@@ -934,7 +954,7 @@ http://192.168.50.12:35455/youtube/6KlRR_DGhmI
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
 http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立華劇
-http://192.168.50.12:35455/youtube/f6cWRv86FQg
+http://192.168.50.12:35455/youtube/Il3YPiaW24Q
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
 http://192.168.50.12:35455/youtube/_MOhQbKegXs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
