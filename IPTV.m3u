@@ -36,6 +36,11 @@ https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港地面波源码",now直播台
 https://cdn.hklive.tv/xxxx/331/index.m3u8
 
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="TVB新聞",無線新聞台1080P
+http://192.168.50.12:5678/TVB.php?id=0&hq
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="TVB新聞",無線財經·體育·資訊台1080P
+http://192.168.50.12:5678/TVB.php?id=2&hq
+
 #EXTINF:-1,tvg-id="江门综合台" tvg-name="江门综合台" tvg-logo="https://epg.112114.xyz/logo/江门综合台.png" group-title="江门",江门综合台
 http://192.168.50.12:5678/JM.php?id=jmzh
 #EXTINF:-1,tvg-id="江门侨乡生活台" tvg-name="江门侨乡生活台" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活台.png" group-title="江门",江门侨乡生活台
