@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.hklive.tv,https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml  url-tvg="https://epg.hklive.tv"  url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://www.hklive.tv/png_logo/31.png" group-title="香港地面波源码",港台電視31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://www.hklive.tv/png_logo/32.png" group-title="香港地面波源码",港台電視32
