@@ -339,61 +339,6 @@ http://2022.stream-link.org/live/237166685
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台",國際財經台
 http://2022.stream-link.org/live/1737572864
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",小太阳
-http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",公视戏剧
-http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="台湾",民视综艺
-http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7180" tvg-name="采昌影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png" group-title="台湾",采昌影剧
-http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="台湾",美食星球
-http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",时尚运动X
-http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6176" tvg-name="博斯无限台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="台湾",博斯无限
-http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="台湾",博斯运动1
-http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="台湾",智林体育台
-http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",华视新闻资讯
-http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7139" tvg-name="爱尔达娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" group-title="台湾",爱尔达娱乐
-http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="台湾",靖天日本
-http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6151" tvg-name="靖天育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png" group-title="台湾",靖天育乐
-http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" group-title="台湾",靖天映画
-http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="台湾",靖天电影
-http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7159" tvg-name="靖天戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戏剧.png" group-title="台湾",靖天戏剧
-http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" group-title="台湾",靖天欢乐
-http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png" group-title="台湾",靖洋卡通
-http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png" group-title="台湾",靖洋戏剧
-http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾",纬来体育
-http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511926845&tsum=0b7ca9a61e7371df68108a27dc358c68
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="台湾",ANIMAX
-http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",BBC 地球
-http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾",ELEVEN体育2台
-http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="台湾",FTV 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="台湾",Skynews
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="台湾",TLC旅游生活
-http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
-#EXTINF:-1 tvg-id="988" tvg-name="TraceSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" group-title="台湾",TraceSports
-http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台美",人间卫视
 http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台美",八大第一台
