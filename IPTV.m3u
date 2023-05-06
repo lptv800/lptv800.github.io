@@ -37,263 +37,263 @@ https://cdn.hklive.tv/xxxx/332/index.m3u8
 https://cdn.hklive.tv/xxxx/331/index.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="TVB新聞",無線新聞台1080P
-http://php.cubs88.eu.org/TVB.php?id=0&hq
+http://192.168.50.12:5678/TVB.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="TVB新聞",無線財經·體育·資訊台1080P
-http://php.cubs88.eu.org/TVB.php?id=2&hq
+http://192.168.50.12:5678/TVB.php?id=2&hq
 
 #EXTINF:-1,tvg-id="江门综合台" tvg-name="江门综合台" tvg-logo="https://epg.112114.xyz/logo/江门综合台.png" group-title="江门",江门综合台
-http://php.cubs88.eu.org/JM.php?id=jmzh
+http://192.168.50.12:5678/JM.php?id=jmzh
 #EXTINF:-1,tvg-id="江门侨乡生活台" tvg-name="江门侨乡生活台" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活台.png" group-title="江门",江门侨乡生活台
-http://php.cubs88.eu.org/JM.php?id=jmqxsh
+http://192.168.50.12:5678/JM.php?id=jmqxsh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江门",深圳卫视
-http://php.cubs88.eu.org/tide.php?id=szws
+http://192.168.50.12:5678/tide.php?id=szws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江门",电视剧频道
-http://php.cubs88.eu.org/tide.php?id=szdsj
+http://192.168.50.12:5678/tide.php?id=szdsj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江门",都市频道
-http://php.cubs88.eu.org/tide.php?id=szds
+http://192.168.50.12:5678/tide.php?id=szds
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="cqyx",CCTV1综合
-http://php.cubs88.eu.org/cqyx.php?id=cctv1HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv1HD
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="cqyx",CCTV2财经
-http://php.cubs88.eu.org/cqyx.php?id=cctv2HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv2HD
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="cqyx",CCTV3综艺
-http://php.cubs88.eu.org/cqyx.php?id=cctv3HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv3HD
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="cqyx",CCTV4中文国际
-http://php.cubs88.eu.org/cqyx.php?id=cctv4HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv4HD
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="cqyx",CCTV5体育
-http://php.cubs88.eu.org/cqyx.php?id=cctv5HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv5HD
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="cqyx",CCTV5体育赛事
-http://php.cubs88.eu.org/cqyx.php?id=cctv5SportHD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv5SportHD
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="cqyx",CCTV6电影
-http://php.cubs88.eu.org/cqyx.php?id=cctv6HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv6HD
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="cqyx",CCTV7国防军事
-http://php.cubs88.eu.org/cqyx.php?id=cctv7HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv7HD
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="cqyx",CCTV8电视剧
-http://php.cubs88.eu.org/cqyx.php?id=cctv8HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv8HD
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="cqyx",CCTV9纪录
-http://php.cubs88.eu.org/cqyx.php?id=cctv9HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv9HD
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="cqyx",CCTV10科教
-http://php.cubs88.eu.org/cqyx.php?id=cctv10HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv10HD
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="cqyx",CCTV11戏曲
-http://php.cubs88.eu.org/cqyx.php?id=cctv11HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv11HD
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="cqyx",CCTV12社会与法
-http://php.cubs88.eu.org/cqyx.php?id=cctv12HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv12HD
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="cqyx",CCTV13新闻
-http://php.cubs88.eu.org/cqyx.php?id=CCTVNewsHD
+http://http://192.168.50.12:5678/cqyx.php?id=CCTVNewsHD
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="cqyx",CCTV14少儿
-http://php.cubs88.eu.org/cqyx.php?id=cctvseHD
+http://http://192.168.50.12:5678/cqyx.php?id=cctvseHD
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="cqyx",CCTV15音乐
-http://php.cubs88.eu.org/cqyx.php?id=cctv15HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv15HD
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="cqyx",CCTV16奥林匹克
-http://php.cubs88.eu.org/cqyx.php?id=cctv16HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv16HD
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="cqyx",CCTV17农业农村
-http://php.cubs88.eu.org/cqyx.php?id=cctv17HD
+http://http://192.168.50.12:5678/cqyx.php?id=cctv17HD
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="cqyx",重庆卫视
-http://php.cubs88.eu.org/cqyx.php?id=chongqingHD
+http://http://192.168.50.12:5678/cqyx.php?id=chongqingHD
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="cqyx",重庆新闻
-http://php.cubs88.eu.org/cqyx.php?id=CQTVNewsHD
+http://http://192.168.50.12:5678/cqyx.php?id=CQTVNewsHD
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="cqyx",重庆影视
-http://php.cubs88.eu.org/cqyx.php?id=cqyingshiHD
+http://http://192.168.50.12:5678/cqyx.php?id=cqyingshiHD
 #EXTINF:-1 tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="cqyx",重庆社会与法
-http://php.cubs88.eu.org/cqyx.php?id=CQTVTrendyHD
+http://http://192.168.50.12:5678/cqyx.php?id=CQTVTrendyHD
 #EXTINF:-1 tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="cqyx",重庆时尚生活
-http://php.cubs88.eu.org/cqyx.php?id=cqssgwHD
+http://http://192.168.50.12:5678/cqyx.php?id=cqssgwHD
 #EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐.png" group-title="cqyx",重庆文体娱乐
-http://php.cubs88.eu.org/cqyx.php?id=cqwtylHD
+http://http://192.168.50.12:5678/cqyx.php?id=cqwtylHD
 #EXTINF:-1 tvg-id="重庆新农村" tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="cqyx",重庆新农村
-http://php.cubs88.eu.org/cqyx.php?id=cqggncHD
+http://http://192.168.50.12:5678/cqyx.php?id=cqggncHD
 #EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="cqyx",重庆少儿
-http://php.cubs88.eu.org/cqyx.php?id=cqseHD
+http://http://192.168.50.12:5678/cqyx.php?id=cqseHD
 #EXTINF:-1 tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="cqyx",重庆科教
-http://php.cubs88.eu.org/cqyx.php?id=CQTVkejiaoHD
+http://http://192.168.50.12:5678/cqyx.php?id=CQTVkejiaoHD
 #EXTINF:-1 tvg-id="爱看导视" tvg-name="爱看导视" tvg-logo="https://live.fanmingming.com/tv/爱看导视.png" group-title="cqyx",爱看导视
-http://php.cubs88.eu.org/cqyx.php?id=aikanHD
+http://http://192.168.50.12:5678/cqyx.php?id=aikanHD
 #EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="cqyx",重庆汽摩
-http://php.cubs88.eu.org/cqyx.php?id=cqcarSD
+http://http://192.168.50.12:5678/cqyx.php?id=cqcarSD
 #EXTINF:-1 tvg-id="重庆移动" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="cqyx",重庆移动
-http://php.cubs88.eu.org/cqyx.php?id=mryyHD
+http://http://192.168.50.12:5678/cqyx.php?id=mryyHD
 #EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="cqyx",重广融媒
-http://php.cubs88.eu.org/cqyx.php?id=cqrongmei
+http://http://192.168.50.12:5678/cqyx.php?id=cqrongmei
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="cqyx",优购物
-http://php.cubs88.eu.org/cqyx.php?id=yougouwu
+http://http://192.168.50.12:5678/cqyx.php?id=yougouwu
 #EXTINF:-1 tvg-id="家家购物" tvg-name="家家购物" tvg-logo="https://live.fanmingming.com/tv/家家购物.png" group-title="cqyx",家家购物
-http://php.cubs88.eu.org/cqyx.php?id=jjgw
+http://http://192.168.50.12:5678/cqyx.php?id=jjgw
 #EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="cqyx",风尚购物
-http://php.cubs88.eu.org/cqyx.php?id=fsgw
+http://http://192.168.50.12:5678/cqyx.php?id=fsgw
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="cqyx",聚鲨环球精选
-http://php.cubs88.eu.org/cqyx.php?id=jusha
+http://http://192.168.50.12:5678/cqyx.php?id=jusha
 #EXTINF:-1 tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://live.fanmingming.com/tv/中视购物.png" group-title="cqyx",中视购物
-http://php.cubs88.eu.org/cqyx.php?id=ysgw
+http://http://192.168.50.12:5678/cqyx.php?id=ysgw
 #EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="cqyx",家有购物
-http://php.cubs88.eu.org/cqyx.php?id=jygw
+http://http://192.168.50.12:5678/cqyx.php?id=jygw
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="cqyx",央广购物
-http://php.cubs88.eu.org/cqyx.php?id=yggw
+http://http://192.168.50.12:5678/cqyx.php?id=yggw
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="cqyx",江苏卫视
-http://php.cubs88.eu.org/cqyx.php?id=jiangsuHD
+http://http://192.168.50.12:5678/cqyx.php?id=jiangsuHD
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="cqyx",北京卫视
-http://php.cubs88.eu.org/cqyx.php?id=beijingHD
+http://http://192.168.50.12:5678/cqyx.php?id=beijingHD
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="cqyx",浙江卫视
-http://php.cubs88.eu.org/cqyx.php?id=zhejiangHD
+http://http://192.168.50.12:5678/cqyx.php?id=zhejiangHD
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="cqyx",东方卫视
-http://php.cubs88.eu.org/cqyx.php?id=shanghaiHD
+http://http://192.168.50.12:5678/cqyx.php?id=shanghaiHD
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="cqyx",深圳卫视
-http://php.cubs88.eu.org/cqyx.php?id=shenzhenHD
+http://http://192.168.50.12:5678/cqyx.php?id=shenzhenHD
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="cqyx",辽宁卫视
-http://php.cubs88.eu.org/cqyx.php?id=liaoningHD
+http://http://192.168.50.12:5678/cqyx.php?id=liaoningHD
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="cqyx",天津卫视
-http://php.cubs88.eu.org/cqyx.php?id=tianjinHD
+http://http://192.168.50.12:5678/cqyx.php?id=tianjinHD
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="cqyx",贵州卫视
-http://php.cubs88.eu.org/cqyx.php?id=guizhouHD
+http://http://192.168.50.12:5678/cqyx.php?id=guizhouHD
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="cqyx",四川卫视
-http://php.cubs88.eu.org/cqyx.php?id=sichuanHD
+http://http://192.168.50.12:5678/cqyx.php?id=sichuanHD
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="cqyx",云南卫视
-http://php.cubs88.eu.org/cqyx.php?id=yunnanSD
+http://http://192.168.50.12:5678/cqyx.php?id=yunnanSD
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="cqyx",东南卫视
-http://php.cubs88.eu.org/cqyx.php?id=dongnanHD
+http://http://192.168.50.12:5678/cqyx.php?id=dongnanHD
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="cqyx",黑龙江卫视
-http://php.cubs88.eu.org/cqyx.php?id=heilongjiangHD
+http://http://192.168.50.12:5678/cqyx.php?id=heilongjiangHD
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="cqyx",安徽卫视
-http://php.cubs88.eu.org/cqyx.php?id=anhuiSD
+http://http://192.168.50.12:5678/cqyx.php?id=anhuiSD
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="cqyx",河北卫视
-http://php.cubs88.eu.org/cqyx.php?id=hebeiSD
+http://http://192.168.50.12:5678/cqyx.php?id=hebeiSD
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="cqyx",江西卫视
-http://php.cubs88.eu.org/cqyx.php?id=jiangxiHD
+http://http://192.168.50.12:5678/cqyx.php?id=jiangxiHD
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="cqyx",湖北卫视
-http://php.cubs88.eu.org/cqyx.php?id=hubeiSD
+http://http://192.168.50.12:5678/cqyx.php?id=hubeiSD
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="cqyx",海南卫视
-http://php.cubs88.eu.org/cqyx.php?id=hainanSD
+http://http://192.168.50.12:5678/cqyx.php?id=hainanSD
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="cqyx",吉林卫视
-http://php.cubs88.eu.org/cqyx.php?id=jilinHD
+http://http://192.168.50.12:5678/cqyx.php?id=jilinHD
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="cqyx",广西卫视
-http://php.cubs88.eu.org/cqyx.php?id=guangxiHD
+http://http://192.168.50.12:5678/cqyx.php?id=guangxiHD
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="cqyx",内蒙古卫视
-http://php.cubs88.eu.org/cqyx.php?id=neimengkuSD
+http://http://192.168.50.12:5678/cqyx.php?id=neimengkuSD
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="cqyx",湖南卫视
-http://php.cubs88.eu.org/cqyx.php?id=hunanHD
+http://http://192.168.50.12:5678/cqyx.php?id=hunanHD
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="cqyx",广东卫视
-http://php.cubs88.eu.org/cqyx.php?id=guangdongHD
+http://http://192.168.50.12:5678/cqyx.php?id=guangdongHD
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="cqyx",河南卫视
-http://php.cubs88.eu.org/cqyx.php?id=henanHD
+http://http://192.168.50.12:5678/cqyx.php?id=henanHD
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="cqyx",山西卫视
-http://php.cubs88.eu.org/cqyx.php?id=shanxiSD
+http://http://192.168.50.12:5678/cqyx.php?id=shanxiSD
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="cqyx",兵团卫视
-http://php.cubs88.eu.org/cqyx.php?id=bingtuanSD
+http://http://192.168.50.12:5678/cqyx.php?id=bingtuanSD
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="cqyx",宁夏卫视
-http://php.cubs88.eu.org/cqyx.php?id=ningxia
+http://http://192.168.50.12:5678/cqyx.php?id=ningxia
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="cqyx",北京卡酷少儿
-http://php.cubs88.eu.org/cqyx.php?id=bjkakuSD
+http://http://192.168.50.12:5678/cqyx.php?id=bjkakuSD
 #EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="cqyx",金鹰卡通
-http://php.cubs88.eu.org/cqyx.php?id=jinyingSD
+http://http://192.168.50.12:5678/cqyx.php?id=jinyingSD
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="cqyx",三沙卫视
-http://php.cubs88.eu.org/cqyx.php?id=sanshaSD
+http://http://192.168.50.12:5678/cqyx.php?id=sanshaSD
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="cqyx",青海卫视
-http://php.cubs88.eu.org/cqyx.php?id=qinghaiSD
+http://http://192.168.50.12:5678/cqyx.php?id=qinghaiSD
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="cqyx",中国天气
-http://php.cubs88.eu.org/cqyx.php?id=tianqiSD
+http://http://192.168.50.12:5678/cqyx.php?id=tianqiSD
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="cqyx",北京纪实科教
-http://php.cubs88.eu.org/cqyx.php?id=bjayjsSD
+http://http://192.168.50.12:5678/cqyx.php?id=bjayjsSD
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="cqyx",山东教育卫视
-http://php.cubs88.eu.org/cqyx.php?id=sdjiaoyuSD
+http://http://192.168.50.12:5678/cqyx.php?id=sdjiaoyuSD
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="cqyx",新疆卫视
-http://php.cubs88.eu.org/cqyx.php?id=xinjiangSD
+http://http://192.168.50.12:5678/cqyx.php?id=xinjiangSD
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="cqyx",西藏卫视
-http://php.cubs88.eu.org/cqyx.php?id=xizangSD
+http://http://192.168.50.12:5678/cqyx.php?id=xizangSD
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="cqyx",CGTN
-http://php.cubs88.eu.org/cqyx.php?id=cgtnSD
+http://http://192.168.50.12:5678/cqyx.php?id=cgtnSD
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="cqyx",CETV-1
-http://php.cubs88.eu.org/cqyx.php?id=cetv-1SD
+http://http://192.168.50.12:5678/cqyx.php?id=cetv-1SD
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="cqyx",CETV-4
-http://php.cubs88.eu.org/cqyx.php?id=cetv-4SD
+http://http://192.168.50.12:5678/cqyx.php?id=cetv-4SD
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="cqyx",生活时尚
-http://php.cubs88.eu.org/cqyx.php?id=shenghuo
+http://http://192.168.50.12:5678/cqyx.php?id=shenghuo
 #EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png" group-title="cqyx",百姓健康
-http://php.cubs88.eu.org/cqyx.php?id=jiankangSD
+http://http://192.168.50.12:5678/cqyx.php?id=jiankangSD
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="cqyx",快乐垂钓
-http://php.cubs88.eu.org/cqyx.php?id=klcdHD
+http://http://192.168.50.12:5678/cqyx.php?id=klcdHD
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="cqyx",第一剧场
-http://php.cubs88.eu.org/cqyx.php?id=diyijuchangHD
+http://http://192.168.50.12:5678/cqyx.php?id=diyijuchangHD
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="cqyx",都市剧场
-http://php.cubs88.eu.org/cqyx.php?id=dsjcHD
+http://http://192.168.50.12:5678/cqyx.php?id=dsjcHD
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="cqyx",动漫秀场
-http://php.cubs88.eu.org/cqyx.php?id=dmxcHD
+http://http://192.168.50.12:5678/cqyx.php?id=dmxcHD
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="cqyx",魅力足球
-http://php.cubs88.eu.org/cqyx.php?id=mlzqHD
+http://http://192.168.50.12:5678/cqyx.php?id=mlzqHD
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="cqyx",风云剧场
-http://php.cubs88.eu.org/cqyx.php?id=fyjcHD
+http://http://192.168.50.12:5678/cqyx.php?id=fyjcHD
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="cqyx",求索纪录
-http://php.cubs88.eu.org/cqyx.php?id=qsjlHD
+http://http://192.168.50.12:5678/cqyx.php?id=qsjlHD
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="cqyx",兵器科技
-http://php.cubs88.eu.org/cqyx.php?id=bqkjHD
+http://http://192.168.50.12:5678/cqyx.php?id=bqkjHD
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="cqyx",游戏风云
-http://php.cubs88.eu.org/cqyx.php?id=yxfyHD
+http://http://192.168.50.12:5678/cqyx.php?id=yxfyHD
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="cqyx",怀旧剧场
-http://php.cubs88.eu.org/cqyx.php?id=hjjcHD
+http://http://192.168.50.12:5678/cqyx.php?id=hjjcHD
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="cqyx",风云音乐
-http://php.cubs88.eu.org/cqyx.php?id=fyyyHD
+http://http://192.168.50.12:5678/cqyx.php?id=fyyyHD
 #EXTINF:-1 tvg-id="cqyx台球" tvg-name="cqyx台球" tvg-logo="https://live.fanmingming.com/tv/cqyx台球.png" group-title="cqyx",cqyx台球
-http://php.cubs88.eu.org/cqyx.php?id=ystqHD
+http://http://192.168.50.12:5678/cqyx.php?id=ystqHD
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="cqyx",风云足球
-http://php.cubs88.eu.org/cqyx.php?id=fyzqHD
+http://http://192.168.50.12:5678/cqyx.php?id=fyzqHD
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="cqyx",cqyx文化精品
-http://php.cubs88.eu.org/cqyx.php?id=yswhHD
+http://http://192.168.50.12:5678/cqyx.php?id=yswhHD
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="cqyx",高尔夫网球
-http://php.cubs88.eu.org/cqyx.php?id=golfHD
+http://http://192.168.50.12:5678/cqyx.php?id=golfHD
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="cqyx",早期教育
-http://php.cubs88.eu.org/cqyx.php?id=zaojiaoHD
+http://http://192.168.50.12:5678/cqyx.php?id=zaojiaoHD
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="cqyx",东方财经
-http://php.cubs88.eu.org/cqyx.php?id=dfcj
+http://http://192.168.50.12:5678/cqyx.php?id=dfcj
 #EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="cqyx",证券服务
-http://php.cubs88.eu.org/cqyx.php?id=jiazheng
+http://http://192.168.50.12:5678/cqyx.php?id=jiazheng
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="cqyx",书画
-http://php.cubs88.eu.org/cqyx.php?id=shuhua
+http://http://192.168.50.12:5678/cqyx.php?id=shuhua
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="cqyx",新动漫
-http://php.cubs88.eu.org/cqyx.php?id=dongman
+http://http://192.168.50.12:5678/cqyx.php?id=dongman
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="cqyx",国学频道
-http://php.cubs88.eu.org/cqyx.php?id=guoxue
+http://http://192.168.50.12:5678/cqyx.php?id=guoxue
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png" group-title="cqyx",优优宝贝
-http://php.cubs88.eu.org/cqyx.php?id=youxi
+http://http://192.168.50.12:5678/cqyx.php?id=youxi
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="cqyx",中华特产
-http://php.cubs88.eu.org/cqyx.php?id=techan
+http://http://192.168.50.12:5678/cqyx.php?id=techan
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="cqyx",环球奇观
-http://php.cubs88.eu.org/cqyx.php?id=car
+http://http://192.168.50.12:5678/cqyx.php?id=car
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://live.fanmingming.com/tv/生态环境.png" group-title="cqyx",生态环境
-http://php.cubs88.eu.org/cqyx.php?id=shengtai
+http://http://192.168.50.12:5678/cqyx.php?id=shengtai
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png" group-title="cqyx",四海钓鱼
-http://php.cubs88.eu.org/cqyx.php?id=diaoyu
+http://http://192.168.50.12:5678/cqyx.php?id=diaoyu
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="cqyx",发现之旅
-http://php.cubs88.eu.org/cqyx.php?id=faxian
+http://http://192.168.50.12:5678/cqyx.php?id=faxian
 #EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="https://live.fanmingming.com/tv/车迷.png" group-title="cqyx",车迷
-http://php.cubs88.eu.org/cqyx.php?id=doxtv
+http://http://192.168.50.12:5678/cqyx.php?id=doxtv
 #EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://live.fanmingming.com/tv/SITV法治天地.png" group-title="cqyx",法治天地
-http://php.cubs88.eu.org/cqyx.php?id=fazhi
+http://http://192.168.50.12:5678/cqyx.php?id=fazhi
 #EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://live.fanmingming.com/tv/SITV金色学堂.png" group-title="cqyx",金色学堂
-http://php.cubs88.eu.org/cqyx.php?id=jinse
+http://http://192.168.50.12:5678/cqyx.php?id=jinse
 #EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://live.fanmingming.com/tv/收藏天下.png" group-title="cqyx",收藏天下
-http://php.cubs88.eu.org/cqyx.php?id=soucang
+http://http://192.168.50.12:5678/cqyx.php?id=soucang
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="cqyx",财富天下
-http://php.cubs88.eu.org/cqyx.php?id=caifu
+http://http://192.168.50.12:5678/cqyx.php?id=caifu
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="cqyx",女性时尚
-http://php.cubs88.eu.org/cqyx.php?id=nvxing
+http://http://192.168.50.12:5678/cqyx.php?id=nvxing
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="cqyx",中学生
-http://php.cubs88.eu.org/cqyx.php?id=qicai
+http://http://192.168.50.12:5678/cqyx.php?id=qicai
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="cqyx",天元围棋
-http://php.cubs88.eu.org/cqyx.php?id=weiqi
+http://http://192.168.50.12:5678/cqyx.php?id=weiqi
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="cqyx",先锋乒羽
-http://php.cubs88.eu.org/cqyx.php?id=xianfeng
+http://http://192.168.50.12:5678/cqyx.php?id=xianfeng
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="cqyx",环球旅游
-http://php.cubs88.eu.org/cqyx.php?id=huanqiulvyou
+http://http://192.168.50.12:5678/cqyx.php?id=huanqiulvyou
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="cqyx",老故事
-http://php.cubs88.eu.org/cqyx.php?id=gushi
+http://http://192.168.50.12:5678/cqyx.php?id=gushi
 #EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.fanmingming.com/tv/摄影.png" group-title="cqyx",摄影频道
-http://php.cubs88.eu.org/cqyx.php?id=sheying
+http://http://192.168.50.12:5678/cqyx.php?id=sheying
 #EXTINF:-1 tvg-id="靓妆" tvg-name="靓妆" tvg-logo="https://live.fanmingming.com/tv/靓妆.png" group-title="cqyx",靓妆
-http://php.cubs88.eu.org/cqyx.php?id=liang
+http://http://192.168.50.12:5678/cqyx.php?id=liang
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="cqyx",CCTV4K
-http://php.cubs88.eu.org/cqyx.php?id=CCTV4K
+http://http://192.168.50.12:5678/cqyx.php?id=CCTV4K
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="cqyx",欢笑剧场4K
-http://php.cubs88.eu.org/cqyx.php?id=hxjc_4K
+http://http://192.168.50.12:5678/cqyx.php?id=hxjc_4K
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="cqyx",CCTV16奥林匹克4K
-http://php.cubs88.eu.org/cqyx.php?id=CCTV16_4K
+http://http://192.168.50.12:5678/cqyx.php?id=CCTV16_4K
 
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 https://live.goodiptv.club/api/itouch.php?id=1183
@@ -1186,43 +1186,43 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天新闻
-http://you.cubs88.eu.org/youtube/oIgbl7t0S_w
+http://http://192.168.50.12:35455/youtube/oIgbl7t0S_w
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",民视新闻
-http://you.cubs88.eu.org/youtube/ylYJSBUgaMA
+http://http://192.168.50.12:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",TVBS NEWS
-http://you.cubs88.eu.org/youtube/K4LKBebN5ew
+http://http://192.168.50.12:35455/youtube/K4LKBebN5ew
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="YouTube直播",台视新闻
-http://you.cubs88.eu.org/youtube/xL0ch83RAK8
+http://http://192.168.50.12:35455/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立LIVE新闻
-http://you.cubs88.eu.org/youtube/ndbOHU6RAOw
+http://http://192.168.50.12:35455/youtube/ndbOHU6RAOw
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="YouTube直播",东森财经
-http://you.cubs88.eu.org/youtube/WHEPzbFA3hw
+http://http://192.168.50.12:35455/youtube/WHEPzbFA3hw
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="YouTube直播",寰宇新闻
-http://you.cubs88.eu.org/youtube/B7Zp3d6xXWw
+http://http://192.168.50.12:35455/youtube/B7Zp3d6xXWw
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="YouTube直播",三立 iNEWS
-http://you.cubs88.eu.org/youtube/CKjSm5ZeehE
+http://http://192.168.50.12:35455/youtube/CKjSm5ZeehE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",镜新闻
-http://you.cubs88.eu.org/youtube/5n0y6b0Q25o
+http://http://192.168.50.12:35455/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视新闻
-http://you.cubs88.eu.org/youtube/wM0g8EoUZ_E
+http://http://192.168.50.12:35455/youtube/wM0g8EoUZ_E
 #EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="YouTube直播",公视
-http://you.cubs88.eu.org/youtube/4Uc00FPs27M
+http://http://192.168.50.12:35455/youtube/4Uc00FPs27M
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="YouTube直播",中视
-http://you.cubs88.eu.org/youtube/ADDSmXoPDY8
+http://http://192.168.50.12:35455/youtube/ADDSmXoPDY8
 #EXTINF:-1 tvg-id="565" tvg-name="公视2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="YouTube直播",公视台语台
-http://you.cubs88.eu.org/youtube/6KlRR_DGhmI
+http://http://192.168.50.12:35455/youtube/6KlRR_DGhmI
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
-http://you.cubs88.eu.org/youtube/uDqQo8a7Xmk
+http://http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立華劇
-http://you.cubs88.eu.org/youtube/HbT8JZ3-Vzg
+http://http://192.168.50.12:35455/youtube/HbT8JZ3-Vzg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
-http://you.cubs88.eu.org/youtube/_MOhQbKegXs
+http://http://192.168.50.12:35455/youtube/_MOhQbKegXs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://you.cubs88.eu.org/youtube/KgMhHfMG0p8
+http://http://192.168.50.12:35455/youtube/KgMhHfMG0p8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",亲亲2o音乐LîvË【中文音乐】
-http://you.cubs88.eu.org/youtube/wrYF0HX7Kzc
+http://http://192.168.50.12:35455/youtube/wrYF0HX7Kzc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",幸福Plus
-http://you.cubs88.eu.org/youtube/_jbDwrcm0Xw
+http://http://192.168.50.12:35455/youtube/_jbDwrcm0Xw
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",中文音乐
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
