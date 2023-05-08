@@ -1217,8 +1217,10 @@ http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
 http://192.168.50.12:35455/youtube/HbT8JZ3-Vzg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
 http://192.168.50.12:35455/youtube/_MOhQbKegXs
+#EXTINF:-1,tvg-id="東森综合" tvg-name="東森综合" tvg-logo="https://epg.112114.xyz/logo/東森综合.png" group-title="YouTube直播",東森综合
+http://192.168.50.12:35455/youtube/OQdX93g8Wos
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:35455/youtube/KgMhHfMG0p8
+http://192.168.50.12:35455/youtube/MBtAgrxYYU0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",亲亲2o音乐LîvË【中文音乐】
 http://192.168.50.12:35455/youtube/wrYF0HX7Kzc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",幸福Plus
