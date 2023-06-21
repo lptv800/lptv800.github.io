@@ -295,86 +295,46 @@ http://192.168.50.12:5678/cqyx.php?id=hxjc_4K
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="cqyx",CCTV16奥林匹克4K
 http://192.168.50.12:5678/cqyx.php?id=CCTV16_4K
 
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://sc2022.stream-link.org/list.php?id=h002
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="港澳台",無綫新聞台
-http://sc2022.stream-link.org/list.php?id=h004
-#EXTINF:-1 group-title="港澳台",無綫財經·體育·資訊台
-http://sc2022.stream-link.org/list.php?id=h005
-#EXTINF:-1 group-title="港澳台",港台电视31
-http://sc2022.stream-link.org/list.php?id=h006
-#EXTINF:-1 group-title="港澳台",港台电视32
-http://sc2022.stream-link.org/list.php?id=h007
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="港澳台",無綫新聞台
-http://sc2022.stream-link.org/list.php?id=h008
-#EXTINF:-1 group-title="港澳台",無綫財經·體育·資訊台
-http://sc2022.stream-link.org/list.php?id=h009
-#EXTINF:-1 group-title="港澳台",香港開電視
-http://sc2022.stream-link.org/list.php?id=h010
-#EXTINF:-1 group-title="港澳台",香港國際財經台
-http://sc2022.stream-link.org/list.php?id=h011
-#EXTINF:-1 group-title="港澳台",香港開電視資訊台
-http://sc2022.stream-link.org/list.php?id=h012
-#EXTINF:-1 group-title="港澳台",鳳凰衛視資訊台
-http://sc2022.stream-link.org/list.php?id=h013
-#EXTINF:-1 group-title="港澳台",鳳凰衛視中文台
-http://sc2022.stream-link.org/list.php?id=h014
-#EXTINF:-1 group-title="港澳台",鳳凰衛視香港台
-http://sc2022.stream-link.org/list.php?id=h015
-#EXTINF:-1 group-title="港澳台",澳門蓮花衛視
-http://sc2022.stream-link.org/list.php?id=h016
-#EXTINF:-1 group-title="港澳台",東森新聞
-http://sc2022.stream-link.org/list.php?id=t001
-#EXTINF:-1 group-title="港澳台",東森財經新聞
-http://sc2022.stream-link.org/list.php?id=t002
-#EXTINF:-1 group-title="港澳台",中天新聞
-http://sc2022.stream-link.org/list.php?id=t003
-#EXTINF:-1 group-title="港澳台",華視新聞
-http://sc2022.stream-link.org/list.php?id=t004
-#EXTINF:-1 group-title="港澳台",中視新聞
-http://sc2022.stream-link.org/list.php?id=t005
-#EXTINF:-1 group-title="港澳台",民視新聞
-http://sc2022.stream-link.org/list.php?id=t006
-#EXTINF:-1 group-title="港澳台",寰宇國際新聞
-http://sc2022.stream-link.org/list.php?id=t007
-#EXTINF:-1 group-title="港澳台",寰宇台灣新聞
-http://sc2022.stream-link.org/list.php?id=t008
-#EXTINF:-1 group-title="港澳台",三立財經新聞
-http://sc2022.stream-link.org/list.php?id=t009
-#EXTINF:-1 group-title="港澳台",三立新聞
-http://sc2022.stream-link.org/list.php?id=t010
-#EXTINF:-1 group-title="港澳台",三立新聞+
-http://sc2022.stream-link.org/list.php?id=t011
-#EXTINF:-1 group-title="港澳台",台視新聞
-http://sc2022.stream-link.org/list.php?id=t012
-#EXTINF:-1 group-title="港澳台",TVBS新聞
-http://sc2022.stream-link.org/list.php?id=t013
-#EXTINF:-1 group-title="港澳台",TVBS財經
-http://sc2022.stream-link.org/list.php?id=t014
-#EXTINF:-1 group-title="港澳台",中天亞洲台
-http://sc2022.stream-link.org/list.php?id=t015
-#EXTINF:-1 group-title="港澳台",TVBS亞洲台
-http://sc2022.stream-link.org/list.php?id=t016
-#EXTINF:-1 group-title="港澳台",民視HD
-http://sc2022.stream-link.org/list.php?id=t017
-#EXTINF:-1 group-title="港澳台",民視第一台
-http://sc2022.stream-link.org/list.php?id=t018
-#EXTINF:-1 group-title="港澳台",民視台灣台
-http://sc2022.stream-link.org/list.php?id=t019
-#EXTINF:-1 group-title="港澳台",民視綜藝台
-http://sc2022.stream-link.org/list.php?id=t020
-#EXTINF:-1 group-title="港澳台",民視影劇台
-http://sc2022.stream-link.org/list.php?id=t021
-#EXTINF:-1 group-title="港澳台",民視旅遊台
-http://sc2022.stream-link.org/list.php?id=t022
-#EXTINF:-1 group-title="港澳台",三立台灣
-http://sc2022.stream-link.org/list.php?id=t023
-#EXTINF:-1 group-title="港澳台",三立都會
-http://sc2022.stream-link.org/list.php?id=t024
-#EXTINF:-1 group-title="港澳台",天才衝衝衝
-http://sc2022.stream-link.org/list.php?id=t025
-#EXTINF:-1 group-title="港澳台",東森yoyo
-http://sc2022.stream-link.org/list.php?id=t026
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="香港",无线新闻台
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+#EXTINF:-1 group-title="香港",无线新闻台1
+http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
+#EXTINF:-1 group-title="香港",无线新闻台2
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+#EXTINF:-1 group-title="香港",华丽台
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="香港",TVB1
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
+#EXTINF:-1 group-title="香港",TVB1
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+#EXTINF:-1 group-title="香港",TVB1
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153396&extension=ts&play_token=qd42npLkoB
+#EXTINF:-1 group-title="香港",TVB
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153400&extension=ts&play_token=l1PpLPHRTQ
+#EXTINF:-1 group-title="香港",TVBe
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
+#EXTINF:-1 group-title="香港",TVB
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153400&extension=ts&play_token=l1PpLPHRTQ
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
+http://bziyunshao.synology.me:8889/bysid/1
+#EXTINF:-1 group-title="香港",ViuTVsix
+http://bziyunshao.synology.me:8889/bysid/96
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/99.png" group-title="香港",ViuTV
+http://bziyunshao.synology.me:8889/bysid/99
+#EXTINF:-1 group-title="香港",明珠台
+http://bziyunshao.synology.me:8890/bysid/2
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hklive.tv/png_logo/82.png" group-title="香港",J2台
+http://bziyunshao.synology.me:8890/bysid/82
+#EXTINF:-1 group-title="香港",無綫新聞台
+http://bziyunshao.synology.me:8890/bysid/83
+#EXTINF:-1 group-title="香港",無綫財經 體育 資訊台
+http://bziyunshao.synology.me:8890/bysid/85
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png" group-title="香港",明珠台
+http://107.151.203.111:2209/135/hk.php?id=tvbmzt
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
+http://107.151.203.111:2209/135/hk.php?id=tvbfct
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="HW",中国电视
 http://live.cgtn.com/500/prog_index.m3u8
@@ -763,7 +723,7 @@ http://192.168.50.12:35455/youtube/_MOhQbKegXs
 #EXTINF:-1,tvg-id="東森综合" tvg-name="東森综合" tvg-logo="https://epg.112114.xyz/logo/東森综合.png" group-title="YouTube直播",東森综合
 http://192.168.50.12:35455/youtube/hlt15LHKZ2M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:35455/youtube/vmalgeK_deU
+http://192.168.50.12:35455/youtube/X6UyIAIdy08
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",亲亲2o音乐LîvË【中文音乐】
 http://192.168.50.12:35455/youtube/IfNMuFqKBWs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",幸福Plus
