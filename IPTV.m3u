@@ -52,6 +52,37 @@ http://192.168.50.12:5678/tide.php?id=szdsj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江门",都市频道
 http://192.168.50.12:5678/tide.php?id=szds
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东卫视
+http://192.168.50.12:5678/gdtv.php?id=gdws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东珠江
+http://192.168.50.12:5678/gdtv.php?id=gdzj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东新闻
+http://192.168.50.12:5678/gdtv.php?id=gdxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东民生
+http://192.168.50.12:5678/gdtv.php?id=gdms
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东体育
+http://192.168.50.12:5678/gdtv.php?id=gdty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",大湾区卫视
+http://192.168.50.12:5678/gdtv.php?id=nfws
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东影视
+http://192.168.50.12:5678/gdtv.php?id=gdys
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东综艺
+http://192.168.50.12:5678/gdtv.php?id=gdzy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东国际
+http://192.168.50.12:5678/gdtv.php?id=gdgj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东房产
+http://192.168.50.12:5678/gdtv.php?id=gdfc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东移动
+http://192.168.50.12:5678/gdtv.php?id=gdyd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",GRTN健康频道
+http://192.168.50.12:5678/gdtv.php?id=gdjk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",GRTN文化频道
+http://192.168.50.12:5678/gdtv.php?id=gdwh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",GRTN生活频道
+http://192.168.50.12:5678/gdtv.php?id=gdsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",荔枝台
+http://192.168.50.12:5678/gdtv.php?id=gdlzt
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="cqyx",CCTV1综合
 http://192.168.50.12:5678/cqyx.php?id=cctv1HD
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="cqyx",CCTV2财经
