@@ -440,10 +440,12 @@ http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
 http://192.168.50.12:35455/youtube/PvJXQY3ozCQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
 http://192.168.50.12:35455/youtube/gXl9nCj4ue4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天亞洲台
+http://192.168.50.12:35455/youtube/s2waUruqze4
 #EXTINF:-1,tvg-id="東森综合" tvg-name="東森综合" tvg-logo="https://epg.112114.xyz/logo/東森综合.png" group-title="YouTube直播",東森综合
 http://192.168.50.12:35455/youtube/KAM3M9eAL8M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
-http://192.168.50.12:35455/youtube/SUYso4CguO0
+http://192.168.50.12:35455/youtube/zMcpCn2RD88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",亲亲2o音乐LîvË【中文音乐】
 http://192.168.50.12:35455/youtube/IfNMuFqKBWs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",幸福Plus
