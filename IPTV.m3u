@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml  url-tvg="https://epg.hklive.tv"  url-tvg="https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"  url-tvg="https://epg.hklive.tv"  url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="TVB新聞",無線新聞台1080P
 http://192.168.50.12:5678/TVB.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="TVB新聞",無線財經·體育·資訊台1080P
