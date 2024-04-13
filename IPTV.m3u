@@ -291,7 +291,9 @@ http://192.168.50.12:35455/youtube/s2waUruqze4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
 http://192.168.50.12:35455/youtube/mByu4ugEG8M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",抖音歌曲
-http://192.168.50.12:35455/youtube/AyCNvHFJhtg
+http://192.168.50.12:35455/youtube/XMMsMzMxoXA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",英文歌曲
+http://192.168.50.12:35455/youtube/L_a3fATxzIY
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",中文音乐
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
