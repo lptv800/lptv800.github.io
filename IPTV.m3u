@@ -670,7 +670,7 @@ http://192.168.50.12:5000/4gtv/293
 #EXTINF:-1 tvg-id="33" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-4gtv074_pc.png" group-title="新聞財經",中視新聞
 http://192.168.50.12:5000/4gtv/33
 #EXTINF:-1 tvg-id="30" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-4gtv009_pc.png" group-title="新聞財經",中天新聞台
-http://192.168.50.12:5000/4gtv/30
+http://192.168.50.12:5000/4gtv/260
 #EXTINF:-1 tvg-id="283" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live0_pc.png" group-title="新聞財經",BloombergTV
 http://192.168.50.12:5000/4gtv/283
 #EXTINF:-1 tvg-id="36" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_litv-longturn14_pc.png" group-title="新聞財經",寰宇新聞台
