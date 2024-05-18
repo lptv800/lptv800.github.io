@@ -359,10 +359,8 @@ GTV八大电视,http://192.168.50.12:35455/youtube/_MOhQbKegXs
 亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:35455/youtube/IfNMuFqKBWs
 
 AV源_1111,#genre#
- 💖奥視1,http://125.227.210.55:20845/VideoInput/play.ts
-🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
-🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
-🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
+驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts 
+香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
 
 
 
