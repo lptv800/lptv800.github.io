@@ -500,17 +500,17 @@ http://192.168.50.1:9999/rtp/239.77.0.201:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DX江门",江门侨乡生活(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.202:5146
 
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-1(1920x1080)
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.241:5146
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-1(1920x1080)
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.1.17:5146
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-1(1920x1080)
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.1.144:5146
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-1(1920x1080)
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.86:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1超清(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.129:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-2(1920x1080)
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.1.158:5146
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV -2财经(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.137:5146
@@ -526,7 +526,7 @@ http://192.168.50.1:9999/rtp/239.77.0.78:5146
 http://192.168.50.1:9999/rtp/239.253.43.121:5146
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4欧洲(1920x1080)
 http://192.168.50.1:9999/rtp/239.253.43.120:5146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-5(1920x1080)
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.87:5146
@@ -905,7 +905,7 @@ http://192.168.50.12:35455/youtube/cLMEH5lUZYA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",抖音歌曲
 http://192.168.50.12:35455/youtube/lFuALQXZPIc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",英文歌曲
-http://192.168.50.12:35455/youtube/L_a3fATxzIY
+http://192.168.50.12:35455/youtube/Jh2S9m5HXQw
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广播电台",中文音乐
 https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
