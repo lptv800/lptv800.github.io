@@ -52,8 +52,6 @@ http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de
 http://192.168.50.12:3000/stream/my/superfree/master.m3u8?u=cubs&p=74a8d739fda46dcacb57fe8d789e0c7133cf2a90fd49a5f1fe6c3f7f9e070c76
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="港台",黄金翡翠台
 http://192.168.50.12:3000/stream/my/null-5/master.m3u8?u=cubs&p=74a8d739fda46dcacb57fe8d789e0c7133cf2a90fd49a5f1fe6c3f7f9e070c76
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="港台",美亞電影台
-http://192.168.50.12:3000/stream/my/null-4/master.m3u8?u=cubs&p=74a8d739fda46dcacb57fe8d789e0c7133cf2a90fd49a5f1fe6c3f7f9e070c76
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="港台",娱乐新闻台
 http://192.168.50.12:3000/stream/my/null-3/master.m3u8?u=cubs&p=74a8d739fda46dcacb57fe8d789e0c7133cf2a90fd49a5f1fe6c3f7f9e070c76
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="港台",明珠台
