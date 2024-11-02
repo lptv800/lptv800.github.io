@@ -361,7 +361,10 @@ GTV八大电视,http://192.168.50.12:35455/youtube/_MOhQbKegXs
 AV源_1111,#genre#
 驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts 
 香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-
+松视1台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476365.ts
+松视1台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639652.ts
+松视2台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639653.ts
+潘多拉完美台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639649.ts
 
 
 
