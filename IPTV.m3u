@@ -64,9 +64,9 @@ http://192.168.50.12:3000/stream/tvb/null/master.m3u8?u=cubs&p=2be21ab3862fd0611
 http://192.168.50.12:3000/stream/tvb/4k/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://img.sky4k.top/TVB_Plus_CheerVisionTV.png" group-title="港台",TVB Plus
 http://192.168.50.12:3000/stream/tvb/tvbplus/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://info.hkanimal.com/png_logo/99.png" group-title="港台",viutv
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="港台",viutv
 http://192.168.50.12:3000/stream/tvb/viutv99/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://info.hkanimal.com/png_logo/96.png" group-title="港台",viutvsix
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="港台",viutvsix
 http://192.168.50.12:3000/stream/tvb/viutvsix/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 
 
