@@ -25,25 +25,25 @@ https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b5344816
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://info.hkanimal.com/png_logo/82.png" group-title="港台",TVB Plus
 http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="港台",myTV Super Free
-http://192.168.50.12:3000/stream/tvb/mytvsuperfree/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/mytvsuperfree/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="港台",黄金翡翠台
-http://192.168.50.12:3000/stream/tvb/null-3/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/null-4/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="港台",娱乐新闻台
-http://192.168.50.12:3000/stream/tvb/null-4/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/null/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="港台",明珠台
-http://192.168.50.12:3000/stream/tvb/null-2/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/null-1/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="港台",無線新聞台
-http://192.168.50.12:3000/stream/tvb/null-1/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/null-2/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="港台",翡翠台
-http://192.168.50.12:3000/stream/tvb/null/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/null-3/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="港台",翡翠台 4K
-http://192.168.50.12:3000/stream/tvb/4k/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/4k/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://img.sky4k.top/TVB_Plus_CheerVisionTV.png" group-title="港台",TVB Plus
-http://192.168.50.12:3000/stream/tvb/tvbplus/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/tvbplus/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="港台",viutv
-http://192.168.50.12:3000/stream/tvb/viutv99/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="港台",viutvsix
-http://192.168.50.12:3000/stream/tvb/viutvsix/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+http://192.168.50.12:18000/stream/tvb/viutv/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="港台",viu6
+http://192.168.50.12:18000/stream/tvb/viu6/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="DX卫视",广东卫视(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.1.19:5146
