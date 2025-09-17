@@ -465,7 +465,7 @@ http://192.168.50.1:9999/rtp/239.77.0.174:5146
 http://192.168.50.1:9999/rtp/239.77.1.180:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天新闻
-http://192.168.50.12:35455/youtube/Kra5g6fJj2s
+http://192.168.50.12:35455/youtube/vr3XyVCR4T0
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="YouTube直播",民视新闻
 http://192.168.50.12:35455/youtube/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",TVBS NEWS
@@ -493,15 +493,15 @@ http://192.168.50.12:35455/youtube/6KlRR_DGhmI
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="YouTube直播",台视
 http://192.168.50.12:35455/youtube/uDqQo8a7Xmk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",三立華劇
-http://192.168.50.12:35455/youtube/T-OwN2ZhMw0
+http://192.168.50.12:35455/youtube/nSqd6CYF4uo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",GTV八大电视
-http://192.168.50.12:35455/youtube/3elck_jxWQg
+http://192.168.50.12:35455/youtube/H4X-DA9BMR0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",中天亞洲台
 http://192.168.50.12:35455/youtube/dKkyfjn8xq8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",华视综艺
 http://192.168.50.12:35455/youtube/QUcOMgw4srY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",抖音歌曲
-http://192.168.50.12:35455/youtube/SfLhzt6NHHs
+http://192.168.50.12:35455/youtube/AJTo2WuFc28
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="YouTube直播",英文歌曲
 http://192.168.50.12:35455/youtube/36YnV9STBqc
 
