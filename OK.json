@@ -1,0 +1,22 @@
+{
+  "lives": [
+    {
+      "name": "自己源",
+      "type": 0,
+      "url": "https://lptv800.github.io/IPTV.m3u",
+      "epg": "https://epg.112114.xyz/pp.xml"
+    },
+    {
+      "name": "自己mytv",
+      "type": 0,
+      "url": "http://192.168.50.12:5000/mytvsuper.m3u",
+      "epg": "https://mytvsuperepg.860775.xyz/epg.xml"
+    },
+    {
+      "name": "自己台湾",
+      "type": 0,
+      "url": "http://192.168.50.12:5001/?type=m3u",
+      "epg": "https://epg.112114.xyz/pp.xml"
+    }
+  ]
+}
