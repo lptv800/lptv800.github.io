@@ -1,19 +1,4 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml" url-tvg="https://epg.112114.xyz/pp.xml" url-tvg="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 group-title="HW",东森超视34.5
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="HW",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="HW",大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="HW",大爱2台
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="HW",民视新闻 HD
-http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 group-title="HW",台视新闻 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="HW",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-
 #EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://info.hkanimal.com/png_logo/76.png" group-title="港台",HOY國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://info.hkanimal.com/png_logo/77.png" group-title="港台",HOY77
@@ -40,6 +25,37 @@ http://192.168.50.12:18000/stream/tvb/tvbplus/master.m3u8?u=cubs&p=2be21ab3862fd
 http://192.168.50.12:18000/stream/tvb/viutv/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="港台",viu6
 http://192.168.50.12:18000/stream/tvb/viu6/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HK",翡翠台4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HK",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="HK",华丽翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="HK",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="HK",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="HK",TVB Plus
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="HK",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="HK",TVB娱乐新闻台
+http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="HK",ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="HK",ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="HK",RTHK31
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="HK",RTHK32
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HK",千禧经典台
+http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="HK",美亚电影台
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1,tvg-id="天映" tvg-name="天映" tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="HK",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
 
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="DX卫视",广东卫视(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.1.19:5146
