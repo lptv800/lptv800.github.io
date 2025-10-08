@@ -1,14 +1,10 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml" url-tvg="https://epg.112114.xyz/pp.xml" url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml" url-tvg="https://epg.112114.xyz/pp.xml" url-tvg="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://info.hkanimal.com/png_logo/76.png" group-title="港台",HOY國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://info.hkanimal.com/png_logo/77.png" group-title="港台",HOY77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://info.hkanimal.com/png_logo/78.png"  group-title="港台",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://info.hkanimal.com/png_logo/82.png" group-title="港台",TVB Plus
-https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://info.hkanimal.com/png_logo/82.png" group-title="港台",TVB Plus
-http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="港台",娱乐新闻台
 http://192.168.50.12:18000/stream/tvb/null-3/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="港台",明珠台
