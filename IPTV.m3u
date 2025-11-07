@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml" url-tvg="https://epg.112114.xyz/pp.xml" url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml" url-tvg="https://epg.112114.xyz/pp.xml" url-tvg="http://epg.51zmt.top:8000/e.xml"	url-tvg="https://epg.pw/xmltv/epg_CN.xml"
 #EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://info.hkanimal.com/png_logo/76.png" group-title="港台",HOY國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://info.hkanimal.com/png_logo/77.png" group-title="港台",HOY77
@@ -390,7 +390,7 @@ http://192.168.50.1:9999/rtp/239.253.43.123:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DX地方",客家生活(1920x1080)
 http://192.168.50.1:9999/rtp/239.253.43.124:5146
 
-#EXTINF:-1 tvg-id="%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88.png" tvg-url="https://epg.112114.xyz/pp.xml" group-title="DX江门",江门综合(1920x1080)
+#EXTINF:-1 tvg-id="%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88.png" tvg-url="https://epg.pw/xmltv/epg_CN.xml" group-title="DX江门",江门综合(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.201:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DX江门",江门侨乡生活(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.202:5146
