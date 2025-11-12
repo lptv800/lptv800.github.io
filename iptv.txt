@@ -359,17 +359,15 @@ GTV八大电视,http://192.168.50.12:35455/youtube/_MOhQbKegXs
 亲亲2o音乐LîvË【中文音乐】,http://192.168.50.12:35455/youtube/IfNMuFqKBWs
 
 AV源_1111,#genre#
-松视1台,tvbus://3WzoMbKsESyBZR38tDowzx5j4NbwDziHnuvd8w1Re8xkH9KLrK
-松视2台,tvbus://3NLGmvBDXp7AooZT5PVKc8m9SGYJjfQVjgFhLWzV5HXsm5aK4g
-松视3台,tvbus://3U9EuWUtY6myassvoXCqMkL6Rz7XbeTZurios6636VawhWSCj7
-彩虹E台,tvbus://3DpPBN5kxjkRGhVtEYiv7RJxV8ixfzYUMyv2p6YNS9HaSRFWWV
-K频道,tvbus://44AzJJhEH8LKS1uGyBtC63nuUuEJxkCLJANC1K1oZ8g5vZWHZw
-彩虹电影,tvbus://4EgwFhFaG7hWTtVbKTjnHTWfnCptD8PZJ9b1zjEeCDfJJ1NpGq
-潘多拉完美台,tvbus://4ZmpzPgo51hGX6P2ydnzKG2U6ZgtmW39xNKiedoagAPHvTd4xk
-惊艳电影,tvbus://4hCUFd6UzC65cvDqjRBkztGJqYUyTnANwwzctNmrpS154y4RUs
-香蕉台,tvbus://3ATbgQaRFkxPPSSuMRqVccoFKEo41wU5xT55yRSH6NiTNhwyux
-Happy,tvbus://38Fd7AsWEokD7vTARmyW2Wg1BueYcjeK5wn8FV5hB97yZYfXLC
-OursHD1,tvbus://4dnGkST19jZAMY39NXn7MAKhaJaifwSwyJDhHb8nGGbRiUj1at
+松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+惊艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵啦,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+精艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+完美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 
 
 
