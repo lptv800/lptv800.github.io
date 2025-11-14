@@ -63,10 +63,6 @@ http://192.168.50.1:9999/rtp/239.77.0.133:5146
 http://192.168.50.1:9999/rtp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.0.165:5146
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16(1920x1080)
-http://192.168.50.1:9999/rtp/239.77.1.76:5146
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K(3840x2160)
-http://192.168.50.1:9999/rtp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17(1920x1080)
 http://192.168.50.1:9999/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业(1920x1080)
