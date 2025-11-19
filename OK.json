@@ -17,12 +17,6 @@
       "type": 0,
       "url": "http://192.168.50.12:5001/?type=m3u",
       "epg": "https://epg.112114.xyz/pp.xml"
-    },
-    {
-      "name": "judy源",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u",
-      "epg": "https://epg.iill.top/epg.xml"
     }
   ]
 }
