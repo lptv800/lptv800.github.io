@@ -74,7 +74,7 @@ http://192.168.50.1:9999/rtp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K(3840x2160)
 http://192.168.50.1:9999/rtp/239.77.1.180:5146
 
-#EXTINF:-1 tvg-id="%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88.png" tvg-url="https://epg.pw/xmltv/epg_CN.xml" group-title="DX江门",江门综合(1920x1080)
+#EXTINF:-1 tvg-id="%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88.png" tvg-url="https://epg.pw/xmltv/epg_CN.xml" group-title="DX江门",江门综合
 http://192.168.50.1:9999/rtp/239.77.0.201:5146
 
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
