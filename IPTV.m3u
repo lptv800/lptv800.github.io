@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml" url-tvg="https://epg.112114.xyz/pp.xml" url-tvg="http://epg.51zmt.top:8000/e.xml"	url-tvg="https://epg.pw/xmltv/epg_CN.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://192.168.50.1:9999/rtp/239.77.1.17:5146
