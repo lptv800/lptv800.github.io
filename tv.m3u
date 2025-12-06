@@ -419,7 +419,7 @@ http://192.168.50.12:5000/mytvsuper/C
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
 http://192.168.50.12:5000/mytvsuper/P
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="HK(代理)",娛樂新聞台
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="HK(代理)",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
