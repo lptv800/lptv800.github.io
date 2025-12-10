@@ -78,9 +78,9 @@ http://192.168.50.1:9999/rtp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88.png" tvg-url="https://epg.pw/xmltv/epg_CN.xml" group-title="DX江门",江门综合
 http://192.168.50.1:9999/rtp/239.77.0.201:5146
 
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港台",翡翠台
 http://192.168.50.1:9999/rtp/239.77.1.107:5146
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港台",明珠台
 http://192.168.50.1:9999/rtp/239.77.1.189:5146
 
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
