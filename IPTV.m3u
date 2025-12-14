@@ -68,11 +68,11 @@ http://192.168.50.1:9999/rtp/239.77.0.165:5146
 http://192.168.50.1:9999/rtp/239.77.1.121:5146
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业
 http://192.168.50.1:9999/rtp/239.77.0.198:5146
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K(3840x2160)
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://192.168.50.1:9999/rtp/239.77.0.194:5146
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K(3840x2160)50p
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://192.168.50.1:9999/rtp/239.77.0.174:5146
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K(3840x2160)
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://192.168.50.1:9999/rtp/239.77.1.180:5146
 
 #EXTINF:-1 tvg-id="%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88" tvg-name="江门综合" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E9%97%A8%E7%BB%BC%E5%90%88.png" tvg-url="https://epg.pw/xmltv/epg_CN.xml" group-title="DX江门",江门综合
