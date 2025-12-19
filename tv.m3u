@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
-#EXTM3U x-tvg-url="http://epg1.168.us.kg/viutv_epg.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/refs/heads/master/epg.xml"
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_CN.xml"
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/refs/heads/master/epg.xml"
+#EXTM3U x-tvg-url="http://epg1.168.us.kg/viutv_epg.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://192.168.50.1:9999/rtp/239.77.1.17:5146
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
